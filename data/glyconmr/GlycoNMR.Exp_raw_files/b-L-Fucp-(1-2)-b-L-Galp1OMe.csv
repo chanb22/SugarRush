@@ -1,0 +1,30 @@
+MHz,0,,,,,,
+Temperature,60,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker WM-250,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+B-L-GALP1OME, , H1,4.48, , , , note
+B-L-GALP1OME, , H2,3.69, , , , note
+B-L-GALP1OME, , H3,3.74, , , , note
+B-L-GALP1OME, , H4,3.99, , , , note
+B-L-GALP1OME, , H61,3.77, , , , note
+B-L-GALP1OME, , H62,3.85, , , , note
+B-L-FUCP,2, H1,4.62, , , , note
+B-L-FUCP,2, H2,3.5, , , , note
+B-L-FUCP,2, H3,3.67, , , , note
+B-L-FUCP,2, H4,3.76, , , , note
+B-L-FUCP,2, H5,3.79, , , , note
+B-L-FUCP,2, H6,1.27, , , , note
+B-L-GALP1OME, , C1,103.6, , , , note
+B-L-GALP1OME, , C2,79.4, , , , note
+B-L-GALP1OME, , C3,72.8, , , , note
+B-L-GALP1OME, , C4,69.6, , , , note
+B-L-GALP1OME, , C5,76.2, , , , note
+B-L-GALP1OME, , C6,62.2, , , , note
+B-L-GALP1OME, , OMe,58.4, , , , note
+B-L-FUCP,2, C1,104.8, , , , note
+B-L-FUCP,2, C2,72.2, , , , note
+B-L-FUCP,2, C3,74.1, , , , note
+B-L-FUCP,2, C4,72.6, , , , note
+B-L-FUCP,2, C5,72, , , , note
+B-L-FUCP,2, C6,16.6, , , , note

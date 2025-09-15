@@ -1,0 +1,30 @@
+MHz,0,,,,,,
+Temperature,30,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker DRX-500,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+RIB-OL, , H11,4.09, , , , note
+RIB-OL, , H12,3.97, , , , note
+RIB-OL, , H2,3.96, , , , note
+RIB-OL, , H3,3.81, , , , note
+RIB-OL, , H4,4.18, , , , note
+RIB-OL, , H51,4.17, , , , note
+RIB-OL, , H52,4.09, , , , note
+B-D-GLCP,4, H1,4.66, , , , note
+B-D-GLCP,4, H2,3.32, , , , note
+B-D-GLCP,4, H3,3.5, , , , note
+B-D-GLCP,4, H4,3.4, , , , note
+B-D-GLCP,4, H5,3.43, , , , note
+B-D-GLCP,4, H61,3.9, , , , note
+B-D-GLCP,4, H62,3.72, , , , note
+RIB-OL, , C1,68, , , , note
+RIB-OL, , C2,71.8, , , , note
+RIB-OL, , C3,72.5, , , , note
+RIB-OL, , C4,80.4, , , , note
+RIB-OL, , C5,65.8, , , , note
+B-D-GLCP,4, C1,103.6, , , , note
+B-D-GLCP,4, C2,74.6, , , , note
+B-D-GLCP,4, C3,77, , , , note
+B-D-GLCP,4, C4,70.9, , , , note
+B-D-GLCP,4, C5,77.1, , , , note
+B-D-GLCP,4, C6,62, , , , note

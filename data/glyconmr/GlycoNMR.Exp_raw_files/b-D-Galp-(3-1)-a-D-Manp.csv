@@ -1,0 +1,31 @@
+MHz,0,,,,,,
+Temperature,30,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker DRX-500,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-D-MANP, , H1,5.055, , , , note
+A-D-MANP, , H2,4.01, , , , note
+A-D-MANP, , H3,3.92, , , , note
+A-D-MANP, , H4,3.7, , , , note
+A-D-MANP, , H5,3.89, , , , note
+A-D-MANP, , H61,3.885, , , , note
+A-D-MANP, , H62,3.78, , , , note
+B-D-GALP,1, H1,4.53, , , , note
+B-D-GALP,1, H2,3.63, , , , note
+B-D-GALP,1, H3,3.795, , , , note
+B-D-GALP,1, H4,4.24, , , , note
+B-D-GALP,1, H5,3.9, , , , note
+B-D-GALP,1, H61,4.07, , , , note
+B-D-GALP,1, H62,3.93, , , , note
+A-D-MANP, , C1,97.5, , , , note
+A-D-MANP, , C2,71.5, , , , note
+A-D-MANP, , C3,71.7, , , , note
+A-D-MANP, , C4,67.9, , , , note
+A-D-MANP, , C5,74.06, , , , note
+A-D-MANP, , C6,62.2, , , , note
+B-D-GALP,1, C1,104.4, , , , note
+B-D-GALP,1, C2,70.5, , , , note
+B-D-GALP,1, C3,77.5, , , , note
+B-D-GALP,1, C4,65.6, , , , note
+B-D-GALP,1, C5,74.6, , , , note
+B-D-GALP,1, C6,70.5, , , , note

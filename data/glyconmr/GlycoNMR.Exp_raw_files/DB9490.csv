@@ -1,0 +1,66 @@
+MHz,400,,,,,,
+Temperature,328,,,,,,
+Solvent,D2O,,,,,,
+Note,a)Assignments may have to be interchanged.,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+b-D-GlcpA," 4,until", H1,4.6, , ,0, 
+b-D-GlcpA," 4,until", H2,3.4, , ,0, 
+b-D-GlcpA," 4,until", H3,3.66, , ,0, 
+b-D-GlcpA," 4,until", H4,3.81, , ,0, 
+b-D-GlcpA," 4,until", H5,4.04, , ,0, 
+b-D-GlcpNAc," 4,4,until", H1,4.6, , ,0, 
+b-D-GlcpNAc," 4,4,until", H2,3.68, , ,0, 
+b-D-GlcpNAc," 4,4,until", H3,3.87, , ,0, 
+b-D-GlcpNAc," 4,4,until", H4,3.88, , ,0, 
+b-D-GlcpNAc," 4,4,until", H5,3.47, , ,0, 
+b-D-GlcpNAc," 4,4,until", H61,3.73, , ,0, 
+b-D-GlcpNAc," 4,4,until", H62,3.88, , ,0, 
+b-D-GlcpNAc," 4,4,until", NAC,1.97, , ,0, a
+b-D-GlcpNAc," 4,4,4,until", H1,4.52, , ,0, 
+b-D-GlcpNAc," 4,4,4,until", H2,3.88, , ,0, 
+b-D-GlcpNAc," 4,4,4,until", H3,3.78, , ,0, 
+b-D-GlcpNAc," 4,4,4,until", H4,3.59, , ,0, 
+b-D-GlcpNAc," 4,4,4,until", H5,3.42, , ,0, 
+b-D-GlcpNAc," 4,4,4,until", H61,3.85, , ,0, 
+b-D-GlcpNAc," 4,4,4,until", H62,3.91, , ,0, 
+b-D-GlcpNAc," 4,4,4,until", NAC,2.02, , ,0, a
+b-L-RhapNAc3NAc," 3,4,4,until", H1,5.07,1,2,1.2, 
+b-L-RhapNAc3NAc," 3,4,4,until", H2,4.55,2,3,4.1, 
+b-L-RhapNAc3NAc," 3,4,4,until", H3,3.96,3,4,10, 
+b-L-RhapNAc3NAc," 3,4,4,until", H4,3.28,4,5,9.6, 
+b-L-RhapNAc3NAc," 3,4,4,until", H5,3.52,5,6,5.7, 
+b-L-RhapNAc3NAc," 3,4,4,until", CH3,1.36, , ,0, 
+b-L-RhapNAc3NAc," 3,4,4,until", NAC,2.05, , ,0, a
+b-L-RhapNAc3NAc," 3,4,4,until", 3NAC,2.05, , ,0, a
+b-D-GlcpA," 4,until", C1,103.46, , ,0, 
+b-D-GlcpA," 4,until", C2,73.01, , ,0, 
+b-D-GlcpA," 4,until", C3,74.6, , ,0, 
+b-D-GlcpA," 4,until", C4,80.91, , ,0, 
+b-D-GlcpA," 4,until", C5,74.25, , ,0, 
+b-D-GlcpA," 4,until", C6,171.74, , ,0, 
+b-D-GlcpNAc," 4,4,until", C1,101.95, , ,0, 
+b-D-GlcpNAc," 4,4,until", C2,54.89, , ,0, 
+b-D-GlcpNAc," 4,4,until", C3,78.64, , ,0, 
+b-D-GlcpNAc," 4,4,until", C4,76.73, , ,0, 
+b-D-GlcpNAc," 4,4,until", C5,75.91, , ,0, 
+b-D-GlcpNAc," 4,4,until", C6,60.7, , ,0, 
+b-D-GlcpNAc," 4,4,until", CO,174.87, , ,0, a
+b-D-GlcpNAc," 4,4,until", CH3,22.68, , ,0, b
+b-D-GlcpNAc," 4,4,4,until", C1,101.2, , ,0, 
+b-D-GlcpNAc," 4,4,4,until", C2,55.83, , ,0, 
+b-D-GlcpNAc," 4,4,4,until", C3,83.28, , ,0, 
+b-D-GlcpNAc," 4,4,4,until", C4,69.76, , ,0, 
+b-D-GlcpNAc," 4,4,4,until", C5,76.73, , ,0, 
+b-D-GlcpNAc," 4,4,4,until", C6,61.88, , ,0, 
+b-D-GlcpNAc," 4,4,4,until", CO,175.02, , ,0, a
+b-D-GlcpNAc," 4,4,4,until", CH3,22.94, , ,0, b
+b-L-RhapNAc3NAc," 3,4,4,until", C1,99.83, , ,0, 
+b-L-RhapNAc3NAc," 3,4,4,until", C2,52.19, , ,0, 
+b-L-RhapNAc3NAc," 3,4,4,until", C3,54.61, , ,0, 
+b-L-RhapNAc3NAc," 3,4,4,until", C4,70.87, , ,0, 
+b-L-RhapNAc3NAc," 3,4,4,until", C5,74.46, , ,0, 
+b-L-RhapNAc3NAc," 3,4,4,until", C6,18, , ,0, 
+b-L-RhapNAc3NAc," 3,4,4,until", CO,175.27, , ,0, a
+b-L-RhapNAc3NAc," 3,4,4,until", CH3,23.02, , ,0, b
+b-L-RhapNAc3NAc," 3,4,4,until", CO,175.61, , ,0, a
+b-L-RhapNAc3NAc," 3,4,4,until", CH3,23.42, , ,0, b

@@ -1,0 +1,79 @@
+MHz,600,,,,,,
+Temperature,26.5,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker DRX Avance,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-D-GLCPN1PO4, , H1,5.396, , , , note
+A-D-GLCPN1PO4, , H2,2.703, , , , note
+A-D-GLCPN1PO4, , H31,3.618, , , , note
+A-D-GLCPN1PO4, , H4,3.464, , , , note
+A-D-GLCPN1PO4, , H5,4.074, , , , note
+A-D-GLCPN1PO4, , H61,3.757, , , , note
+A-D-GLCPN1PO4, , H62,4.243, , , , note
+B-D-GLCPN4PO4,6, H1,4.425, , , , note
+B-D-GLCPN4PO4,6, H2,2.67, , , , note
+B-D-GLCPN4PO4,6, H31,3.582, , , , note
+B-D-GLCPN4PO4,6, H4,3.646, , , , note
+B-D-GLCPN4PO4,6, H5,3.651, , , , note
+B-D-GLCPN4PO4,6, H61,3.446, , , , note
+B-D-GLCPN4PO4,6, H62,3.755, , , , note
+A-D-KDOP," 6, 6", H31,1.892, , , , note
+A-D-KDOP," 6, 6", H32,2.056, , , , note
+A-D-KDOP," 6, 6", H4,4.047, , , , note
+A-D-KDOP," 6, 6", H5,4.105, , , , note
+A-D-KDOP," 6, 6", H61,3.731, , , , note
+A-D-KDOP," 6, 6", H7,3.904, , , , note
+A-D-KDOP," 6, 6", H81,3.702, , , , note
+A-D-KDOP," 6, 6", H82,3.887, , , , note
+A-D-KDOP," 6, 6, 4", H31,1.822, , , , note
+A-D-KDOP," 6, 6, 4", H32,2.132, , , , note
+A-D-KDOP," 6, 6, 4", H4,4.089, , , , note
+A-D-KDOP," 6, 6, 4", H5,4.104, , , , note
+A-D-KDOP," 6, 6, 4", H61,3.848, , , , note
+A-D-KDOP," 6, 6, 4", H7,4.178, , , , note
+A-D-KDOP," 6, 6, 4", H81,3.535, , , , note
+A-D-KDOP," 6, 6, 4", H82,3.608, , , , note
+A-D-KDOP," 6, 6, 4, 8", H31,1.779, , , , note
+A-D-KDOP," 6, 6, 4, 8", H32,2.032, , , , note
+A-D-KDOP," 6, 6, 4, 8", H4,4.105, , , , note
+A-D-KDOP," 6, 6, 4, 8", H5,4.098, , , , note
+A-D-KDOP," 6, 6, 4, 8", H61,3.675, , , , note
+A-D-KDOP," 6, 6, 4, 8", H7,3.934, , , , note
+A-D-KDOP," 6, 6, 4, 8", H81,3.735, , , , note
+A-D-KDOP," 6, 6, 4, 8", H82,3.942, , , , note
+A-D-GLCPN1PO4, , C1,94.91, , , , note
+A-D-GLCPN1PO4, , C2,55.84, , , , note
+A-D-GLCPN1PO4, , C3,73.84, , , , note
+A-D-GLCPN1PO4, , C4,70.38, , , , note
+A-D-GLCPN1PO4, , C5,71.77, , , , note
+A-D-GLCPN1PO4, , C6,69.77, , , , note
+B-D-GLCPN4PO4,6, C1,103.4, , , , note
+B-D-GLCPN4PO4,6, C2,56.67, , , , note
+B-D-GLCPN4PO4,6, C3,76.52, , , , note
+B-D-GLCPN4PO4,6, C4,73.52, , , , note
+B-D-GLCPN4PO4,6, C5,74.83, , , , note
+B-D-GLCPN4PO4,6, C6,63.37, , , , note
+A-D-KDOP," 6, 6", C1,175.23, , , , note
+A-D-KDOP," 6, 6", C2,99.9, , , , note
+A-D-KDOP," 6, 6", C3,34.02, , , , note
+A-D-KDOP," 6, 6", C4,70.53, , , , note
+A-D-KDOP," 6, 6", C5,65.64, , , , note
+A-D-KDOP," 6, 6", C6,71.64, , , , note
+A-D-KDOP," 6, 6", C7,70.41, , , , note
+A-D-KDOP," 6, 6", C8,63.7, , , , note
+A-D-KDOP," 6, 6, 4", C1,175.93, , , , note
+A-D-KDOP," 6, 6, 4", C2,101.1, , , , note
+A-D-KDOP," 6, 6, 4", C3,34.86, , , , note
+A-D-KDOP," 6, 6, 4", C4,66.26, , , , note
+A-D-KDOP," 6, 6, 4", C5,67.43, , , , note
+A-D-KDOP," 6, 6, 4", C6,71.7, , , , note
+A-D-KDOP," 6, 6, 4", C7,71.05, , , , note
+A-D-KDOP," 6, 6, 4", C8,63.22, , , , note
+A-D-KDOP," 6, 6, 4, 8", C1,175.57, , , , note
+A-D-KDOP," 6, 6, 4, 8", C2,100.2, , , , note
+A-D-KDOP," 6, 6, 4, 8", C3,34.48, , , , note
+A-D-KDOP," 6, 6, 4, 8", C4,66.23, , , , note
+A-D-KDOP," 6, 6, 4, 8", C5,66.81, , , , note
+A-D-KDOP," 6, 6, 4, 8", C6,71.84, , , , note
+A-D-KDOP," 6, 6, 4, 8", C7,69.92, , , , note
+A-D-KDOP," 6, 6, 4, 8", C8,63.46, , , , note

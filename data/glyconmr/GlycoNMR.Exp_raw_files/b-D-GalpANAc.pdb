@@ -1,0 +1,39 @@
+<br />
+<b>Notice</b>:  Undefined index: children in <b>/home/www/include/php/linucs2semlin/l2sl.php</b> on line <b>410</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/home/www/include/php/linucs2semlin/l2sl.php</b> on line <b>410</b><br />
+HEADER    CARBOHYDRATE
+COMPND    UNNAMED
+AUTHOR    CREATED BY SWEET-II ON WWW.GLYCOSCIENCES.DE
+HETATM    1  C1  GLB     1      -4.770   4.417   7.408  1.00  0.00           C
+HETATM    2  C2  GLB     1      -5.543   4.562   8.742  1.00  0.00           C
+HETATM    3  C3  GLB     1      -7.068   4.416   8.520  1.00  0.00           C
+HETATM    4  C4  GLB     1      -7.594   5.319   7.376  1.00  0.00           C
+HETATM    5  C5  GLB     1      -6.744   5.100   6.086  1.00  0.00           C
+HETATM    6  C6  GLB     1      -7.180   5.979   4.898  1.00  0.00           C
+HETATM    7  O5  GLB     1      -5.325   5.295   6.394  1.00  0.00           O
+HETATM    8  OH1 GLB     1      -3.432   4.840   7.572  1.00  0.00           O
+HETATM    9  OH3 GLB     1      -7.747   4.738   9.731  1.00  0.00           O
+HETATM   10  OH4 GLB     1      -7.508   6.677   7.808  1.00  0.00           O
+HETATM   11  O6  GLB     1      -7.567   5.524   3.825  1.00  0.00           O
+HETATM   12  OH6 GLB     1      -7.089   7.313   5.177  1.00  0.00           O
+HETATM   13  H1  GLB     1      -4.787   3.364   7.060  1.00  0.00           H
+HETATM   14  H2  GLB     1      -5.325   5.565   9.158  1.00  0.00           H
+HETATM   15  H3  GLB     1      -7.279   3.358   8.260  1.00  0.00           H
+HETATM   16  H4  GLB     1      -8.654   5.074   7.167  1.00  0.00           H
+HETATM   17  H5  GLB     1      -6.888   4.056   5.747  1.00  0.00           H
+HETATM   18  HO6 GLB     1      -6.853   7.404   6.104  1.00  0.00           H
+HETATM   19  HO1 GLB     1      -3.319   5.491   6.876  1.00  0.00           H
+HETATM   20  HO3 GLB     1      -8.680   4.555   9.582  1.00  0.00           H
+HETATM   21  HO4 GLB     1      -7.316   6.617   8.752  1.00  0.00           H
+HETATM   22  N2  GLB     1      -5.119   3.553   9.685  1.00  0.00           N
+HETATM   23  CO2 GLB     1      -4.061   3.798  10.523  1.00  0.00           C
+HETATM   24  CM2 GLB     1      -3.727   2.645  11.451  1.00  0.00           C
+HETATM   25  OC2 GLB     1      -3.425   4.835  10.538  1.00  0.00           O
+HETATM   26  HN2 GLB     1      -5.611   2.649   9.728  1.00  0.00           H
+HETATM   27 1HM2 GLB     1      -2.869   2.903  12.112  1.00  0.00           H
+HETATM   28 2HM2 GLB     1      -3.449   1.743  10.860  1.00  0.00           H
+HETATM   29 3HM2 GLB     1      -4.602   2.403  12.097  1.00  0.00           H
+MASTER        0    0    0    0    0    0    0    0   29    0   29    0
+END
+

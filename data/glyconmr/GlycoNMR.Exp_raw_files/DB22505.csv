@@ -1,0 +1,45 @@
+MHz,600,,,,,,
+Temperature,300,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker DRX 600,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-D-GLCPN, , H1,5.654, , , , note
+A-D-GLCPN, , H2,3.364, , , , note
+A-D-GLCPN, , H3,3.889, , , , note
+A-D-GLCPN, , H4,3.426, , , , note
+A-D-GLCPN, , H5,4.124, , , , note
+A-D-GLCPN, , H61,3.861, , , , note
+A-D-GLCPN, , H62,4.229, , , , note
+B-D-GLCPN,6, H1,4.902, , , , note
+B-D-GLCPN,6, H2,3.074, , , , note
+B-D-GLCPN,6, H3,3.854, , , , note
+B-D-GLCPN,6, H4,3.84, , , , note
+B-D-GLCPN,6, H5,3.727, , , , note
+B-D-GLCPN,6, H61,3.471, , , , note
+B-D-GLCPN,6, H62,3.714, , , , note
+A-D-KDOP," 6, 6", H31,1.919, , , , note
+A-D-KDOP," 6, 6", H32,2.142, , , , note
+A-D-KDOP," 6, 6", H4,4.141, , , , note
+A-D-KDOP," 6, 6", H5,4.507, , , , note
+A-D-KDOP," 6, 6", H6,3.736, , , , note
+A-D-KDOP," 6, 6", H7,3.907, , , , note
+A-D-KDOP," 6, 6", H81,3.941, , , , note
+A-D-KDOP," 6, 6", H82,3.649, , , , note
+A-D-GLCPN, , C1,91.16, , , , note
+A-D-GLCPN, , C2,54.45, , , , note
+A-D-GLCPN, , C3,69.61, , , , note
+A-D-GLCPN, , C4,70.12, , , , note
+A-D-GLCPN, , C5,72.68, , , , note
+A-D-GLCPN, , C6,69.2, , , , note
+B-D-GLCPN,6, C1,99.02, , , , note
+B-D-GLCPN,6, C2,55.76, , , , note
+B-D-GLCPN,6, C3,72.02, , , , note
+B-D-GLCPN,6, C4,74.52, , , , note
+B-D-GLCPN,6, C5,74.09, , , , note
+B-D-GLCPN,6, C6,62.6, , , , note
+A-D-KDOP," 6, 6", C3,34.92, , , , note
+A-D-KDOP," 6, 6", C4,65.99, , , , note
+A-D-KDOP," 6, 6", C5,71, , , , note
+A-D-KDOP," 6, 6", C6,71.64, , , , note
+A-D-KDOP," 6, 6", C7,69.65, , , , note
+A-D-KDOP," 6, 6", C8,63.07, , , , note

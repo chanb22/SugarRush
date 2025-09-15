@@ -1,0 +1,29 @@
+MHz,500,,,,,,
+Temperature,55,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker DRX-500,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+B-L-RHAP, , H1,5, , , , note
+B-L-RHAP, , H2,4.37, , , , note
+B-L-RHAP, , H3,3.61, , , , note
+B-L-RHAP, , H4,3.22, , , , note
+B-L-RHAP, , H5,3.45, , , , note
+B-L-RHAP, , H6,1.36, , , , note
+B-L-RHAP,2, H1,5, , , , note
+B-L-RHAP,2, H2,4.37, , , , note
+B-L-RHAP,2, H3,3.61, , , , note
+B-L-RHAP,2, H4,3.22, , , , note
+B-L-RHAP,2, H5,3.45, , , , note
+B-L-RHAP,2, H6,1.36, , , , note
+B-L-RHAP, , C1,102.6, , , , note
+B-L-RHAP, , C2,81.1, , , , note
+B-L-RHAP, , C3,74.6, , , , note
+B-L-RHAP, , C4,73.2, , , , note
+B-L-RHAP, , C5,73.7, , , , note
+B-L-RHAP, , C6,18.4, , , , note
+B-L-RHAP,2, C1,102.6, , , , note
+B-L-RHAP,2, C2,81.1, , , , note
+B-L-RHAP,2, C3,74.6, , , , note
+B-L-RHAP,2, C4,73.2, , , , note
+B-L-RHAP,2, C5,73.7, , , , note
+B-L-RHAP,2, C6,18.4, , , , note

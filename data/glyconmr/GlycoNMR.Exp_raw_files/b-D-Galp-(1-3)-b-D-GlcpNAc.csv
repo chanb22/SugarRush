@@ -1,0 +1,33 @@
+MHz,0,,,,,,
+Temperature,70,,,,,,
+Solvent,D2O,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+B-D-GLCPNAC, , H1,4.78, , , , note
+B-D-GLCPNAC, , H3,3.78, , , , note
+B-D-GLCPNAC, , H4,3.81, , , , note
+B-D-GLCPNAC, , H4,3.55, , , , note
+B-D-GLCPNAC, , H5,3.5, , , , note
+B-D-GLCPNAC, , H61,3.77, , , , note
+B-D-GLCPNAC, , H62,3.92, , , , note
+B-D-GLCPNAC, , CH3,2.05, , , , note
+B-D-GALP,3, H1,4.42, , , , note
+B-D-GALP,3, H2,3.55, , , , note
+B-D-GALP,3, H3,3.64, , , , note
+B-D-GALP,3, H4,3.93, , , , note
+B-D-GALP,3, H5,3.7, , , , note
+B-D-GALP,3, H61,3.78, , , , note
+B-D-GALP,3, H62,3.78, , , , note
+B-D-GLCPNAC, , C1,95.6, , , , note
+B-D-GLCPNAC, , C2,56.79, , , , note
+B-D-GLCPNAC, , C3,83.57, , , , note
+B-D-GLCPNAC, , C4,69.78, , , , note
+B-D-GLCPNAC, , C5,76.37, , , , note
+B-D-GLCPNAC, , C6,61.84, , , , note
+B-D-GLCPNAC, , CH3,23.19, , , , note
+B-D-GLCPNAC, , CO,175.54, , , , note
+B-D-GALP,3, C1,104.3, , , , note
+B-D-GALP,3, C2,71.65, , , , note
+B-D-GALP,3, C3,73.52, , , , note
+B-D-GALP,3, C4,69.45, , , , note
+B-D-GALP,3, C5,76.13, , , , note
+B-D-GALP,3, C6,61.81, , , , note

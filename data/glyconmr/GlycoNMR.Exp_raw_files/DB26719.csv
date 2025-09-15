@@ -1,0 +1,65 @@
+MHz,400,,,,,,
+Temperature,30,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Varian Inova 400/600,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-D-MANP6AC, , H1,5.18, , , , note
+A-D-MANP6AC, , H2,4.15, , , , note
+A-D-MANP6AC, , H3,3.9, , , , note
+A-D-MANP6AC, , H4,3.87, , , , note
+A-D-MANP6AC, , H5,3.76, , , , note
+A-D-MANP6AC, , H61,4.28, , , , note
+A-D-MANP6AC, , H62,4.4, , , , note
+A-D-MANP,3, H1,5.2, , , , note
+A-D-MANP,3, H2,4.37, , , , note
+A-D-MANP,3, H3,4.09, , , , note
+A-D-MANP,3, H4,3.95, , , , note
+A-D-MANP,3, H5,3.82, , , , note
+A-D-MANP,3, H6,3.82, , , , note
+B-D-GLCPA," 3, 2", H1,4.52, , , , note
+B-D-GLCPA," 3, 2", H2,3.38, , , , note
+B-D-GLCPA," 3, 2", H3,3.51, , , , note
+B-D-GLCPA," 3, 2", H4,3.62, , , , note
+B-D-GLCPA," 3, 2", H5,3.86, , , , note
+A-L-RHAP," 3, 3", H1,4.94, , , , note
+A-L-RHAP," 3, 3", H2,3.98, , , , note
+A-L-RHAP," 3, 3", H3,3.95, , , , note
+A-L-RHAP," 3, 3", H4,3.47, , , , note
+A-L-RHAP," 3, 3", H5,4.25, , , , note
+A-L-RHAP," 3, 3", H6,1.31, , , , note
+B-D-GLCPNAC," 3, 4", H1,4.54, , , , note
+B-D-GLCPNAC," 3, 4", H2,3.79, , , , note
+B-D-GLCPNAC," 3, 4", H3,3.69, , , , note
+B-D-GLCPNAC," 3, 4", H4,3.49, , , , note
+B-D-GLCPNAC," 3, 4", H5,3.44, , , , note
+B-D-GLCPNAC," 3, 4", H61,3.75, , , , note
+B-D-GLCPNAC," 3, 4", H62,3.94, , , , note
+A-D-MANP6AC, , C1,102.8, , , , note
+A-D-MANP6AC, , C2,71.4, , , , note
+A-D-MANP6AC, , C3,80.1, , , , note
+A-D-MANP6AC, , C4,67, , , , note
+A-D-MANP6AC, , C5,72.6, , , , note
+A-D-MANP6AC, , C6,64.8, , , , note
+A-D-MANP,3, C1,101.5, , , , note
+A-D-MANP,3, C2,75.6, , , , note
+A-D-MANP,3, C3,72.8, , , , note
+A-D-MANP,3, C4,72.9, , , , note
+A-D-MANP,3, C5,74.2, , , , note
+A-D-MANP,3, C6,62.3, , , , note
+B-D-GLCPA," 3, 2", C1,104.1, , , , note
+B-D-GLCPA," 3, 2", C2,73.8, , , , note
+B-D-GLCPA," 3, 2", C3,76.7, , , , note
+B-D-GLCPA," 3, 2", C4,73, , , , note
+B-D-GLCPA," 3, 2", C5,77.3, , , , note
+A-L-RHAP," 3, 3", C1,98, , , , note
+A-L-RHAP," 3, 3", C2,71.8, , , , note
+A-L-RHAP," 3, 3", C3,71.6, , , , note
+A-L-RHAP," 3, 3", C4,73.7, , , , note
+A-L-RHAP," 3, 3", C5,70.3, , , , note
+A-L-RHAP," 3, 3", C6,17.4, , , , note
+B-D-GLCPNAC," 3, 4", C1,102.2, , , , note
+B-D-GLCPNAC," 3, 4", C2,56.2, , , , note
+B-D-GLCPNAC," 3, 4", C3,82.1, , , , note
+B-D-GLCPNAC," 3, 4", C4,72.6, , , , note
+B-D-GLCPNAC," 3, 4", C5,77.6, , , , note
+B-D-GLCPNAC," 3, 4", C6,62.9, , , , note

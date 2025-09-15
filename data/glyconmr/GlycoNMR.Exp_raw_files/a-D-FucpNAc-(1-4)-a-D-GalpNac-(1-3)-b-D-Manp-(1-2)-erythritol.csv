@@ -1,0 +1,56 @@
+MHz,500,,,,,,
+Temperature,33,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker DRX 500,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+ERYTHRITOL, , H11,3.74, , , , note
+ERYTHRITOL, , H12,3.82, , , , note
+ERYTHRITOL, , H2,3.84, , , , note
+ERYTHRITOL, , H3,3.82, , , , note
+ERYTHRITOL, , H41,4.61, , , , note
+ERYTHRITOL, , H42,3.73, , , , note
+B-D-MANP,2, H1,4.77, , , , note
+B-D-MANP,2, H2,4.23, , , , note
+B-D-MANP,2, H3,3.69, , , , note
+B-D-MANP,2, H4,3.71, , , , note
+A-D-GALPNAC," 2, 3", H1,5.19, , , , note
+A-D-GALPNAC," 2, 3", H2,4.22, , , , note
+A-D-GALPNAC," 2, 3", H3,4.08, , , , note
+A-D-GALPNAC," 2, 3", H4,4.01, , , , note
+A-D-GALPNAC," 2, 3", H5,4.16, , , , note
+A-D-GALPNAC," 2, 3", H61,3.73, , , , note
+A-D-GALPNAC," 2, 3", H52,3.73, , , , note
+A-D-GALPNAC," 2, 3", Ch3CON,2.08, , , , note
+A-D-FUCPNAC," 2, 3, 4", H1,4.87, , , , note
+A-D-FUCPNAC," 2, 3, 4", H2,4.15, , , , note
+A-D-FUCPNAC," 2, 3, 4", H3,4.02, , , , note
+A-D-FUCPNAC," 2, 3, 4", H4,3.83, , , , note
+A-D-FUCPNAC," 2, 3, 4", H5,4.43, , , , note
+A-D-FUCPNAC," 2, 3, 4", H6,1.17, , , , note
+A-D-FUCPNAC," 2, 3, 4", Ch3CON,2.02, , , , note
+ERYTHRITOL, , C1,62.8, , , , note
+ERYTHRITOL, , C2,82.6, , , , note
+ERYTHRITOL, , C3,72.3, , , , note
+ERYTHRITOL, , C4,63.7, , , , note
+B-D-MANP,2, C1,101.3, , , , note
+B-D-MANP,2, C2,72.1, , , , note
+B-D-MANP,2, C3,82.5, , , , note
+B-D-MANP,2, C4,67.4, , , , note
+B-D-MANP,2, C5,77.6, , , , note
+B-D-MANP,2, C6,62.4, , , , note
+A-D-GALPNAC," 2, 3", C1,101.2, , , , note
+A-D-GALPNAC," 2, 3", C2,51.5, , , , note
+A-D-GALPNAC," 2, 3", C3,68.5, , , , note
+A-D-GALPNAC," 2, 3", C4,78.8, , , , note
+A-D-GALPNAC," 2, 3", C5,73.8, , , , note
+A-D-GALPNAC," 2, 3", C6,62.3, , , , note
+A-D-GALPNAC," 2, 3", C7,23.3, , , , note
+A-D-GALPNAC," 2, 3", Ch3CON,175.9, , , , note
+A-D-FUCPNAC," 2, 3, 4", C1,99.9, , , , note
+A-D-FUCPNAC," 2, 3, 4", C2,51.3, , , , note
+A-D-FUCPNAC," 2, 3, 4", C3,68.7, , , , note
+A-D-FUCPNAC," 2, 3, 4", C4,72.6, , , , note
+A-D-FUCPNAC," 2, 3, 4", C5,68.8, , , , note
+A-D-FUCPNAC," 2, 3, 4", C6,16.7, , , , note
+A-D-FUCPNAC," 2, 3, 4", Ch3CON,23.3, , , , note
+A-D-FUCPNAC," 2, 3, 4", Ch3CON,175.8, , , , note

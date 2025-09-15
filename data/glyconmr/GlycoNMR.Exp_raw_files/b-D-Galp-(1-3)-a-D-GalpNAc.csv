@@ -1,0 +1,34 @@
+MHz,500,,,,,,
+Temperature,25,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Varian Unity Inova 500,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-D-GALPNAC, , H1,5.83, , , , note
+A-D-GALPNAC, , H2,4.581, , , , note
+A-D-GALPNAC, , H3,4.303, , , , note
+A-D-GALPNAC, , H4,4.315, , , , note
+A-D-GALPNAC, , H5,4.022, , , , note
+A-D-GALPNAC, , H61,3.791, , , , note
+A-D-GALPNAC, , H62,3.755, , , , note
+A-D-GALPNAC, , CH3,2.013, , , , note
+B-D-GALP,3, H1,4.547, , , , note
+B-D-GALP,3, H2,3.559, , , , note
+B-D-GALP,3, H3,3.657, , , , note
+B-D-GALP,3, H4,3.932, , , , note
+B-D-GALP,3, H5,3.691, , , , note
+B-D-GALP,3, H61,3.74, , , , note
+B-D-GALP,3, H62,3.69, , , , note
+A-D-GALPNAC, , C1,95.61, , , , note
+A-D-GALPNAC, , C2,47.99, , , , note
+A-D-GALPNAC, , C3,76.5, , , , note
+A-D-GALPNAC, , C4,68.36, , , , note
+A-D-GALPNAC, , C5,71.77, , , , note
+A-D-GALPNAC, , C6,60.82, , , , note
+A-D-GALPNAC, , C-O,174.51, , , , note
+A-D-GALPNAC, , CH3,21.7, , , , note
+B-D-GALP,3, C1,104.59, , , , note
+B-D-GALP,3, C2,70.4, , , , note
+B-D-GALP,3, C3,72.3, , , , note
+B-D-GALP,3, C4,68.36, , , , note
+B-D-GALP,3, C5,74.86, , , , note
+B-D-GALP,3, C6,60.73, , , , note

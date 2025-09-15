@@ -1,0 +1,79 @@
+HEADER    CARBOHYDRATE
+COMPND    UNNAMED
+AUTHOR    CREATED BY SWEET-II ON WWW.GLYCOSCIENCES.DE
+LINK       O1  NAG    1                     C1         3
+LINK       O6  NAG    1                     C2  KDO    2
+HETATM    1  C1          3       1.049   0.429  -1.148  1.00  0.00           C
+HETATM    2  C2          3       1.593   1.402  -0.416  1.00  0.00           C
+HETATM    3  C3          3       0.926   2.013   0.786  1.00  0.00           C
+HETATM    4  O1          3       1.282   1.245   1.925  1.00  0.00           O
+HETATM    5  H5          3       1.589   0.017  -2.002  1.00  0.00           H
+HETATM    6  H4          3       2.589   1.765  -0.678  1.00  0.00           H
+HETATM    7  H2          3      -0.176   2.047   0.675  1.00  0.00           H
+HETATM    8  H3          3       1.251   3.063   0.923  1.00  0.00           H
+HETATM    9  H1          3       1.487   0.370   1.581  1.00  0.00           H
+HETATM   10  C1  NAG     1      -0.450   0.279   0.384  1.00  0.00           C
+HETATM   11  C2  NAG     1      -1.411   1.510   0.371  1.00  0.00           C
+HETATM   12  C3  NAG     1      -2.162   1.606   1.735  1.00  0.00           C
+HETATM   13  C4  NAG     1      -2.852   0.276   2.101  1.00  0.00           C
+HETATM   14  C5  NAG     1      -1.836  -0.898   2.068  1.00  0.00           C
+HETATM   15  C6  NAG     1      -2.499  -2.265   2.324  1.00  0.00           C
+HETATM   16  CO2 NAG     1      -1.070   3.697  -0.736  1.00  0.00           C
+HETATM   17  CM2 NAG     1      -0.229   4.955  -0.797  1.00  0.00           C
+HETATM   18  O1  NAG     1       0.061   0.027  -0.917  1.00  0.00           O
+HETATM   19  OH3 NAG     1      -3.166   2.624   1.723  1.00  0.00           O
+HETATM   20  OH4 NAG     1      -3.430   0.427   3.393  1.00  0.00           O
+HETATM   21  O5  NAG     1      -1.158  -0.929   0.773  1.00  0.00           O
+HETATM   22  O6  NAG     1      -1.672  -3.113   3.125  1.00  0.00           O
+HETATM   23  OC2 NAG     1      -2.088   3.604  -1.412  1.00  0.00           O
+HETATM   24  N2  NAG     1      -0.655   2.769   0.121  1.00  0.00           N
+HETATM   25  H2  NAG     1      -2.163   1.323  -0.424  1.00  0.00           H
+HETATM   26  H3  NAG     1      -1.429   1.844   2.533  1.00  0.00           H
+HETATM   27  H4  NAG     1      -3.653   0.071   1.361  1.00  0.00           H
+HETATM   28  H5  NAG     1      -1.084  -0.736   2.865  1.00  0.00           H
+HETATM   29  H6S NAG     1      -3.477  -2.115   2.819  1.00  0.00           H
+HETATM   30  H6R NAG     1      -2.715  -2.755   1.354  1.00  0.00           H
+HETATM   31 1HM2 NAG     1      -0.162   5.312  -1.840  1.00  0.00           H
+HETATM   32 2HM2 NAG     1       0.802   4.822  -0.422  1.00  0.00           H
+HETATM   33 3HM2 NAG     1      -0.713   5.751  -0.206  1.00  0.00           H
+HETATM   34  HO3 NAG     1      -2.704   3.462   1.626  1.00  0.00           H
+HETATM   35  HO4 NAG     1      -3.930   1.248   3.331  1.00  0.00           H
+HETATM   36  HN2 NAG     1       0.284   2.937   0.487  1.00  0.00           H
+HETATM   37  H1  NAG     1       0.398   0.449   1.078  1.00  0.00           H
+HETATM   38  C1  KDO     2      -3.438  -4.735   3.370  1.00  0.00           C
+HETATM   39  C2  KDO     2      -1.940  -4.514   3.075  1.00  0.00           C
+HETATM   40  C3  KDO     2      -1.055  -5.255   4.121  1.00  0.00           C
+HETATM   41  C4  KDO     2       0.437  -5.266   3.710  1.00  0.00           C
+HETATM   42  C5  KDO     2       0.644  -5.773   2.259  1.00  0.00           C
+HETATM   43  C6  KDO     2      -0.249  -4.958   1.274  1.00  0.00           C
+HETATM   44  C7  KDO     2      -0.169  -5.429  -0.201  1.00  0.00           C
+HETATM   45  C8  KDO     2      -1.019  -4.570  -1.157  1.00  0.00           C
+HETATM   46  O1  KDO     2      -3.863  -4.051   4.483  1.00  0.00           O
+HETATM   47  OH4 KDO     2       1.177  -6.071   4.620  1.00  0.00           O
+HETATM   48  O1  KDO     2      -4.167  -5.453   2.686  1.00  0.00           O
+HETATM   49  OH7 KDO     2       1.184  -5.388  -0.646  1.00  0.00           O
+HETATM   50  OH8 KDO     2      -0.945  -5.081  -2.481  1.00  0.00           O
+HETATM   51  O6  KDO     2      -1.640  -5.011   1.731  1.00  0.00           O
+HETATM   52  OH5 KDO     2       0.327  -7.162   2.181  1.00  0.00           O
+HETATM   53  HO1 KDO     2      -3.153  -3.546   4.887  1.00  0.00           H
+HETATM   54  H3A KDO     2      -1.169  -4.798   5.122  1.00  0.00           H
+HETATM   55  HO4 KDO     2       0.824  -6.959   4.534  1.00  0.00           H
+HETATM   56  H4  KDO     2       0.828  -4.233   3.780  1.00  0.00           H
+HETATM   57  H5  KDO     2       1.709  -5.645   1.985  1.00  0.00           H
+HETATM   58  HO8 KDO     2      -0.016  -5.050  -2.726  1.00  0.00           H
+HETATM   59  H8R KDO     2      -0.679  -3.518  -1.148  1.00  0.00           H
+HETATM   60  H8S KDO     2      -2.077  -4.559  -0.838  1.00  0.00           H
+HETATM   61  HO7 KDO     2       1.675  -5.962  -0.053  1.00  0.00           H
+HETATM   62  H7  KDO     2      -0.525  -6.475  -0.263  1.00  0.00           H
+HETATM   63  H6  KDO     2       0.091  -3.903   1.303  1.00  0.00           H
+HETATM   64  HO5 KDO     2      -0.600  -7.235   2.420  1.00  0.00           H
+HETATM   65  H3E KDO     2      -1.402  -6.301   4.230  1.00  0.00           H
+CHLDEF    1    37   10   18    1    0    0 -24.9  19.8   0.0
+CHLDEF    2    38   39   22   15   14   28 -52.6 -160.0 -22.0
+CHLNAM    1 B-D-GLCPNAC-(1-1)-&LT;C3O1H5&GT;
+CHLNAM    2 A-D-KDOP-(2-6)-B-D-GLCPNAC
+SWECON 1   1  3  B-D-GLCPNAC-(1-1)-&LT;C3O1H5&GT;
+SWECON 2   2  1  A-D-KDOP-(2-6)-B-D-GLCPNAC
+MASTER        0    0    0    0    0    0    0    0   65    0   65    0
+END
+

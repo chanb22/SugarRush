@@ -1,0 +1,35 @@
+MHz,500,,,,,,
+Temperature,50,,,,,,
+Spectrometer,Bruker DRX 500,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+GROAL, , H1,5.12, , , , note
+GROAL, , H2,3.64, , , , note
+GROAL, , H31,3.74, , , , note
+GROAL, , H32,3.86, , , , note
+A-L-RHAP,2, H1,4.97, , , , note
+A-L-RHAP,2, H2,4.1, , , , note
+A-L-RHAP,2, H3,3.88, , , , note
+A-L-RHAP,2, H4,3.55, , , , note
+A-L-RHAP,2, H5,3.97, , , , note
+A-L-RHAP,2, H6,1.28, , , , note
+A-L-RHAP," 2, 3", H1,5.05, , , , note
+A-L-RHAP," 2, 3", H2,4.07, , , , note
+A-L-RHAP," 2, 3", H3,3.84, , , , note
+A-L-RHAP," 2, 3", H4,3.46, , , , note
+A-L-RHAP," 2, 3", H5,3.84, , , , note
+A-L-RHAP," 2, 3", H6,1.29, , , , note
+GROAL, , C1,90.6, , , , note
+GROAL, , C2,81.3, , , , note
+GROAL, , C3,61, , , , note
+A-L-RHAP,2, C1,100.8, , , , note
+A-L-RHAP,2, C2,71.6, , , , note
+A-L-RHAP,2, C3,79.8, , , , note
+A-L-RHAP,2, C4,72.7, , , , note
+A-L-RHAP,2, C5,70.5, , , , note
+A-L-RHAP,2, C6,18, , , , note
+A-L-RHAP," 2, 3", C1,103.7, , , , note
+A-L-RHAP," 2, 3", C2,71.6, , , , note
+A-L-RHAP," 2, 3", C3,71.6, , , , note
+A-L-RHAP," 2, 3", C4,73.5, , , , note
+A-L-RHAP," 2, 3", C5,70.5, , , , note
+A-L-RHAP," 2, 3", C6,18, , , , note

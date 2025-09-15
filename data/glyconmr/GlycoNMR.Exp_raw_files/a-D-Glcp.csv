@@ -1,0 +1,22 @@
+MHz,0,,,,,,
+Temperature,30,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker DRX-500,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+MHz,0,,,,,,
+Temperature,70,,,,,,
+Solvent,D2O,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+Monosaccharid, , H1,5.23, , , , note
+Monosaccharid, , H2,3.54, , , , note
+Monosaccharid, , H3,3.72, , , , note
+Monosaccharid, , H4,3.42, , , , note
+Monosaccharid, , H5,3.84, , , , note
+Monosaccharid, , H61,3.76, , , , note
+Monosaccharid, , H62,3.84, , , , note
+Monosaccharid, , C1,92.99, , , , note
+Monosaccharid, , C2,72.47, , , , note
+Monosaccharid, , C3,73.78, , , , note
+Monosaccharid, , C4,70.71, , , , note
+Monosaccharid, , C5,72.37, , , , note
+Monosaccharid, , C6,61.84, , , , note

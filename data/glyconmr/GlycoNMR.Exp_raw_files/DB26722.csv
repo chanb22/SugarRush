@@ -1,0 +1,65 @@
+MHz,400,,,,,,
+Temperature,57,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Varian Inova 400/600,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-D-GALNAC, , H1,5, , , , note
+A-D-GALNAC, , H2,4.37, , , , note
+A-D-GALNAC, , H3,4.15, , , , note
+A-D-GALNAC, , H4,4.35, , , , note
+A-D-GALNAC, , H5,4.37, , , , note
+A-D-GALNAC, , H6,3.72, , , , note
+A-D-GALNAC, , NAc,2.19, , , , note
+B-D-GALP,3, H1,4.71, , , , note
+B-D-GALP,3, H2,3.83, , , , note
+B-D-GALP,3, H3,3.83, , , , note
+B-D-GALP,3, H4,4.57, , , , note
+B-D-GALP,3, H5,3.75, , , , note
+B-D-GALP,3, H61,4.28, , , , note
+B-D-GALP,3, H62,4.42, , , , note
+B-D-GALPNAC," 3, 2", H1,4.83, , , , note
+B-D-GALPNAC," 3, 2", H2,4.08, , , , note
+B-D-GALPNAC," 3, 2", H3,3.81, , , , note
+B-D-GALPNAC," 3, 2", H4,4.08, , , , note
+B-D-GALPNAC," 3, 2", H5,3.57, , , , note
+B-D-GALPNAC," 3, 2", H61,3.74, , , , note
+B-D-GALPNAC," 3, 2", H62,3.84, , , , note
+B-D-GALPNAC," 3, 2", NAc,2.07, , , , note
+A-D-GALPNAC," 3, 2, 3", H1,5.13, , , , note
+A-D-GALPNAC," 3, 2, 3", H2,4.31, , , , note
+A-D-GALPNAC," 3, 2, 3", H3,3.91, , , , note
+A-D-GALPNAC," 3, 2, 3", H4,4.08, , , , note
+A-D-GALPNAC," 3, 2, 3", H5,3.94, , , , note
+A-D-GALPNAC," 3, 2, 3", H61,3.73, , , , note
+A-D-GALPNAC," 3, 2, 3", H62,3.78, , , , note
+A-D-GALPNAC," 3, 2, 3", NAc,2.06, , , , note
+A-D-GALNAC, , C1,99.2, , , , note
+A-D-GALNAC, , C2,49.8, , , , note
+A-D-GALNAC, , C3,77.6, , , , note
+A-D-GALNAC, , C4,69.1, , , , note
+A-D-GALNAC, , C5,71.4, , , , note
+A-D-GALNAC, , C6,61.5, , , , note
+A-D-GALNAC, , NAc,23.3, , , , note
+A-D-GALNAC, , CO,175, , , , note
+B-D-GALP,3, C1,103, , , , note
+B-D-GALP,3, C2,78, , , , note
+B-D-GALP,3, C3,73.5, , , , note
+B-D-GALP,3, C4,77.2, , , , note
+B-D-GALP,3, C5,68, , , , note
+B-D-GALP,3, C6,69.2, , , , note
+B-D-GALPNAC," 3, 2", C1,102.8, , , , note
+B-D-GALPNAC," 3, 2", C2,51.8, , , , note
+B-D-GALPNAC," 3, 2", C3,76.5, , , , note
+B-D-GALPNAC," 3, 2", C4,65.1, , , , note
+B-D-GALPNAC," 3, 2", C5,75.8, , , , note
+B-D-GALPNAC," 3, 2", C6,62.1, , , , note
+B-D-GALPNAC," 3, 2", NAc,23.2, , , , note
+B-D-GALPNAC," 3, 2", CO,175.4, , , , note
+A-D-GALPNAC," 3, 2, 3", C1,94.9, , , , note
+A-D-GALPNAC," 3, 2, 3", C2,50.6, , , , note
+A-D-GALPNAC," 3, 2, 3", C3,68.2, , , , note
+A-D-GALPNAC," 3, 2, 3", C4,77.6, , , , note
+A-D-GALPNAC," 3, 2, 3", C5,73, , , , note
+A-D-GALPNAC," 3, 2, 3", C6,61.2, , , , note
+A-D-GALPNAC," 3, 2, 3", NAc,22.9, , , , note
+A-D-GALPNAC," 3, 2, 3", CO,175.6, , , , note

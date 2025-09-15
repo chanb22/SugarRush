@@ -1,0 +1,45 @@
+MHz,0,,,,,,
+Temperature,70,,,,,,
+Solvent,D2O,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+B-D-GLCPNAC, , H1,4.77, , , , note
+B-D-GLCPNAC, , H2,3.86, , , , note
+B-D-GLCPNAC, , H3,4.09, , , , note
+B-D-GLCPNAC, , H4,3.76, , , , note
+B-D-GLCPNAC, , H5,3.57, , , , note
+B-D-GLCPNAC, , H6 a,3.87, , , , note
+B-D-GLCPNAC, , H6 b,3.97, , , , note
+B-D-GLCPNAC, , NAc,2.05, , , , note
+B-D-GALP,3, H1,4.52, , , , note
+B-D-GALP,3, H2,3.5, , , , note
+B-D-GALP,3, H3,3.62, , , , note
+B-D-GALP,3, H4,3.92, , , , note
+B-D-GALP,3, H5,3.58, , , , note
+B-D-GALP,3, H6 a,3.78, , , , note
+B-D-GALP,3, H6 b,3.78, , , , note
+A-L-FUCP,4, H1,5.03, , , , note
+A-L-FUCP,4, H2,3.82, , , , note
+A-L-FUCP,4, H3,3.89, , , , note
+A-L-FUCP,4, H4,3.8, , , , note
+A-L-FUCP,4, H5,4.78, , , , note
+A-L-FUCP,4, H6,1.21, , , , note
+B-D-GLCPNAC, , C1,95.64, , , , note
+B-D-GLCPNAC, , C2,57.92, , , , note
+B-D-GLCPNAC, , C3,77.19, , , , note
+B-D-GLCPNAC, , C4,73.5, , , , note
+B-D-GLCPNAC, , C5,76.49, , , , note
+B-D-GLCPNAC, , C6,61.12, , , , note
+B-D-GLCPNAC, , CH3,23.19, , , , note
+B-D-GLCPNAC, , CO,175.54, , , , note
+B-D-GALP,3, C1,103.46, , , , note
+B-D-GALP,3, C2,71.56, , , , note
+B-D-GALP,3, C3,73.46, , , , note
+B-D-GALP,3, C4,69.25, , , , note
+B-D-GALP,3, C5,75.66, , , , note
+B-D-GALP,3, C6,61.78, , , , note
+A-L-FUCP,4, C1,98.81, , , , note
+A-L-FUCP,4, C2,68.83, , , , note
+A-L-FUCP,4, C3,70.14, , , , note
+A-L-FUCP,4, C4,72.85, , , , note
+A-L-FUCP,4, C5,67.59, , , , note
+A-L-FUCP,4, C6,16.22, , , , note

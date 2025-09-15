@@ -1,0 +1,64 @@
+MHz,500,,,,,,
+Temperature,55,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker DRX-500,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-D-FUCPNAC, , H1,5.21, , , , note
+A-D-FUCPNAC, , H2,4.26, , , , note
+A-D-FUCPNAC, , H3,3.95, , , , note
+A-D-FUCPNAC, , H4,3.95, , , , note
+A-D-FUCPNAC, , H5,4.22, , , , note
+A-D-FUCPNAC, , H6,1.19, , , , note
+A-L-GULPA,3, H1,5.26, , , , note
+A-L-GULPA,3, H2,3.6, , , , note
+A-L-GULPA,3, H3,4.16, , , , note
+A-L-GULPA,3, H4,4.22, , , , note
+A-L-GULPA,3, H5,4.69, , , , note
+A-D-GLCPNAC," 3, 4", H1,5.06, , , , note
+A-D-GLCPNAC," 3, 4", H2,3.98, , , , note
+A-D-GLCPNAC," 3, 4", H3,3.92, , , , note
+A-D-GLCPNAC," 3, 4", H4,3.61, , , , note
+A-D-GLCPNAC," 3, 4", H5,3.74, , , , note
+A-D-GLCPNAC," 3, 4", H6 a,3.72, , , , note
+A-D-GLCPNAC," 3, 4", H6 b,4.03, , , , note
+A-D-GLCPA," 3, 4, 6", H1,5, , , , note
+A-D-GLCPA," 3, 4, 6", H2,3.64, , , , note
+A-D-GLCPA," 3, 4, 6", H3,3.99, , , , note
+A-D-GLCPA," 3, 4, 6", H4,3.77, , , , note
+A-D-GLCPA," 3, 4, 6", H5,4.1, , , , note
+A-D-QUIP4N," 3, 4, 6, 4", H1,5.4, , , , note
+A-D-QUIP4N," 3, 4, 6, 4", H2,3.58, , , , note
+A-D-QUIP4N," 3, 4, 6, 4", H3,3.66, , , , note
+A-D-QUIP4N," 3, 4, 6, 4", H4,2.88, , , , note
+A-D-QUIP4N," 3, 4, 6, 4", H5,3.76, , , , note
+A-D-QUIP4N," 3, 4, 6, 4", H6,1.27, , , , note
+A-D-FUCPNAC, , C1,92.3, , , , note
+A-D-FUCPNAC, , C2,50, , , , note
+A-D-FUCPNAC, , C3,79.3, , , , note
+A-D-FUCPNAC, , C4,72.4, , , , note
+A-D-FUCPNAC, , C5,67.6, , , , note
+A-D-FUCPNAC, , C6,16.8, , , , note
+A-L-GULPA,3, C1,102.2, , , , note
+A-L-GULPA,3, C2,51.4, , , , note
+A-L-GULPA,3, C3,66.5, , , , note
+A-L-GULPA,3, C4,74.9, , , , note
+A-L-GULPA,3, C5,68.2, , , , note
+A-L-GULPA,3, C6,176, , , , note
+A-D-GLCPNAC," 3, 4", C1,96.6, , , , note
+A-D-GLCPNAC," 3, 4", C2,54.6, , , , note
+A-D-GLCPNAC," 3, 4", C3,72.1, , , , note
+A-D-GLCPNAC," 3, 4", C4,71, , , , note
+A-D-GLCPNAC," 3, 4", C5,72.3, , , , note
+A-D-GLCPNAC," 3, 4", C6,67, , , , note
+A-D-GLCPA," 3, 4, 6", C1,99.5, , , , note
+A-D-GLCPA," 3, 4, 6", C2,72.7, , , , note
+A-D-GLCPA," 3, 4, 6", C3,74.9, , , , note
+A-D-GLCPA," 3, 4, 6", C4,78.4, , , , note
+A-D-GLCPA," 3, 4, 6", C5,73.6, , , , note
+A-D-GLCPA," 3, 4, 6", C6,175.5, , , , note
+A-D-QUIP4N," 3, 4, 6, 4", C1,99.5, , , , note
+A-D-QUIP4N," 3, 4, 6, 4", C2,73.6, , , , note
+A-D-QUIP4N," 3, 4, 6, 4", C3,73.6, , , , note
+A-D-QUIP4N," 3, 4, 6, 4", C4,62.1, , , , note
+A-D-QUIP4N," 3, 4, 6, 4", C5,69.2, , , , note
+A-D-QUIP4N," 3, 4, 6, 4", C6,18.4, , , , note

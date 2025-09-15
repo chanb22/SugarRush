@@ -1,0 +1,62 @@
+MHz,0,,,,,,
+Temperature,70,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Jeol-GX270 or Varian INOVA600,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+B-D-GALPNAC, , H1,4.74, , , , note
+B-D-GALPNAC, , H2,4.05, , , , note
+B-D-GALPNAC, , H3,3.88, , , , note
+B-D-GALPNAC, , H4,4.07, , , , note
+B-D-GALPNAC, , H5,3.63, , , , note
+B-D-GALP,3, H1,4.46, , , , note
+B-D-GALP,3, H2,3.61, , , , note
+B-D-GALP,3, H3,3.78, , , , note
+B-D-GALP,3, H4,4.19, , , , note
+B-D-GALP,3, H5,3.68, , , , note
+B-D-GALPNAC," 3, 3", H1,4.74, , , , note
+B-D-GALPNAC," 3, 3", H2,4.05, , , , note
+B-D-GALPNAC," 3, 3", H3,3.88, , , , note
+B-D-GALPNAC," 3, 3", H4,4.07, , , , note
+B-D-GALPNAC," 3, 3", H5,3.63, , , , note
+A-D-GALP," 3, 4", H1,4.91, , , , note
+A-D-GALP," 3, 4", H2,3.74, , , , note
+A-D-GALP," 3, 4", H3,3.9, , , , note
+A-D-GALP," 3, 4", H4,4.21, , , , note
+A-D-GALP," 3, 4", H5,4.51, , , , note
+A-D-GALP," 3, 4", H6,3.76, , , , note
+B-D-MANPNAC," 3, 4, 4", H1,4.91, , , , note
+B-D-MANPNAC," 3, 4, 4", H2,4.59, , , , note
+B-D-MANPNAC," 3, 4, 4", H3,3.79, , , , note
+B-D-MANPNAC," 3, 4, 4", H4,3.5, , , , note
+B-D-MANPNAC," 3, 4, 4", H5,3.39, , , , note
+B-D-MANPNAC," 3, 4, 4", H6,3.9, , , , note
+B-D-GALPNAC, , C1,103.58, , , , note
+B-D-GALPNAC, , C2,52.43, , , , note
+B-D-GALPNAC, , C3,80.24, , , , note
+B-D-GALPNAC, , C4,69.12, , , , note
+B-D-GALPNAC, , C5,75.49, , , , note
+B-D-GALPNAC, , C6,61.68, , , , note
+B-D-GALP,3, C1,105.4, , , , note
+B-D-GALP,3, C2,71.83, , , , note
+B-D-GALP,3, C3,80.24, , , , note
+B-D-GALP,3, C4,74.83, , , , note
+B-D-GALP,3, C5,76.36, , , , note
+B-D-GALP,3, C6,61.92, , , , note
+B-D-GALPNAC," 3, 3", C1,103.58, , , , note
+B-D-GALPNAC," 3, 3", C2,52.43, , , , note
+B-D-GALPNAC," 3, 3", C3,80.24, , , , note
+B-D-GALPNAC," 3, 3", C4,69.12, , , , note
+B-D-GALPNAC," 3, 3", C5,75.49, , , , note
+B-D-GALPNAC," 3, 3", C6,61.68, , , , note
+A-D-GALP," 3, 4", C1,99.48, , , , note
+A-D-GALP," 3, 4", C2,69.56, , , , note
+A-D-GALP," 3, 4", C3,70.17, , , , note
+A-D-GALP," 3, 4", C4,77.8, , , , note
+A-D-GALP," 3, 4", C5,70.69, , , , note
+A-D-GALP," 3, 4", C6,61.49, , , , note
+B-D-MANPNAC," 3, 4, 4", C1,100.99, , , , note
+B-D-MANPNAC," 3, 4, 4", C2,54.14, , , , note
+B-D-MANPNAC," 3, 4, 4", C3,72.83, , , , note
+B-D-MANPNAC," 3, 4, 4", C4,68.03, , , , note
+B-D-MANPNAC," 3, 4, 4", C5,77.05, , , , note
+B-D-MANPNAC," 3, 4, 4", C6,61.07, , , , note

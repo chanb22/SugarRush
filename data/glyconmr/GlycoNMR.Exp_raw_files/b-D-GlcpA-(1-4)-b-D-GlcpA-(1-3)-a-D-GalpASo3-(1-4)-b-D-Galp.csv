@@ -1,0 +1,45 @@
+MHz,400,,,,,,
+Temperature,298,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker DRX-400/ AMX 500,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+B-D-GALP, , H1,4.65, , , , note
+B-D-GALP, , H2,3.56, , , , note
+B-D-GALP, , H3,3.73, , , , note
+B-D-GALP, , H4,4.08, , , , note
+A-D-GALPASO3,4, H1,5.26, , , , note
+A-D-GALPASO3,4, H2,4.64, , , , note
+A-D-GALPASO3,4, H3,4.23, , , , note
+A-D-GALPASO3,4, H4,4.56, , , , note
+A-D-GALPASO3,4, H5,4.75, , , , note
+B-D-GLCPA," 4, 3", H1,4.75, , , , note
+B-D-GLCPA," 4, 3", H2,3.46, , , , note
+B-D-GLCPA," 4, 3", H3,3.66, , , , note
+B-D-GLCPA," 4, 3", H4,3.77, , , , note
+B-D-GLCPA," 4, 3", H5,3.88, , , , note
+B-D-GLCPA," 4, 3, 4", H1,4.52, , , , note
+B-D-GLCPA," 4, 3, 4", H2,3.34, , , , note
+B-D-GLCPA," 4, 3, 4", H3,3.52, , , , note
+B-D-GLCPA," 4, 3, 4", H4,3.5, , , , note
+B-D-GLCPA," 4, 3, 4", H5,3.76, , , , note
+B-D-GALP, , C1,99.3, , , , note
+B-D-GALP, , C2,74.8, , , , note
+B-D-GALP, , C3,75.7, , , , note
+B-D-GALP, , C4,79.2, , , , note
+A-D-GALPASO3,4, C1,101, , , , note
+A-D-GALPASO3,4, C2,77.6, , , , note
+A-D-GALPASO3,4, C3,80, , , , note
+A-D-GALPASO3,4, C4,73.3, , , , note
+A-D-GALPASO3,4, C5,74.6, , , , note
+B-D-GLCPA," 4, 3", C1,106.3, , , , note
+B-D-GLCPA," 4, 3", C2,76, , , , note
+B-D-GLCPA," 4, 3", C3,77.3, , , , note
+B-D-GLCPA," 4, 3", C4,84, , , , note
+B-D-GLCPA," 4, 3", C5,78.8, , , , note
+B-D-GLCPA," 4, 3", C6,178.1, , , , note
+B-D-GLCPA," 4, 3, 4", C1,105.3, , , , note
+B-D-GLCPA," 4, 3, 4", C2,75.9, , , , note
+B-D-GLCPA," 4, 3, 4", C3,78.5, , , , note
+B-D-GLCPA," 4, 3, 4", C4,74.7, , , , note
+B-D-GLCPA," 4, 3, 4", C5,78.8, , , , note
+B-D-GLCPA," 4, 3, 4", C6,178.6, , , , note

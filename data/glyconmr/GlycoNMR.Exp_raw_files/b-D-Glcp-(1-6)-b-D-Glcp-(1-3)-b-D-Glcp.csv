@@ -1,0 +1,44 @@
+MHz,600.13,,,,,,
+Temperature,300,,,,,,
+Solvent,D2O (0.5M NaDO),,,,,,
+Spectrometer,Bruker AVANCE AQS 600,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+B-D-GLCP, , H1,4.78, , , , note
+B-D-GLCP, , H2,3.55, , , , note
+B-D-GLCP, , H3,3.73, , , , note
+B-D-GLCP, , H4,3.53, , , , note
+B-D-GLCP, , H5,3.5, , , , note
+B-D-GLCP, , H61,3.74, , , , note
+B-D-GLCP, , H62,3.96, , , , note
+B-D-GLCP,3, H1,4.77, , , , note
+B-D-GLCP,3, H2,3.55, , , , note
+B-D-GLCP,3, H3,3.72, , , , note
+B-D-GLCP,3, H4,3.59, , , , note
+B-D-GLCP,3, H5,3.7, , , , note
+B-D-GLCP,3, H61,3.88, , , , note
+B-D-GLCP,3, H62,4.26, , , , note
+B-D-GLCP," 3, 6", H1,4.53, , , , note
+B-D-GLCP," 3, 6", H2,3.33, , , , note
+B-D-GLCP," 3, 6", H3,3.48, , , , note
+B-D-GLCP," 3, 6", H4,3.4, , , , note
+B-D-GLCP," 3, 6", H5,3.5, , , , note
+B-D-GLCP," 3, 6", H61,3.74, , , , note
+B-D-GLCP," 3, 6", H62,3.96, , , , note
+B-D-GLCP, , C1,105.3, , , , note
+B-D-GLCP, , C2,75.6, , , , note
+B-D-GLCP, , C3,88.2, , , , note
+B-D-GLCP, , C4,70.5, , , , note
+B-D-GLCP, , C5,77, , , , note
+B-D-GLCP, , C6,63.1, , , , note
+B-D-GLCP,3, C1,105.5, , , , note
+B-D-GLCP,3, C2,76.4, , , , note
+B-D-GLCP,3, C3,88.6, , , , note
+B-D-GLCP,3, C4,70.4, , , , note
+B-D-GLCP,3, C5,77.1, , , , note
+B-D-GLCP,3, C6,71, , , , note
+B-D-GLCP," 3, 6", C1,105.1, , , , note
+B-D-GLCP," 3, 6", C2,75.5, , , , note
+B-D-GLCP," 3, 6", C3,78.3, , , , note
+B-D-GLCP," 3, 6", C4,72.3, , , , note
+B-D-GLCP," 3, 6", C5,78.3, , , , note
+B-D-GLCP," 3, 6", C6,63.1, , , , note

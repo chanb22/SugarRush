@@ -1,0 +1,57 @@
+MHz,500,,,,,,
+Temperature,40,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Varian Inova 500,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-D-GALPNAC, , H1,5.31, , , , note
+A-D-GALPNAC, , H2,4.29, , , , note
+A-D-GALPNAC, , H3,3.98, , , , note
+A-D-GALPNAC, , H4,4.17, , , , note
+A-D-GALPNAC, , H5,4, , , , note
+A-D-GALPNAC, , H6 a,3.74, , , , note
+A-D-GALPNAC, , H6 b,3.74, , , , note
+B-D-MANP,3, H1,4.79, , , , note
+B-D-MANP,3, H2,3.99, , , , note
+B-D-MANP,3, H3,3.72, , , , note
+B-D-MANP,3, H4,3.6, , , , note
+B-D-MANP,3, H5,3.38, , , , note
+B-D-MANP,3, H6 a,3.73, , , , note
+B-D-MANP,3, H6 b,3.92, , , , note
+A-D-MANP," 3, 2", H1,5.33, , , , note
+A-D-MANP," 3, 2", H2,4.1, , , , note
+A-D-MANP," 3, 2", H3,4.03, , , , note
+A-D-MANP," 3, 2", H4,3.79, , , , note
+A-D-MANP," 3, 2", H5,4.02, , , , note
+A-D-MANP," 3, 2", H6 a,3.8, , , , note
+A-D-MANP," 3, 2", H6 b,3.8, , , , note
+A-D-MANP," 3, 2, 2", H1,5.04, , , , note
+A-D-MANP," 3, 2, 2", H2,3.99, , , , note
+A-D-MANP," 3, 2, 2", H3,4.03, , , , note
+A-D-MANP," 3, 2, 2", H4,3.8, , , , note
+A-D-MANP," 3, 2, 2", H5,3.78, , , , note
+A-D-MANP," 3, 2, 2", H6 a,3.8, , , , note
+A-D-MANP," 3, 2, 2", H6 b,3.8, , , , note
+A-D-GALPNAC, , C1,99.4, , , , note
+A-D-GALPNAC, , C2,50.1, , , , note
+A-D-GALPNAC, , C3,77.6, , , , note
+A-D-GALPNAC, , C4,69.6, , , , note
+A-D-GALPNAC, , C5,72.6, , , , note
+A-D-GALPNAC, , C6,62.1, , , , note
+B-D-MANP,3, C1,102.4, , , , note
+B-D-MANP,3, C2,77, , , , note
+B-D-MANP,3, C3,74.8, , , , note
+B-D-MANP,3, C4,68.1, , , , note
+B-D-MANP,3, C5,77.9, , , , note
+B-D-MANP,3, C6,62, , , , note
+A-D-MANP," 3, 2", C1,100.6, , , , note
+A-D-MANP," 3, 2", C2,79.2, , , , note
+A-D-MANP," 3, 2", C3,71.2, , , , note
+A-D-MANP," 3, 2", C4,67.5, , , , note
+A-D-MANP," 3, 2", C5,73.3, , , , note
+A-D-MANP," 3, 2", C6,61.4, , , , note
+A-D-MANP," 3, 2, 2", C1,102.9, , , , note
+A-D-MANP," 3, 2, 2", C2,71.3, , , , note
+A-D-MANP," 3, 2, 2", C3,72.1, , , , note
+A-D-MANP," 3, 2, 2", C4,74.9, , , , note
+A-D-MANP," 3, 2, 2", C5,72.8, , , , note
+A-D-MANP," 3, 2, 2", C6,61.4, , , , note

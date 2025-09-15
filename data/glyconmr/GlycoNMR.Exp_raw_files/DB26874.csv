@@ -1,0 +1,59 @@
+MHz,400,,,,,,
+Temperature,27,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker AMX-600,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+KDO-OL, , H2,4.06, , , , note
+KDO-OL, , H31,1.93, , , , note
+KDO-OL, , H32,2.08, , , , note
+KDO-OL, , H4,3.99, , , , note
+KDO-OL, , H5,4.1, , , , note
+KDO-OL, , H6,3.73, , , , note
+KDO-OL, , H7,3.87, , , , note
+KDO-OL, , H81,3.69, , , , note
+KDO-OL, , H82,3.83, , , , note
+A-D-GLCPANAC,4, H1,4.99, , , , note
+A-D-GLCPANAC,4, H2,3.92, , , , note
+A-D-GLCPANAC,4, H31,3.86, , , , note
+A-D-GLCPANAC,4, H4,3.71, , , , note
+A-D-GLCPANAC,4, H5,4.12, , , , note
+A-D-GALPNAC," 4, 4", H1,5.36, , , , note
+A-D-GALPNAC," 4, 4", H2,4.09, , , , note
+A-D-GALPNAC," 4, 4", H31,3.82, , , , note
+A-D-GALPNAC," 4, 4", H4,3.93, , , , note
+A-D-GALPNAC," 4, 4", H5,3.9, , , , note
+A-D-GALPNAC," 4, 4", H61,3.63, , , , note
+A-D-GALPNAC," 4, 4", H62,3.7, , , , note
+B-D-GLCPN,7, H1,4.77, , , , note
+B-D-GLCPN,7, H2,2.98, , , , note
+B-D-GLCPN,7, H31,3.54, , , , note
+B-D-GLCPN,7, H4,3.4, , , , note
+B-D-GLCPN,7, H5,3.43, , , , note
+B-D-GLCPN,7, H61,3.67, , , , note
+B-D-GLCPN,7, H62,3.85, , , , note
+KDO-OL, , C1,182.4, , , , note
+KDO-OL, , C2,71.2, , , , note
+KDO-OL, , C3,36.6, , , , note
+KDO-OL, , C4,76.8, , , , note
+KDO-OL, , C5,70.5, , , , note
+KDO-OL, , C6,70, , , , note
+KDO-OL, , C7,80.5, , , , note
+KDO-OL, , C8,61.9, , , , note
+A-D-GLCPANAC,4, C1,97, , , , note
+A-D-GLCPANAC,4, C2,55.3, , , , note
+A-D-GLCPANAC,4, C3,73.4, , , , note
+A-D-GLCPANAC,4, C4,77.2, , , , note
+A-D-GLCPANAC,4, C5,74.4, , , , note
+A-D-GLCPANAC,4, C6,177.3, , , , note
+A-D-GALPNAC," 4, 4", C1,98.3, , , , note
+A-D-GALPNAC," 4, 4", C2,50.9, , , , note
+A-D-GALPNAC," 4, 4", C3,68.7, , , , note
+A-D-GALPNAC," 4, 4", C4,69.4, , , , note
+A-D-GALPNAC," 4, 4", C5,71.8, , , , note
+A-D-GALPNAC," 4, 4", C6,61.9, , , , note
+B-D-GLCPN,7, C1,100.4, , , , note
+B-D-GLCPN,7, C2,57.3, , , , note
+B-D-GLCPN,7, C3,74.1, , , , note
+B-D-GLCPN,7, C4,71.1, , , , note
+B-D-GLCPN,7, C5,77.3, , , , note
+B-D-GLCPN,7, C6,61.7, , , , note

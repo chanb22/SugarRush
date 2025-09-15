@@ -1,0 +1,76 @@
+MHz,600,,,,,,
+Temperature,30,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker DRX 600,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+B-D-QUIP4NAC, , H1,4.46, , , , note
+B-D-QUIP4NAC, , H2,3.43, , , , note
+B-D-QUIP4NAC, , H3,3.7, , , , note
+B-D-QUIP4NAC, , H4,3.73, , , , note
+B-D-QUIP4NAC, , H5,3.52, , , , note
+B-D-QUIP4NAC, , H6,1.17, , , , note
+B-D-QUIP4NAC, , NAc,1.96, , , , note
+A-D-GLCPNAC,3, H1,5.08, , , , note
+A-D-GLCPNAC,3, H2,4.03, , , , note
+A-D-GLCPNAC,3, H3,3.97, , , , note
+A-D-GLCPNAC,3, H4,3.68, , , , note
+A-D-GLCPNAC,3, H5,4.22, , , , note
+A-D-GLCPNAC,3, H61,3.88, , , , note
+A-D-GLCPNAC,3, H62,3.8, , , , note
+B-D-GALP," 3, 3", H1,4.69, , , , note
+B-D-GALP," 3, 3", H2,3.98, , , , note
+B-D-GALP," 3, 3", H3,4.37, , , , note
+B-D-GALP," 3, 3", H4,4.19, , , , note
+B-D-GALP," 3, 3", H5,3.76, , , , note
+B-D-GALP," 3, 3", H61,3.9, , , , note
+B-D-GALP," 3, 3", H62,3.88, , , , note
+B-D-GLCPNAC," 3, 3, 2", H1,4.93, , , , note
+B-D-GLCPNAC," 3, 3, 2", H2,3.77, , , , note
+B-D-GLCPNAC," 3, 3, 2", H3,3.48, , , , note
+B-D-GLCPNAC," 3, 3, 2", H4,3.39, , , , note
+B-D-GLCPNAC," 3, 3, 2", H5,3.42, , , , note
+B-D-GLCPNAC," 3, 3, 2", H61,3.94, , , , note
+B-D-GLCPNAC," 3, 3, 2", H62,3.75, , , , note
+A-D-GLCP," 3, 3, 4", H1,5.01, , , , note
+A-D-GLCP," 3, 3, 4", H2,3.52, , , , note
+A-D-GLCP," 3, 3, 4", H3,3.77, , , , note
+A-D-GLCP," 3, 3, 4", H4,3.49, , , , note
+A-D-GLCP," 3, 3, 4", H5,3.93, , , , note
+A-D-GLCP," 3, 3, 4", H61,3.95, , , , note
+A-D-GLCP," 3, 3, 4", H62,3.82, , , , note
+B-D-QUIP4NAC, , C1,103.5, , , , note
+B-D-QUIP4NAC, , C2,73.3, , , , note
+B-D-QUIP4NAC, , C3,78.1, , , , note
+B-D-QUIP4NAC, , C4,57.4, , , , note
+B-D-QUIP4NAC, , C5,72.1, , , , note
+B-D-QUIP4NAC, , C6,17.3, , , , note
+B-D-QUIP4NAC, , NAc,22.9, , , , note
+B-D-QUIP4NAC, , CO,174.7, , , , note
+A-D-GLCPNAC,3, C1,97.9, , , , note
+A-D-GLCPNAC,3, C2,52.6, , , , note
+A-D-GLCPNAC,3, C3,80.7, , , , note
+A-D-GLCPNAC,3, C4,68.5, , , , note
+A-D-GLCPNAC,3, C5,71.9, , , , note
+A-D-GLCPNAC,3, C6,60.8, , , , note
+A-D-GLCPNAC,3, NAc,23.4, , , , note
+A-D-GLCPNAC,3, CO,174.7, , , , note
+B-D-GALP," 3, 3", C1,100.4, , , , note
+B-D-GALP," 3, 3", C2,75.1, , , , note
+B-D-GALP," 3, 3", C3,78.4, , , , note
+B-D-GALP," 3, 3", C4,77.7, , , , note
+B-D-GALP," 3, 3", C5,75.7, , , , note
+B-D-GALP," 3, 3", C6,60.8, , , , note
+B-D-GLCPNAC," 3, 3, 2", C1,100.7, , , , note
+B-D-GLCPNAC," 3, 3, 2", C2,56.3, , , , note
+B-D-GLCPNAC," 3, 3, 2", C3,76.2, , , , note
+B-D-GLCPNAC," 3, 3, 2", C4,71, , , , note
+B-D-GLCPNAC," 3, 3, 2", C5,77.1, , , , note
+B-D-GLCPNAC," 3, 3, 2", C6,62, , , , note
+B-D-GLCPNAC," 3, 3, 2", NAc,23.3, , , , note
+B-D-GLCPNAC," 3, 3, 2", CO,175.8, , , , note
+A-D-GLCP," 3, 3, 4", C1,101.1, , , , note
+A-D-GLCP," 3, 3, 4", C2,72.9, , , , note
+A-D-GLCP," 3, 3, 4", C3,73.5, , , , note
+A-D-GLCP," 3, 3, 4", C4,70.2, , , , note
+A-D-GLCP," 3, 3, 4", C5,73, , , , note
+A-D-GLCP," 3, 3, 4", C6,60.8, , , , note

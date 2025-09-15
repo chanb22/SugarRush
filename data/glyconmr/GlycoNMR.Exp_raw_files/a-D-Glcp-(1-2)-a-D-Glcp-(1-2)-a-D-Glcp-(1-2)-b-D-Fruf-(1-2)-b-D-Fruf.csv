@@ -1,0 +1,65 @@
+MHz,500,,,,,,
+Temperature,27,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker AMX 500,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+B-D-FRUF, , H11,3.79, , , , note
+B-D-FRUF, , H12,3.7, , , , note
+B-D-FRUF, , H3,4.2, , , , note
+B-D-FRUF, , H4,4.08, , , , note
+B-D-FRUF, , H61,3.84, , , , note
+B-D-FRUF, , H62,3.81, , , , note
+B-D-FRUF,2, H11,3.98, , , , note
+B-D-FRUF,2, H12,3.73, , , , note
+B-D-FRUF,2, H3,4.34, , , , note
+B-D-FRUF,2, H4,4.04, , , , note
+B-D-FRUF,2, H6,3.08, , , , note
+A-D-GLCP," 2, 2", H1,5.67, , , , note
+A-D-GLCP," 2, 2", H2,3.61, , , , note
+A-D-GLCP," 2, 2", H3,3.9, , , , note
+A-D-GLCP," 2, 2", H4,3.49, , , , note
+A-D-GLCP," 2, 2", H5,3.9, , , , note
+A-D-GLCP," 2, 2", H6,3.81, , , , note
+A-D-GLCP," 2, 2, 2", H1,5.31, , , , note
+A-D-GLCP," 2, 2, 2", H2,3.69, , , , note
+A-D-GLCP," 2, 2, 2", H3,3.83, , , , note
+A-D-GLCP," 2, 2, 2", H4,3.47, , , , note
+A-D-GLCP," 2, 2, 2", H5,3.83, , , , note
+A-D-GLCP," 2, 2, 2", H6,3.88, , , , note
+A-D-GLCP," 2, 2, 2, 2", H1,5.08, , , , note
+A-D-GLCP," 2, 2, 2, 2", H2,3.59, , , , note
+A-D-GLCP," 2, 2, 2, 2", H3,3.91, , , , note
+A-D-GLCP," 2, 2, 2, 2", H4,3.45, , , , note
+A-D-GLCP," 2, 2, 2, 2", H5,3.96, , , , note
+A-D-GLCP," 2, 2, 2, 2", H61,3.84, , , , note
+A-D-GLCP," 2, 2, 2, 2", H62,3.78, , , , note
+B-D-FRUF, , C1,61.5, , , , note
+B-D-FRUF, , C2,104.71, , , , note
+B-D-FRUF, , C3,77.33, , , , note
+B-D-FRUF, , C4,75.14, , , , note
+B-D-FRUF, , C5,81.93, , , , note
+B-D-FRUF, , C6,63.14, , , , note
+B-D-FRUF,2, C1,61.79, , , , note
+B-D-FRUF,2, C2,104.53, , , , note
+B-D-FRUF,2, C3,76.74, , , , note
+B-D-FRUF,2, C4,74.48, , , , note
+B-D-FRUF,2, C5,82.1, , , , note
+B-D-FRUF,2, C6,62.98, , , , note
+A-D-GLCP," 2, 2", C1,91.82, , , , note
+A-D-GLCP," 2, 2", C2,80.91, , , , note
+A-D-GLCP," 2, 2", C3,72.74, , , , note
+A-D-GLCP," 2, 2", C4,69.78, , , , note
+A-D-GLCP," 2, 2", C5,72.95, , , , note
+A-D-GLCP," 2, 2", C6,60.97, , , , note
+A-D-GLCP," 2, 2, 2", C1,96.96, , , , note
+A-D-GLCP," 2, 2, 2", C2,76.81, , , , note
+A-D-GLCP," 2, 2, 2", C3,72.38, , , , note
+A-D-GLCP," 2, 2, 2", C4,70.52, , , , note
+A-D-GLCP," 2, 2, 2", C5,73.33, , , , note
+A-D-GLCP," 2, 2, 2", C6,61.29, , , , note
+A-D-GLCP," 2, 2, 2, 2", C1,97.56, , , , note
+A-D-GLCP," 2, 2, 2, 2", C2,72.03, , , , note
+A-D-GLCP," 2, 2, 2, 2", C3,73.38, , , , note
+A-D-GLCP," 2, 2, 2, 2", C4,70.27, , , , note
+A-D-GLCP," 2, 2, 2, 2", C5,72.63, , , , note
+A-D-GLCP," 2, 2, 2, 2", C6,61.2, , , , note

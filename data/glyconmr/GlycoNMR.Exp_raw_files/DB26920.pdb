@@ -1,0 +1,143 @@
+HEADER    CARBOHYDRATE
+COMPND    UNNAMED
+AUTHOR    CREATED BY SWEET-II ON WWW.GLYCOSCIENCES.DE
+LINK       O2  GAL    1                     C1  XYP    2
+LINK       O4  GAL    1                     C1  XYP    3
+LINK       O4  XYP    3                     C1  XYP    4
+LINK       O3  XYP    4                     C1  GLC    5
+LINK       O3  GLC    5                     C1  GLA    6
+HETATM    1  C1  GAL     1      -1.034   5.709   6.701  1.00  0.00           C
+HETATM    2  C2  GAL     1       0.491   5.664   6.690  1.00  0.00           C
+HETATM    3  C3  GAL     1       1.023   4.550   5.804  1.00  0.00           C
+HETATM    4  C4  GAL     1       0.383   4.611   4.436  1.00  0.00           C
+HETATM    5  C5  GAL     1      -1.139   4.622   4.575  1.00  0.00           C
+HETATM    6  C6  GAL     1      -1.899   4.705   3.269  1.00  0.00           C
+HETATM    7  O2  GAL     1       0.946   5.477   8.024  1.00  0.00           O
+HETATM    8  OH3 GAL     1       2.440   4.710   5.668  1.00  0.00           O
+HETATM    9  O5  GAL     1      -1.498   5.780   5.346  1.00  0.00           O
+HETATM   10  OH6 GAL     1      -1.566   5.873   2.536  1.00  0.00           O
+HETATM   11  HO3 GAL     1       2.838   3.870   6.237  1.00  0.00           H
+HETATM   12  HO6 GAL     1      -2.232   6.652   2.164  1.00  0.00           H
+HETATM   13  OH1 GAL     1      -1.669   4.602   7.328  1.00  0.00           O
+HETATM   14  O4  GAL     1       0.891   5.792   3.828  1.00  0.00           O
+HETATM   15  HO1 GAL     1      -1.390   3.683   6.814  1.00  0.00           H
+HETATM   16  H5  GAL     1      -1.455   3.729   5.039  1.00  0.00           H
+HETATM   17  H6R GAL     1      -2.867   4.569   3.069  1.00  0.00           H
+HETATM   18  H6S GAL     1      -1.634   3.843   2.656  1.00  0.00           H
+HETATM   19  H1  GAL     1      -1.369   6.569   7.280  1.00  0.00           H
+HETATM   20  H2  GAL     1       0.840   6.626   6.315  1.00  0.00           H
+HETATM   21  H3  GAL     1       0.795   3.592   6.270  1.00  0.00           H
+HETATM   22  H4  GAL     1       0.621   3.749   3.812  1.00  0.00           H
+HETATM   23  C1  XYP     2       1.437   6.624   8.706  1.00  0.00           C
+HETATM   24  C2  XYP     2       1.623   6.371  10.189  1.00  0.00           C
+HETATM   25  C3  XYP     2       2.147   7.641  10.852  1.00  0.00           C
+HETATM   26  C4  XYP     2       3.461   8.080  10.184  1.00  0.00           C
+HETATM   27  C5  XYP     2       3.196   8.206   8.668  1.00  0.00           C
+HETATM   28  OH2 XYP     2       0.360   5.977  10.748  1.00  0.00           O
+HETATM   29  OH3 XYP     2       2.358   7.405  12.246  1.00  0.00           O
+HETATM   30  O5  XYP     2       2.667   7.004   8.113  1.00  0.00           O
+HETATM   31  HO2 XYP     2       0.404   5.931  11.836  1.00  0.00           H
+HETATM   32  HO3 XYP     2       1.575   7.905  12.817  1.00  0.00           H
+HETATM   33  OH4 XYP     2       3.927   9.313  10.717  1.00  0.00           O
+HETATM   34  HO4 XYP     2       4.403   9.136  11.682  1.00  0.00           H
+HETATM   35  H5A XYP     2       4.173   8.360   8.216  1.00  0.00           H
+HETATM   36  H5E XYP     2       2.612   9.061   8.356  1.00  0.00           H
+HETATM   37  H4  XYP     2       4.209   7.305  10.354  1.00  0.00           H
+HETATM   38  H3  XYP     2       1.401   8.428  10.740  1.00  0.00           H
+HETATM   39  H2  XYP     2       2.332   5.559  10.346  1.00  0.00           H
+HETATM   40  H1  XYP     2       0.709   7.422   8.561  1.00  0.00           H
+HETATM   41  C1  XYP     3       1.576   5.638   2.591  1.00  0.00           C
+HETATM   42  C2  XYP     3       1.968   6.970   1.985  1.00  0.00           C
+HETATM   43  C3  XYP     3       2.693   6.727   0.666  1.00  0.00           C
+HETATM   44  C4  XYP     3       3.919   5.828   0.895  1.00  0.00           C
+HETATM   45  C5  XYP     3       3.432   4.547   1.609  1.00  0.00           C
+HETATM   46  OH2 XYP     3       0.780   7.752   1.789  1.00  0.00           O
+HETATM   47  OH3 XYP     3       3.098   7.977   0.100  1.00  0.00           O
+HETATM   48  O5  XYP     3       2.726   4.839   2.812  1.00  0.00           O
+HETATM   49  HO2 XYP     3       0.988   8.657   1.217  1.00  0.00           H
+HETATM   50  HO3 XYP     3       2.458   8.210  -0.751  1.00  0.00           H
+HETATM   51  O4  XYP     3       4.562   5.505  -0.332  1.00  0.00           O
+HETATM   52  H5A XYP     3       4.336   4.015   1.894  1.00  0.00           H
+HETATM   53  H5E XYP     3       2.879   3.844   1.002  1.00  0.00           H
+HETATM   54  H4  XYP     3       4.617   6.356   1.543  1.00  0.00           H
+HETATM   55  H3  XYP     3       2.006   6.238  -0.025  1.00  0.00           H
+HETATM   56  H2  XYP     3       2.624   7.514   2.665  1.00  0.00           H
+HETATM   57  H1  XYP     3       0.902   5.114   1.913  1.00  0.00           H
+HETATM   58  C1  XYP     4       5.983   5.454  -0.322  1.00  0.00           C
+HETATM   59  C2  XYP     4       6.540   4.787  -1.564  1.00  0.00           C
+HETATM   60  C3  XYP     4       8.062   4.767  -1.482  1.00  0.00           C
+HETATM   61  C4  XYP     4       8.601   6.198  -1.320  1.00  0.00           C
+HETATM   62  C5  XYP     4       7.897   6.827  -0.097  1.00  0.00           C
+HETATM   63  OH2 XYP     4       6.007   3.455  -1.646  1.00  0.00           O
+HETATM   64  O3  XYP     4       8.601   4.169  -2.664  1.00  0.00           O
+HETATM   65  O5  XYP     4       6.477   6.778  -0.211  1.00  0.00           O
+HETATM   66  HO2 XYP     4       6.492   2.881  -2.435  1.00  0.00           H
+HETATM   67  OH4 XYP     4      10.012   6.205  -1.146  1.00  0.00           O
+HETATM   68  HO4 XYP     4      10.498   6.065  -2.111  1.00  0.00           H
+HETATM   69  H5A XYP     4       8.180   7.877  -0.111  1.00  0.00           H
+HETATM   70  H5E XYP     4       8.216   6.470   0.872  1.00  0.00           H
+HETATM   71  H4  XYP     4       8.341   6.766  -2.214  1.00  0.00           H
+HETATM   72  H3  XYP     4       8.359   4.167  -0.621  1.00  0.00           H
+HETATM   73  H2  XYP     4       6.230   5.332  -2.455  1.00  0.00           H
+HETATM   74  H1  XYP     4       6.279   4.887   0.560  1.00  0.00           H
+HETATM   75  C1  GLC     5       9.253   2.924  -2.513  1.00  0.00           C
+HETATM   76  C2  GLC     5       9.604   2.352  -3.904  1.00  0.00           C
+HETATM   77  C3  GLC     5      10.479   1.090  -3.743  1.00  0.00           C
+HETATM   78  C4  GLC     5      11.731   1.370  -2.879  1.00  0.00           C
+HETATM   79  C5  GLC     5      11.337   2.034  -1.525  1.00  0.00           C
+HETATM   80  C6  GLC     5      12.550   2.522  -0.713  1.00  0.00           C
+HETATM   81  OH2 GLC     5       8.412   2.028  -4.613  1.00  0.00           O
+HETATM   82  O3  GLC     5      10.877   0.645  -5.032  1.00  0.00           O
+HETATM   83  OH4 GLC     5      12.396   0.131  -2.662  1.00  0.00           O
+HETATM   84  O5  GLC     5      10.462   3.187  -1.758  1.00  0.00           O
+HETATM   85  OH6 GLC     5      13.176   3.625  -1.363  1.00  0.00           O
+HETATM   86  HO2 GLC     5       7.819   2.771  -4.460  1.00  0.00           H
+HETATM   87  HO4 GLC     5      12.404  -0.293  -3.526  1.00  0.00           H
+HETATM   88  HO6 GLC     5      12.458   4.102  -1.795  1.00  0.00           H
+HETATM   89  H1  GLC     5       8.597   2.224  -1.954  1.00  0.00           H
+HETATM   90  H2  GLC     5      10.172   3.118  -4.469  1.00  0.00           H
+HETATM   91  H3  GLC     5       9.876   0.294  -3.259  1.00  0.00           H
+HETATM   92  H4  GLC     5      12.403   2.054  -3.435  1.00  0.00           H
+HETATM   93  H5  GLC     5      10.796   1.284  -0.914  1.00  0.00           H
+HETATM   94  H6S GLC     5      12.223   2.828   0.299  1.00  0.00           H
+HETATM   95  H6R GLC     5      13.280   1.703  -0.564  1.00  0.00           H
+HETATM   96  C1  GLA     6      10.744  -0.744  -5.305  1.00  0.00           C
+HETATM   97  C2  GLA     6      11.610  -1.269  -6.446  1.00  0.00           C
+HETATM   98  C3  GLA     6      11.173  -0.719  -7.793  1.00  0.00           C
+HETATM   99  C4  GLA     6       9.686  -0.912  -7.987  1.00  0.00           C
+HETATM  100  C5  GLA     6       8.927  -0.323  -6.799  1.00  0.00           C
+HETATM  101  C6  GLA     6       7.423  -0.476  -6.863  1.00  0.00           C
+HETATM  102  OH2 GLA     6      12.960  -0.904  -6.193  1.00  0.00           O
+HETATM  103  OH3 GLA     6      11.876  -1.419  -8.826  1.00  0.00           O
+HETATM  104  O5  GLA     6       9.370  -1.009  -5.616  1.00  0.00           O
+HETATM  105  OH6 GLA     6       7.031  -1.837  -6.940  1.00  0.00           O
+HETATM  106  HO2 GLA     6      13.576  -1.697  -5.768  1.00  0.00           H
+HETATM  107  HO3 GLA     6      12.559  -0.664  -9.215  1.00  0.00           H
+HETATM  108  HO6 GLA     6       6.356  -2.386  -6.283  1.00  0.00           H
+HETATM  109  OH4 GLA     6       9.498  -2.315  -8.124  1.00  0.00           O
+HETATM  110  HO4 GLA     6      10.068  -2.677  -8.979  1.00  0.00           H
+HETATM  111  H5  GLA     6       9.112   0.714  -6.744  1.00  0.00           H
+HETATM  112  H6S GLA     6       6.702  -0.054  -6.318  1.00  0.00           H
+HETATM  113  H6R GLA     6       7.073   0.006  -7.730  1.00  0.00           H
+HETATM  114  H1  GLA     6      11.039  -1.226  -4.373  1.00  0.00           H
+HETATM  115  H2  GLA     6      11.517  -2.355  -6.450  1.00  0.00           H
+HETATM  116  H3  GLA     6      11.409   0.345  -7.832  1.00  0.00           H
+HETATM  117  H4  GLA     6       9.299  -0.406  -8.871  1.00  0.00           H
+CHLDEF    1    40   23    7    2   20    0  48.0  15.0 148.3
+CHLDEF    2    57   41   14    4   22    0  55.0  -0.0 -91.0
+CHLDEF    3    74   58   51   44   54    0  46.0  22.0 -116.0
+CHLDEF    4    89   75   64   60   72    0  51.0   6.0 -101.5
+CHLDEF    5   114   96   82   77   91    0 -39.0 -14.9 -117.6
+CHLNAM    1 B-D-XYLP-(1-2)-A-L-GALP
+CHLNAM    2 B-D-XYLP-(1-4)-A-L-GALP
+CHLNAM    3 B-D-XYLP-(1-4)-B-D-XYLP
+CHLNAM    4 B-D-GLCP-(1-3)-B-D-XYLP
+CHLNAM    5 A-D-GALP-(1-3)-B-D-GLCP
+SWECON 1   2  1  B-D-XYLP-(1-2)-A-L-GALP
+SWECON 2   3  1  B-D-XYLP-(1-4)-A-L-GALP
+SWECON 3   4  3  B-D-XYLP-(1-4)-B-D-XYLP
+SWECON 4   5  4  B-D-GLCP-(1-3)-B-D-XYLP
+SWECON 5   6  5  A-D-GALP-(1-3)-B-D-GLCP
+MASTER        0    0    0    0    0    0    0    0  117    0  117    0
+END
+

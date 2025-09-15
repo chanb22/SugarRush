@@ -1,0 +1,36 @@
+
+
+
+<br />
+<b>Notice</b>:  Undefined index: children in <b>/home/www/include/php/linucs2semlin/l2sl.php</b> on line <b>410</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/home/www/include/php/linucs2semlin/l2sl.php</b> on line <b>410</b><br />
+HEADER    CARBOHYDRATE
+COMPND    UNNAMED
+AUTHOR    CREATED BY SWEET-II ON WWW.GLYCOSCIENCES.DE
+HETATM    1  C1  GLC     1       6.599  -5.466   7.324  1.00  0.00           C
+HETATM    2  C2  GLC     1       5.827  -5.436   8.667  1.00  0.00           C
+HETATM    3  C3  GLC     1       4.328  -5.729   8.435  1.00  0.00           C
+HETATM    4  C4  GLC     1       3.718  -4.793   7.368  1.00  0.00           C
+HETATM    5  C5  GLC     1       4.556  -4.853   6.055  1.00  0.00           C
+HETATM    6  C6  GLC     1       4.005  -3.907   4.970  1.00  0.00           C
+HETATM    7  O5  GLC     1       5.967  -4.574   6.366  1.00  0.00           O
+HETATM    8  OH1 GLC     1       7.918  -4.989   7.513  1.00  0.00           O
+HETATM    9  OH2 GLC     1       6.338  -6.411   9.567  1.00  0.00           O
+HETATM   10  OH3 GLC     1       3.616  -5.555   9.652  1.00  0.00           O
+HETATM   11  OH4 GLC     1       2.368  -5.190   7.121  1.00  0.00           O
+HETATM   12  O6  GLC     1       2.815  -3.861   4.657  1.00  0.00           O
+HETATM   13  OH6 GLC     1       4.979  -3.140   4.399  1.00  0.00           O
+HETATM   14  H1  GLC     1       6.637  -6.499   6.923  1.00  0.00           H
+HETATM   15  H2  GLC     1       5.930  -4.431   9.121  1.00  0.00           H
+HETATM   16  H3  GLC     1       4.213  -6.781   8.100  1.00  0.00           H
+HETATM   17  H4  GLC     1       3.729  -3.754   7.757  1.00  0.00           H
+HETATM   18  H5  GLC     1       4.479  -5.872   5.631  1.00  0.00           H
+HETATM   19  HO6 GLC     1       5.815  -3.353   4.823  1.00  0.00           H
+HETATM   20  HO1 GLC     1       7.809  -4.089   7.823  1.00  0.00           H
+HETATM   21  HO2 GLC     1       5.652  -6.511  10.236  1.00  0.00           H
+HETATM   22  HO3 GLC     1       2.692  -5.492   9.385  1.00  0.00           H
+HETATM   23  HO4 GLC     1       2.087  -4.723   6.321  1.00  0.00           H
+MASTER        0    0    0    0    0    0    0    0   23    0   23    0
+END
+

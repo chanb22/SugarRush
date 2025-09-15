@@ -1,0 +1,31 @@
+MHz,0,,,,,,
+Temperature,60,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker WM-250,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+B-D-GLCP1OME, , H1,4.43, , , , note
+B-D-GLCP1OME, , H2,3.36, , , , note
+B-D-GLCP1OME, , H3,3.72, , , , note
+B-D-GLCP1OME, , H4,3.61, , , , note
+B-D-GLCP1OME, , H5,3.48, , , , note
+B-D-GLCP1OME, , H6a,3.74, , , , note
+B-D-GLCP1OME, , H6b,3.94, , , , note
+B-L-FUCP,3, H1,4.62, , , , note
+B-L-FUCP,3, H2,3.56, , , , note
+B-L-FUCP,3, H3,3.68, , , , note
+B-L-FUCP,3, H4,3.77, , , , note
+B-L-FUCP,3, H5,3.83, , , , note
+B-L-FUCP,3, H6,1.27, , , , note
+B-D-GLCP1OME, , C1,104.2, , , , note
+B-D-GLCP1OME, , C2,72.9, , , , note
+B-D-GLCP1OME, , C3,86.1, , , , note
+B-D-GLCP1OME, , C4,70.2, , , , note
+B-D-GLCP1OME, , C5,76.8, , , , note
+B-D-GLCP1OME, , C6,61.9, , , , note
+B-D-GLCP1OME, , OMe,58.2, , , , note
+B-L-FUCP,3, C1,104.2, , , , note
+B-L-FUCP,3, C2,72.2, , , , note
+B-L-FUCP,3, C3,74, , , , note
+B-L-FUCP,3, C4,72.2, , , , note
+B-L-FUCP,3, C5,72.4, , , , note
+B-L-FUCP,3, C6,16.5, , , , note

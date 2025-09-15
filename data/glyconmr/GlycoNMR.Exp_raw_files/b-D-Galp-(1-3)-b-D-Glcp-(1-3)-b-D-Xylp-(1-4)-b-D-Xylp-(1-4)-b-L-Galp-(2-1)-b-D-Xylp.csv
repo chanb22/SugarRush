@@ -1,0 +1,72 @@
+MHz,400,,,,,,
+Temperature,300,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker ASX 400,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+B-D-XYLP, , H1,4.72, , , , note
+B-D-XYLP, , H2,3.33, , , , note
+B-D-XYLP, , H3,3.5, , , , note
+B-D-XYLP, , H4,3.65, , , , note
+B-D-XYLP, , H51,3.29, , , , note
+B-D-XYLP, , H52,3.97, , , , note
+B-L-GALP,1, H1,4.77, , , , note
+B-L-GALP,1, H2,3.66, , , , note
+B-L-GALP,1, H3,3.71, , , , note
+B-L-GALP,1, H4,4.15, , , , note
+B-L-GALP,1, H5,3.76, , , , note
+B-D-XYLP," 1, 4", H1,4.38, , , , note
+B-D-XYLP," 1, 4", H2,3.41, , , , note
+B-D-XYLP," 1, 4", H3,3.58, , , , note
+B-D-XYLP," 1, 4", H4,3.81, , , , note
+B-D-XYLP," 1, 4", H51,3.83, , , , note
+B-D-XYLP," 1, 4", H52,4.14, , , , note
+B-D-XYLP," 1, 4, 4", H1,4.51, , , , note
+B-D-XYLP," 1, 4, 4", H2,3.48, , , , note
+B-D-XYLP," 1, 4, 4", H3,3.7, , , , note
+B-D-XYLP," 1, 4, 4", H4,3.73, , , , note
+B-D-XYLP," 1, 4, 4", H51,3.34, , , , note
+B-D-XYLP," 1, 4, 4", H52,4.04, , , , note
+B-D-GLCP," 1, 4, 4, 3", H1,4.77, , , , note
+B-D-GLCP," 1, 4, 4, 3", H2,3.48, , , , note
+B-D-GLCP," 1, 4, 4, 3", H3,3.67, , , , note
+B-D-GLCP," 1, 4, 4, 3", H4,3.67, , , , note
+B-D-GLCP," 1, 4, 4, 3", H5,3.49, , , , note
+B-D-GLCP," 1, 4, 4, 3", H6,3.93, , , , note
+B-D-GALP," 1, 4, 4, 3, 3", H1,5.36, , , , note
+B-D-GALP," 1, 4, 4, 3, 3", H2,3.88, , , , note
+B-D-GALP," 1, 4, 4, 3, 3", H3,3.89, , , , note
+B-D-GALP," 1, 4, 4, 3, 3", H4,4.03, , , , note
+B-D-GALP," 1, 4, 4, 3, 3", H5,4.25, , , , note
+B-D-GALP," 1, 4, 4, 3, 3", H6,3.75, , , , note
+B-D-XYLP, , C1,103.72, , , , note
+B-D-XYLP, , C2,74.26, , , , note
+B-D-XYLP, , C3,76.83, , , , note
+B-D-XYLP, , C4,70.46, , , , note
+B-D-XYLP, , C5,66.41, , , , note
+B-L-GALP,1, C1,97.22, , , , note
+B-L-GALP,1, C2,80.47, , , , note
+B-L-GALP,1, C3,71.66, , , , note
+B-L-GALP,1, C4,78.53, , , , note
+B-L-GALP,1, C5,75.95, , , , note
+B-D-XYLP," 1, 4", C1,104.47, , , , note
+B-D-XYLP," 1, 4", C2,74.46, , , , note
+B-D-XYLP," 1, 4", C3,74.96, , , , note
+B-D-XYLP," 1, 4", C4,77.64, , , , note
+B-D-XYLP," 1, 4", C5,64.27, , , , note
+B-D-XYLP," 1, 4, 4", C1,102.62, , , , note
+B-D-XYLP," 1, 4, 4", C2,73.52, , , , note
+B-D-XYLP," 1, 4, 4", C3,85.26, , , , note
+B-D-XYLP," 1, 4, 4", C4,69.07, , , , note
+B-D-XYLP," 1, 4, 4", C5,66.03, , , , note
+B-D-GLCP," 1, 4, 4, 3", C1,103.72, , , , note
+B-D-GLCP," 1, 4, 4, 3", C2,73.52, , , , note
+B-D-GLCP," 1, 4, 4, 3", C3,83.8, , , , note
+B-D-GLCP," 1, 4, 4, 3", C4,71.08, , , , note
+B-D-GLCP," 1, 4, 4, 3", C5,76.83, , , , note
+B-D-GLCP," 1, 4, 4, 3", C6,61.92, , , , note
+B-D-GALP," 1, 4, 4, 3, 3", C1,100.23, , , , note
+B-D-GALP," 1, 4, 4, 3, 3", C2,69.83, , , , note
+B-D-GALP," 1, 4, 4, 3, 3", C3,70.7, , , , note
+B-D-GALP," 1, 4, 4, 3, 3", C4,70.46, , , , note
+B-D-GALP," 1, 4, 4, 3, 3", C5,72.04, , , , note
+B-D-GALP," 1, 4, 4, 3, 3", C6,61.15, , , , note

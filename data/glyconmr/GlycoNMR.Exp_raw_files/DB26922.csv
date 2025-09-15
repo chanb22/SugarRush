@@ -1,0 +1,40 @@
+MHz,0,,,,,,
+Temperature,35,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker DRX-500,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-D-RHAP4NAC, , H1,5.29, , , , note
+A-D-RHAP4NAC, , H2,4.29, , , , note
+A-D-RHAP4NAC, , H3,4.2, , , , note
+A-D-RHAP4NAC, , H4,3.97, , , , note
+A-D-RHAP4NAC, , H5,3.97, , , , note
+A-D-RHAP4NAC, , H6,1.24, , , , note
+B-L-XYLP,2, H1,4.47, , , , note
+B-L-XYLP,2, H2,3.38, , , , note
+B-L-XYLP,2, H3,3.41, , , , note
+B-L-XYLP,2, H4,3.63, , , , note
+B-L-XYLP,2, H51,3.95, , , , note
+B-L-XYLP,2, H52,3.28, , , , note
+B-D-RHAP,3, H1,4.74, , , , note
+B-D-RHAP,3, H2,4.04, , , , note
+B-D-RHAP,3, H3,3.65, , , , note
+B-D-RHAP,3, H4,3.47, , , , note
+B-D-RHAP,3, H5,3.4, , , , note
+B-D-RHAP,3, H6,1.33, , , , note
+A-D-RHAP4NAC, , C1,102.2, , , , note
+A-D-RHAP4NAC, , C2,76.7, , , , note
+A-D-RHAP4NAC, , C3,75.4, , , , note
+A-D-RHAP4NAC, , C4,52.4, , , , note
+A-D-RHAP4NAC, , C5,69, , , , note
+A-D-RHAP4NAC, , C6,18, , , , note
+B-L-XYLP,2, C1,106, , , , note
+B-L-XYLP,2, C2,73.9, , , , note
+B-L-XYLP,2, C3,76.5, , , , note
+B-L-XYLP,2, C4,70.1, , , , note
+B-L-XYLP,2, C5,66, , , , note
+B-D-RHAP,3, C1,98.2, , , , note
+B-D-RHAP,3, C2,71.8, , , , note
+B-D-RHAP,3, C3,81.4, , , , note
+B-D-RHAP,3, C4,72.3, , , , note
+B-D-RHAP,3, C5,72.8, , , , note
+B-D-RHAP,3, C6,17.6, , , , note

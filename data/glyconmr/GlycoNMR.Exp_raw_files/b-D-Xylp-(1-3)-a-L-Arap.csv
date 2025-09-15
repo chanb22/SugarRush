@@ -1,0 +1,27 @@
+MHz,360,,,,,,
+Temperature,300,,,,,,
+Solvent,DMSO d6/ D2O,,,,,,
+Spectrometer,Bruker DRX 360,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-L-ARAP, , H1,4.54, , , , note
+A-L-ARAP, , H2,3.64, , , , note
+A-L-ARAP, , H3,3.77, , , , note
+A-L-ARAP, , H4,4.1, , , , note
+A-L-ARAP, , H51,3.88, , , , note
+A-L-ARAP, , H52,3.66, , , , note
+B-D-XYLP,3, H1,4.6, , , , note
+B-D-XYLP,3, H2,3.35, , , , note
+B-D-XYLP,3, H3,3.44, , , , note
+B-D-XYLP,3, H4,3.61, , , , note
+B-D-XYLP,3, H51,3.94, , , , note
+B-D-XYLP,3, H52,3.29, , , , note
+A-L-ARAP, , C1,97.3, , , , note
+A-L-ARAP, , C2,71.8, , , , note
+A-L-ARAP, , C3,82.6, , , , note
+A-L-ARAP, , C4,69, , , , note
+A-L-ARAP, , C5,66.7, , , , note
+B-D-XYLP,3, C1,105.1, , , , note
+B-D-XYLP,3, C2,74, , , , note
+B-D-XYLP,3, C3,76.3, , , , note
+B-D-XYLP,3, C4,70, , , , note
+B-D-XYLP,3, C5,65.9, , , , note

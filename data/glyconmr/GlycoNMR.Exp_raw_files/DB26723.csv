@@ -1,0 +1,66 @@
+MHz,600,,,,,,
+Temperature,40,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Varian Inova 600,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-D-FUCPNAC, , H1,5.56, , , , note
+A-D-FUCPNAC, , H2,4.33, , , , note
+A-D-FUCPNAC, , H3,3.74, , , , note
+A-D-FUCPNAC, , H4,3.99, , , , note
+A-D-FUCPNAC, , H5,3.96, , , , note
+A-D-FUCPNAC, , H6,1.27, , , , note
+B-D-GALP,3, H1,4.48, , , , note
+B-D-GALP,3, H2,3.63, , , , note
+B-D-GALP,3, H3,3.69, , , , note
+B-D-GALP,3, H4,4.07, , , , note
+B-D-GALP,3, H5,3.91, , , , note
+B-D-GALP,3, H61,3.65, , , , note
+B-D-GALP,3, H62,3.89, , , , note
+A-L-RHAP," 3, 3", H1,5.02, , , , note
+A-L-RHAP," 3, 3", H2,4.31, , , , note
+A-L-RHAP," 3, 3", H3,3.95, , , , note
+A-L-RHAP," 3, 3", H4,3.52, , , , note
+A-L-RHAP," 3, 3", H5,3.85, , , , note
+A-L-RHAP," 3, 3", H6,1.28, , , , note
+B-D-QUIP3NAC," 3, 3, 3", H1,4.89, , , , note
+B-D-QUIP3NAC," 3, 3, 3", H2,3.48, , , , note
+B-D-QUIP3NAC," 3, 3, 3", H3,3.93, , , , note
+B-D-QUIP3NAC," 3, 3, 3", H4,3.24, , , , note
+B-D-QUIP3NAC," 3, 3, 3", H5,3.58, , , , note
+B-D-QUIP3NAC," 3, 3, 3", H6,1.32, , , , note
+A-D-GALP," 3, 6", H1,4.98, , , , note
+A-D-GALP," 3, 6", H2,3.85, , , , note
+A-D-GALP," 3, 6", H3,3.79, , , , note
+A-D-GALP," 3, 6", H4,3.98, , , , note
+A-D-GALP," 3, 6", H5,3.88, , , , note
+A-D-GALP," 3, 6", H6,3.75, , , , note
+A-D-FUCPNAC, , C1,96.5, , , , note
+A-D-FUCPNAC, , C2,48.4, , , , note
+A-D-FUCPNAC, , C3,79.7, , , , note
+A-D-FUCPNAC, , C4,72, , , , note
+A-D-FUCPNAC, , C5,67.5, , , , note
+A-D-FUCPNAC, , C6,16.4, , , , note
+B-D-GALP,3, C1,105.7, , , , note
+B-D-GALP,3, C2,70.7, , , , note
+B-D-GALP,3, C3,81.5, , , , note
+B-D-GALP,3, C4,69, , , , note
+B-D-GALP,3, C5,73.4, , , , note
+B-D-GALP,3, C6,67, , , , note
+A-L-RHAP," 3, 3", C1,102.9, , , , note
+A-L-RHAP," 3, 3", C2,70.5, , , , note
+A-L-RHAP," 3, 3", C3,80.6, , , , note
+A-L-RHAP," 3, 3", C4,71.6, , , , note
+A-L-RHAP," 3, 3", C5,70.1, , , , note
+A-L-RHAP," 3, 3", C6,17.5, , , , note
+B-D-QUIP3NAC," 3, 3, 3", C1,104.8, , , , note
+B-D-QUIP3NAC," 3, 3, 3", C2,75.1, , , , note
+B-D-QUIP3NAC," 3, 3, 3", C3,56.6, , , , note
+B-D-QUIP3NAC," 3, 3, 3", C4,73.7, , , , note
+B-D-QUIP3NAC," 3, 3, 3", C5,73.7, , , , note
+B-D-QUIP3NAC," 3, 3, 3", C6,17.7, , , , note
+A-D-GALP," 3, 6", C1,99.5, , , , note
+A-D-GALP," 3, 6", C2,69, , , , note
+A-D-GALP," 3, 6", C3,70.2, , , , note
+A-D-GALP," 3, 6", C4,70.1, , , , note
+A-D-GALP," 3, 6", C5,72, , , , note
+A-D-GALP," 3, 6", C6,62, , , , note

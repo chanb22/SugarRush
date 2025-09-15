@@ -1,0 +1,31 @@
+MHz,500,,,,,,
+Temperature,50,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Unity Inova NMR,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+B-D-FRUF, , H1 a,3.67, , , , note
+B-D-FRUF, , H1 b,3.77, , , , note
+B-D-FRUF, , H3,4.19, , , , note
+B-D-FRUF, , H4,4.09, , , , note
+B-D-FRUF, , H5,3.95, , , , note
+B-D-FRUF, , H6 a,3.55, , , , note
+B-D-FRUF, , H6 b,3.9, , , , note
+B-D-FRUF,6, H1 a,3.67, , , , note
+B-D-FRUF,6, H1 b,3.77, , , , note
+B-D-FRUF,6, H3,4.19, , , , note
+B-D-FRUF,6, H4,4.09, , , , note
+B-D-FRUF,6, H5,3.95, , , , note
+B-D-FRUF,6, H6 a,3.55, , , , note
+B-D-FRUF,6, H6 b,3.9, , , , note
+B-D-FRUF, , C1,60.75, , , , note
+B-D-FRUF, , C2,105.02, , , , note
+B-D-FRUF, , C3,77.13, , , , note
+B-D-FRUF, , C4,76.02, , , , note
+B-D-FRUF, , C5,81.1, , , , note
+B-D-FRUF, , C6,64.21, , , , note
+B-D-FRUF,6, C1,60.75, , , , note
+B-D-FRUF,6, C2,105.02, , , , note
+B-D-FRUF,6, C3,77.13, , , , note
+B-D-FRUF,6, C4,76.02, , , , note
+B-D-FRUF,6, C5,81.1, , , , note
+B-D-FRUF,6, C6,64.21, , , , note

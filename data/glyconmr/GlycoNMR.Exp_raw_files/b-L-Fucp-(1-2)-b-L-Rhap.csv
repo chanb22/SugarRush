@@ -1,0 +1,27 @@
+MHz,0,,,,,,
+Temperature,70,,,,,,
+Solvent,D2O,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+B-L-RHAP, , H1,4.93, , , , note
+B-L-RHAP, , H2,4.11, , , , note
+B-L-RHAP, , H3,3.6, , , , note
+B-L-RHAP, , H4,3.36, , , , note
+B-L-RHAP, , H5,3.42, , , , note
+B-L-RHAP, , H6,1.31, , , , note
+B-L-FUCP,2, H1,4.48, , , , note
+B-L-FUCP,2, H2,3.64, , , , note
+B-L-FUCP,2, H3,3.67, , , , note
+B-L-FUCP,2, H4,3.82, , , , note
+B-L-FUCP,2, H5,1.28, , , , note
+B-L-RHAP, , C1,94.28, , , , note
+B-L-RHAP, , C2,81.9, , , , note
+B-L-RHAP, , C3,72.94, , , , note
+B-L-RHAP, , C4,73.41, , , , note
+B-L-RHAP, , C5,73.05, , , , note
+B-L-RHAP, , C6,17.56, , , , note
+B-L-FUCP,2, C1,105.06, , , , note
+B-L-FUCP,2, C2,71.89, , , , note
+B-L-FUCP,2, C3,73.75, , , , note
+B-L-FUCP,2, C4,72.14, , , , note
+B-L-FUCP,2, C5,72, , , , note
+B-L-FUCP,2, C6,16.19, , , , note

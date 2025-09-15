@@ -1,0 +1,49 @@
+MHz,400,,,,,,
+Temperature,300,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker ASX 400,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+B-D-XYLP, , H1,4.714, , , , note
+B-D-XYLP, , H2,3.303, , , , note
+B-D-XYLP, , H3,3.445, , , , note
+B-D-XYLP, , H4,3.632, , , , note
+B-D-XYLP, , H5 ax,3.301, , , , note
+B-D-XYLP, , H5 eq,3.97, , , , note
+B-L-GALP,1, H1,4.775, , , , note
+B-L-GALP,1, H2,3.634, , , , note
+B-L-GALP,1, H3,3.715, , , , note
+B-L-GALP,1, H4,4.13, , , , note
+B-L-GALP,1, H5,3.772, , , , note
+B-D-XYLP," 1, 4", H1,4.356, , , , note
+B-D-XYLP," 1, 4", H2,3.396, , , , note
+B-D-XYLP," 1, 4", H3,3.562, , , , note
+B-D-XYLP," 1, 4", H4,3.811, , , , note
+B-D-XYLP," 1, 4", H5 ax,3.355, , , , note
+B-D-XYLP," 1, 4", H5 eq,4.107, , , , note
+B-D-XYLP," 1, 4, 4", H1,4.461, , , , note
+B-D-XYLP," 1, 4, 4", H2,3.256, , , , note
+B-D-XYLP," 1, 4, 4", H3,3.429, , , , note
+B-D-XYLP," 1, 4, 4", H4,3.632, , , , note
+B-D-XYLP," 1, 4, 4", H5 ax,3.301, , , , note
+B-D-XYLP," 1, 4, 4", H5 eq,3.97, , , , note
+B-D-XYLP, , C1,103.99, , , , note
+B-D-XYLP, , C2,74.04, , , , note
+B-D-XYLP, , C3,76.91, , , , note
+B-D-XYLP, , C4,70.44, , , , note
+B-D-XYLP, , C5,66.47, , , , note
+B-L-GALP,1, C1,97.44, , , , note
+B-L-GALP,1, C2,80.33, , , , note
+B-L-GALP,1, C3,71.66, , , , note
+B-L-GALP,1, C4,78.45, , , , note
+B-L-GALP,1, C5,76.13, , , , note
+B-L-GALP,1, C6,61.83, , , , note
+B-D-XYLP," 1, 4", C1,104.7, , , , note
+B-D-XYLP," 1, 4", C2,74.5, , , , note
+B-D-XYLP," 1, 4", C3,74.97, , , , note
+B-D-XYLP," 1, 4", C4,77.64, , , , note
+B-D-XYLP," 1, 4", C5,64.29, , , , note
+B-D-XYLP," 1, 4, 4", C1,103.08, , , , note
+B-D-XYLP," 1, 4, 4", C2,74.04, , , , note
+B-D-XYLP," 1, 4, 4", C3,76.92, , , , note
+B-D-XYLP," 1, 4, 4", C4,70.44, , , , note
+B-D-XYLP," 1, 4, 4", C5,66.47, , , , note

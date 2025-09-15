@@ -1,0 +1,42 @@
+MHz,360,,,,,,
+Temperature,32,,,,,,
+Solvent,"mixture of CDCl? : CD3OD : D2O 2 : 2 : 0,2",,,,,,
+Spectrometer,Bruker AM-360,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+D-GLCPA, , H1,4.76, , , , note
+D-GLCPA, , H2,3.46, , , , note
+D-GLCPA, , H3,3.8, , , , note
+D-GLCPA, , H4,3.71, , , , note
+D-GLCPA, , H5,3.96, , , , note
+D-GLCPN,4, H1,5.67, , , , note
+D-GLCPN,4, H2,3.06, , , , note
+D-GLCPN,4, H3,3.72, , , , note
+D-GLCPN,4, H4,3.2, , , , note
+D-GLCPN,4, H5,3.83, , , , note
+D-GLCPN,4, H61,3.63, , , , note
+D-GLCPN,4, H62,3.83, , , , note
+A-D-GALP," 4, 6", H1,4.85, , , , note
+A-D-GALP," 4, 6", H2,3.72, , , , note
+A-D-GALP," 4, 6", H3,3.75, , , , note
+A-D-GALP," 4, 6", H4,3.85, , , , note
+A-D-GALP," 4, 6", H5,3.81, , , , note
+A-D-GALP," 4, 6", H61,3.63, , , , note
+A-D-GALP," 4, 6", H62,3.72, , , , note
+D-GLCPA, , C1,98.6, , , , note
+D-GLCPA, , C2,71.2, , , , note
+D-GLCPA, , C3,73.6, , , , note
+D-GLCPA, , C4,74.9, , , , note
+D-GLCPA, , C5,71.7, , , , note
+D-GLCPA, , C6,175, , , , note
+D-GLCPN,4, C1,94.7, , , , note
+D-GLCPN,4, C2,54.2, , , , note
+D-GLCPN,4, C3,70.2, , , , note
+D-GLCPN,4, C4,69.7, , , , note
+D-GLCPN,4, C5,70.8, , , , note
+D-GLCPN,4, C6,67.1, , , , note
+A-D-GALP," 4, 6", C1,97.9, , , , note
+A-D-GALP," 4, 6", C2,68.4, , , , note
+A-D-GALP," 4, 6", C3,69.3, , , , note
+A-D-GALP," 4, 6", C4,69.1, , , , note
+A-D-GALP," 4, 6", C5,70.4, , , , note
+A-D-GALP," 4, 6", C6,60.8, , , , note

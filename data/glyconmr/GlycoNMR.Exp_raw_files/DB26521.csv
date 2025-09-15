@@ -1,0 +1,56 @@
+MHz,500,,,,,,
+Temperature,50,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker DRX-500,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-D-GALPA, , H1,5.37, , , , note
+A-D-GALPA, , H2,3.93, , , , note
+A-D-GALPA, , H3,3.99, , , , note
+A-D-GALPA, , H4,4.41, , , , note
+A-D-GALPA, , H5,4.42, , , , note
+A-D-GLCP,4, H1,4.96, , , , note
+A-D-GLCP,4, H2,3.44, , , , note
+A-D-GLCP,4, H3,3.68, , , , note
+A-D-GLCP,4, H4,3.58, , , , note
+A-D-GLCP,4, H5,4.18, , , , note
+A-D-GLCP,4, H6,3.86, , , , note
+B-D-QUIP4N," 4, 6", H1,4.42, , , , note
+B-D-QUIP4N," 4, 6", H2,3.42, , , , note
+B-D-QUIP4N," 4, 6", H3,3.77, , , , note
+B-D-QUIP4N," 4, 6", H4,3.79, , , , note
+B-D-QUIP4N," 4, 6", H5,3.54, , , , note
+B-D-QUIP4N," 4, 6", H6,1.15, , , , note
+A-D-GLCPNAC," 4, 6, 3", H1,5.06, , , , note
+A-D-GLCPNAC," 4, 6, 3", H2,4.01, , , , note
+A-D-GLCPNAC," 4, 6, 3", H3,3.91, , , , note
+A-D-GLCPNAC," 4, 6, 3", H4,3.81, , , , note
+A-D-GLCPNAC," 4, 6, 3", H5,4.3, , , , note
+A-D-GLCPNAC," 4, 6, 3", H6 a,4.04, , , , note
+A-D-GLCPNAC," 4, 6, 3", H6 b,4.1, , , , note
+A-D-GLCPNAC," 4, 6, 3", CH3CO,2, , , , note
+A-D-GALPA, , C1,102, , , , note
+A-D-GALPA, , C2,69.6, , , , note
+A-D-GALPA, , C3,69.6, , , , note
+A-D-GALPA, , C4,80.2, , , , note
+A-D-GALPA, , C5,71.8, , , , note
+A-D-GALPA, , C6,173.5, , , , note
+A-D-GLCP,4, C1,101.6, , , , note
+A-D-GLCP,4, C2,72.9, , , , note
+A-D-GLCP,4, C3,74, , , , note
+A-D-GLCP,4, C4,70.1, , , , note
+A-D-GLCP,4, C5,72.2, , , , note
+A-D-GLCP,4, C6,69.5, , , , note
+B-D-QUIP4N," 4, 6", C1,104.1, , , , note
+B-D-QUIP4N," 4, 6", C2,73.7, , , , note
+B-D-QUIP4N," 4, 6", C3,78.4, , , , note
+B-D-QUIP4N," 4, 6", C4,57.9, , , , note
+B-D-QUIP4N," 4, 6", C5,72.2, , , , note
+B-D-QUIP4N," 4, 6", C6,17.7, , , , note
+A-D-GLCPNAC," 4, 6, 3", C1,98.2, , , , note
+A-D-GLCPNAC," 4, 6, 3", C2,53.3, , , , note
+A-D-GLCPNAC," 4, 6, 3", C3,81.6, , , , note
+A-D-GLCPNAC," 4, 6, 3", C4,70.9, , , , note
+A-D-GLCPNAC," 4, 6, 3", C5,71.6, , , , note
+A-D-GLCPNAC," 4, 6, 3", C6,65.1, , , , note
+A-D-GLCPNAC," 4, 6, 3", CH3CO,23.3, , , , note
+A-D-GLCPNAC," 4, 6, 3", CH3CO,175.2, , , , note

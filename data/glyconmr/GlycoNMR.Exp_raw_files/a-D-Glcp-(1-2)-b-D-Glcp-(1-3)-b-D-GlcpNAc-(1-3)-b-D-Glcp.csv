@@ -1,0 +1,40 @@
+MHz,0,,,,,,
+Temperature,70,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,"Jeol GSX-270, Varian Inova 400, Varian Inova 600",,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+B-D-GLCP, , H1,4.58, , , , note
+B-D-GLCP, , H2,3.27, , , , note
+B-D-GLCP, , H3,3.59, , , , note
+B-D-GLCP, , H4,3.44, , , , note
+B-D-GLCPNAC,3, H1,4.83, , , , note
+B-D-GLCPNAC,3, H2,3.78, , , , note
+B-D-GLCPNAC,3, H3,4.01, , , , note
+B-D-GLCPNAC,3, H4,3.57, , , , note
+B-D-GLCPNAC,3, NAc,2.03, , , , note
+B-D-GLCP," 3, 3", H1,4.69, , , , note
+B-D-GLCP," 3, 3", H2,3.46, , , , note
+B-D-GLCP," 3, 3", H3,3.55, , , , note
+B-D-GLCP," 3, 3", H4,3.42, , , , note
+A-D-GLCP," 3, 3, 2", H1,5.29, , , , note
+A-D-GLCP," 3, 3, 2", H2,3.5, , , , note
+A-D-GLCP," 3, 3, 2", H3,3.72, , , , note
+A-D-GLCP," 3, 3, 2", H4,3.42, , , , note
+B-D-GLCP, , C1,97.1, , , , note
+B-D-GLCP, , C2,75, , , , note
+B-D-GLCP, , C3,86.1, , , , note
+B-D-GLCP, , C4,69.4, , , , note
+B-D-GLCPNAC,3, C1,102.4, , , , note
+B-D-GLCPNAC,3, C2,56.6, , , , note
+B-D-GLCPNAC,3, C3,80.6, , , , note
+B-D-GLCPNAC,3, C4,69.7, , , , note
+B-D-GLCPNAC,3, NAc-CH3,23.5, , , , note
+B-D-GLCPNAC,3, NAc-CO,174, , , , note
+B-D-GLCP," 3, 3", C1,102.3, , , , note
+B-D-GLCP," 3, 3", C2,78.7, , , , note
+B-D-GLCP," 3, 3", C3,75.9, , , , note
+B-D-GLCP," 3, 3", C4,70.8, , , , note
+A-D-GLCP," 3, 3, 2", C1,98.6, , , , note
+A-D-GLCP," 3, 3, 2", C2,72.8, , , , note
+A-D-GLCP," 3, 3, 2", C3,74.1, , , , note
+A-D-GLCP," 3, 3, 2", C4,70.8, , , , note

@@ -1,0 +1,54 @@
+HEADER    CARBOHYDRATE
+COMPND    UNNAMED
+AUTHOR    CREATED BY SWEET-II ON WWW.GLYCOSCIENCES.DE
+LINK       O2  BMA    1                     C1  FUC    2
+HETATM    1  C1  BMA     1       3.302   1.294   1.608  1.00  0.00           C
+HETATM    2  C2  BMA     1       2.336   0.710   2.634  1.00  0.00           C
+HETATM    3  C3  BMA     1       2.900  -0.529   3.308  1.00  0.00           C
+HETATM    4  C4  BMA     1       3.396  -1.515   2.275  1.00  0.00           C
+HETATM    5  C5  BMA     1       4.375  -0.823   1.326  1.00  0.00           C
+HETATM    6  C6  BMA     1       4.927  -1.703   0.226  1.00  0.00           C
+HETATM    7  OH1 BMA     1       2.628   2.258   0.879  1.00  0.00           O
+HETATM    8  OH3 BMA     1       1.863  -1.143   4.082  1.00  0.00           O
+HETATM    9  OH4 BMA     1       4.068  -2.603   2.890  1.00  0.00           O
+HETATM   10  O5  BMA     1       3.673   0.258   0.689  1.00  0.00           O
+HETATM   11  OH6 BMA     1       3.899  -2.234  -0.595  1.00  0.00           O
+HETATM   12  HO1 BMA     1       3.423   2.972   0.662  1.00  0.00           H
+HETATM   13  HO3 BMA     1       2.180  -0.958   5.109  1.00  0.00           H
+HETATM   14  HO4 BMA     1       3.377  -3.437   3.014  1.00  0.00           H
+HETATM   15  HO6 BMA     1       3.785  -2.155  -1.676  1.00  0.00           H
+HETATM   16  O2  BMA     1       1.118   0.381   1.977  1.00  0.00           O
+HETATM   17  H5  BMA     1       5.210  -0.481   1.872  1.00  0.00           H
+HETATM   18  H6S BMA     1       5.681  -1.554  -0.410  1.00  0.00           H
+HETATM   19  H6R BMA     1       5.434  -2.512   0.665  1.00  0.00           H
+HETATM   20  H2  BMA     1       2.155   1.481   3.382  1.00  0.00           H
+HETATM   21  H3  BMA     1       3.726  -0.232   3.954  1.00  0.00           H
+HETATM   22  H1  BMA     1       4.171   1.706   2.121  1.00  0.00           H
+HETATM   23  H4  BMA     1       2.529  -1.885   1.727  1.00  0.00           H
+HETATM   24  C1  FUC     2       0.014   1.262   2.180  1.00  0.00           C
+HETATM   25  C2  FUC     2      -1.027   1.234   1.045  1.00  0.00           C
+HETATM   26  C3  FUC     2      -1.809  -0.088   1.062  1.00  0.00           C
+HETATM   27  C4  FUC     2      -2.391  -0.319   2.466  1.00  0.00           C
+HETATM   28  C5  FUC     2      -1.267  -0.243   3.512  1.00  0.00           C
+HETATM   29  C6  FUC     2      -1.757  -0.417   4.955  1.00  0.00           C
+HETATM   30  O5  FUC     2      -0.588   1.018   3.454  1.00  0.00           O
+HETATM   31  OH2 FUC     2      -0.349   1.495  -0.181  1.00  0.00           O
+HETATM   32  OH3 FUC     2      -2.799  -0.062   0.038  1.00  0.00           O
+HETATM   33  OH4 FUC     2      -3.377   0.658   2.799  1.00  0.00           O
+HETATM   34  H5  FUC     2      -0.552  -1.063   3.309  1.00  0.00           H
+HETATM   35  H1  FUC     2       0.453   2.264   2.251  1.00  0.00           H
+HETATM   36  H2  FUC     2      -1.744   2.057   1.231  1.00  0.00           H
+HETATM   37  HO2 FUC     2      -1.035   1.615  -0.851  1.00  0.00           H
+HETATM   38  H3  FUC     2      -1.097  -0.905   0.837  1.00  0.00           H
+HETATM   39  HO3 FUC     2      -3.126  -0.967  -0.048  1.00  0.00           H
+HETATM   40  H4  FUC     2      -2.859  -1.320   2.521  1.00  0.00           H
+HETATM   41  HO4 FUC     2      -4.115   0.519   2.191  1.00  0.00           H
+HETATM   42 1H6  FUC     2      -2.310  -1.360   5.091  1.00  0.00           H
+HETATM   43 2H6  FUC     2      -0.898  -0.422   5.645  1.00  0.00           H
+HETATM   44 3H6  FUC     2      -2.416   0.415   5.247  1.00  0.00           H
+CHLDEF    1    35   24   16    2   20    0  35.0  13.0 -17.0
+CHLNAM    1 A-L-FUCP-(1-2)-B-D-MANP
+SWECON 1   2  1  A-L-FUCP-(1-2)-B-D-MANP
+MASTER        0    0    0    0    0    0    0    0   44    0   44    0
+END
+

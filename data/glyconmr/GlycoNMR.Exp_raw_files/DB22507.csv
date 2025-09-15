@@ -1,0 +1,59 @@
+MHz,500,,,,,,
+Temperature,25,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker DRX 500,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-D-GALPA, , H1,5.17, , , , note
+A-D-GALPA, , H2,4, , , , note
+A-D-GALPA, , H3,4.08, , , , note
+A-D-GALPA, , H4,4.46, , , , note
+A-D-GALPA, , H5,4.87, , , , note
+A-D-GLCPNAC,3, H1,5.08, , , , note
+A-D-GLCPNAC,3, H2,4.1, , , , note
+A-D-GLCPNAC,3, H3,3.97, , , , note
+A-D-GLCPNAC,3, H4,3.74, , , , note
+A-D-GLCPNAC,3, H5,3.96, , , , note
+A-D-GLCPNAC,3, H61,3.85, , , , note
+A-D-GLCPNAC,3, H62,3.8, , , , note
+A-D-GALPNAC," 3, 3", H1,5.42, , , , note
+A-D-GALPNAC," 3, 3", H2,4.21, , , , note
+A-D-GALPNAC," 3, 3", H3,3.93, , , , note
+A-D-GALPNAC," 3, 3", H4,4.19, , , , note
+A-D-GALPNAC," 3, 3", H5,3.94, , , , note
+A-D-GALPNAC," 3, 3", H61,3.86, , , , note
+A-D-GALPNAC," 3, 3", H62,3.86, , , , note
+ALA-LYS,6, H2,4.25, , , , note
+ALA-LYS,6, H31,1.85, , , , note
+ALA-LYS,6, H32,1.72, , , , note
+ALA-LYS,6, H4,1.4, , , , note
+ALA-LYS,6, H5,1.71, , , , note
+ALA-LYS,6, H6,3.02, , , , note
+ALA-LYS,6, H8,3.64, , , , note
+ALA-LYS,6, H9,1.47, , , , note
+A-D-GALPA, , C1,100.5, , , , note
+A-D-GALPA, , C2,67.4, , , , note
+A-D-GALPA, , C3,75.4, , , , note
+A-D-GALPA, , C4,67.1, , , , note
+A-D-GALPA, , C5,71.7, , , , note
+A-D-GALPA, , C6,170.7, , , , note
+A-D-GLCPNAC,3, C1,95.5, , , , note
+A-D-GLCPNAC,3, C2,52.6, , , , note
+A-D-GLCPNAC,3, C3,77.2, , , , note
+A-D-GLCPNAC,3, C4,71.2, , , , note
+A-D-GLCPNAC,3, C5,72.4, , , , note
+A-D-GLCPNAC,3, C6,60.5, , , , note
+A-D-GALPNAC," 3, 3", C1,98.3, , , , note
+A-D-GALPNAC," 3, 3", C2,50.2, , , , note
+A-D-GALPNAC," 3, 3", C3,67.2, , , , note
+A-D-GALPNAC," 3, 3", C4,77.1, , , , note
+A-D-GALPNAC," 3, 3", C5,71.7, , , , note
+A-D-GALPNAC," 3, 3", C6,59.8, , , , note
+ALA-LYS,6, C1,179, , , , note
+ALA-LYS,6, C2,55, , , , note
+ALA-LYS,6, C3,32, , , , note
+ALA-LYS,6, C4,22.5, , , , note
+ALA-LYS,6, C5,26, , , , note
+ALA-LYS,6, C6,46.5, , , , note
+ALA-LYS,6, C7,175.1, , , , note
+ALA-LYS,6, C8,58.3, , , , note
+ALA-LYS,6, C9,15.5, , , , note

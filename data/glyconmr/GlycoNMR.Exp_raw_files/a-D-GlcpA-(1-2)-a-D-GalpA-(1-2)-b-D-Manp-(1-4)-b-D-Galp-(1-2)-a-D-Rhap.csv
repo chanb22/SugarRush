@@ -1,0 +1,62 @@
+MHz,400,,,,,,
+Temperature,27,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker ASx 400 WB,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-D-RHAP, , H1,5.223, , , , note
+A-D-RHAP, , H2,4.082, , , , note
+A-D-RHAP, , H3,3.731, , , , note
+A-D-RHAP, , H4,3.634, , , , note
+A-D-RHAP, , H5,3.895, , , , note
+A-D-RHAP, , H6,1.303, , , , note
+B-D-GALP,2, H1,4.34, , , , note
+B-D-GALP,2, H2,3.437, , , , note
+B-D-GALP,2, H3,3.708, , , , note
+B-D-GALP,2, H4,4.136, , , , note
+B-D-GALP,2, H5,3.636, , , , note
+B-D-GALP,2, H6,3.74, , , , note
+B-D-MANP," 2, 4", H1,4.85, , , , note
+B-D-MANP," 2, 4", H2,4.478, , , , note
+B-D-MANP," 2, 4", H3,3.779, , , , note
+B-D-MANP," 2, 4", H4,3.833, , , , note
+B-D-MANP," 2, 4", H5,3.379, , , , note
+B-D-MANP," 2, 4", H61,3.939, , , , note
+B-D-MANP," 2, 4", H62,3.784, , , , note
+A-D-GALPA," 2, 4, 2", H1,5.721, , , , note
+A-D-GALPA," 2, 4, 2", H2,3.963, , , , note
+A-D-GALPA," 2, 4, 2", H3,4.036, , , , note
+A-D-GALPA," 2, 4, 2", H4,4.309, , , , note
+A-D-GALPA," 2, 4, 2", H5,4.733, , , , note
+A-D-GLCPA," 2, 4, 2, 2", H1,5.321, , , , note
+A-D-GLCPA," 2, 4, 2, 2", H2,3.619, , , , note
+A-D-GLCPA," 2, 4, 2, 2", H3,3.826, , , , note
+A-D-GLCPA," 2, 4, 2, 2", H4,3.511, , , , note
+A-D-GLCPA," 2, 4, 2, 2", H5,4.154, , , , note
+A-D-RHAP, , C1,92.89, , , , note
+A-D-RHAP, , C2,77.31, , , , note
+A-D-RHAP, , C3,70.92, , , , note
+A-D-RHAP, , C4,73.36, , , , note
+A-D-RHAP, , C5,69.4, , , , note
+A-D-RHAP, , C6,18.02, , , , note
+B-D-GALP,2, C1,102.22, , , , note
+B-D-GALP,2, C2,71.66, , , , note
+B-D-GALP,2, C3,74.03, , , , note
+B-D-GALP,2, C4,76.11, , , , note
+B-D-GALP,2, C5,75.62, , , , note
+B-D-GALP,2, C6,62.89, , , , note
+B-D-MANP," 2, 4", C1,101.73, , , , note
+B-D-MANP," 2, 4", C2,73.92, , , , note
+B-D-MANP," 2, 4", C3,75.62, , , , note
+B-D-MANP," 2, 4", C4,68.24, , , , note
+B-D-MANP," 2, 4", C5,77.99, , , , note
+B-D-MANP," 2, 4", C6,62.26, , , , note
+A-D-GALPA," 2, 4, 2", C1,96.66, , , , note
+A-D-GALPA," 2, 4, 2", C2,73.18, , , , note
+A-D-GALPA," 2, 4, 2", C3,68.94, , , , note
+A-D-GALPA," 2, 4, 2", C4,72.09, , , , note
+A-D-GALPA," 2, 4, 2", C5,73.22, , , , note
+A-D-GLCPA," 2, 4, 2, 2", C1,96.87, , , , note
+A-D-GLCPA," 2, 4, 2, 2", C2,72.62, , , , note
+A-D-GLCPA," 2, 4, 2, 2", C3,74.17, , , , note
+A-D-GLCPA," 2, 4, 2, 2", C4,73.25, , , , note
+A-D-GLCPA," 2, 4, 2, 2", C5,73.6, , , , note

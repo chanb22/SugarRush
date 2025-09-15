@@ -1,0 +1,17 @@
+MHz,0,,,,,,
+Temperature,70,,,,,,
+Solvent,D2O,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+Monosaccharid, , H1,5.18, , , , note
+Monosaccharid, , H2,3.94, , , , note
+Monosaccharid, , H3,3.86, , , , note
+Monosaccharid, , H4,3.68, , , , note
+Monosaccharid, , H5,3.82, , , , note
+Monosaccharid, , H61,3.74, , , , note
+Monosaccharid, , H62,3.86, , , , note
+Monosaccharid, , C1,94.94, , , , note
+Monosaccharid, , C2,71.69, , , , note
+Monosaccharid, , C3,71.25, , , , note
+Monosaccharid, , C4,67.94, , , , note
+Monosaccharid, , C5,73.34, , , , note
+Monosaccharid, , C6,61.99, , , , note

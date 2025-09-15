@@ -1,0 +1,56 @@
+MHz,0,,,,,,
+Temperature,60,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker DRX-500,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-D-GLCPNAC, , H1,5.16, , , , note
+A-D-GLCPNAC, , H2,4.12, , , , note
+A-D-GLCPNAC, , H3,3.9, , , , note
+A-D-GLCPNAC, , H4,3.62, , , , note
+A-D-GLCPNAC, , H5,4.08, , , , note
+A-D-GLCPNAC, , H6,3.85, , , , note
+A-L-FUCPNAC,3, H1,5.04, , , , note
+A-L-FUCPNAC,3, H2,4.44, , , , note
+A-L-FUCPNAC,3, H3,4.03, , , , note
+A-L-FUCPNAC,3, H4,4.12, , , , note
+A-L-FUCPNAC,3, H5,4.46, , , , note
+A-L-FUCPNAC,3, H6,1.32, , , , note
+A-D-GALP," 3, 3", H1,5.05, , , , note
+A-D-GALP," 3, 3", H2,3.71, , , , note
+A-D-GALP," 3, 3", H3,3.78, , , , note
+A-D-GALP," 3, 3", H4,3.91, , , , note
+A-D-GALP," 3, 3", H5,4.1, , , , note
+A-D-GALP," 3, 3", H6,3.69, , , , note
+B-D-GLCPA," 3, 4", H1,4.65, , , , note
+B-D-GLCPA," 3, 4", H2,3.58, , , , note
+B-D-GLCPA," 3, 4", H3,3.63, , , , note
+B-D-GLCPA," 3, 4", H4,3.83, , , , note
+B-D-GLCPA," 3, 4", H5,3.83, , , , note
+A-D-GLCPNAC, , C1,100, , , , note
+A-D-GLCPNAC, , C2,55.5, , , , note
+A-D-GLCPNAC, , C3,78.3, , , , note
+A-D-GLCPNAC, , C4,70.3, , , , note
+A-D-GLCPNAC, , C5,73.2, , , , note
+A-D-GLCPNAC, , C6,62.4, , , , note
+A-D-GLCPNAC, , NAc,176.2, , , , note
+A-D-GLCPNAC, , NAc(CO),176.3, , , , note
+A-L-FUCPNAC,3, C1,99.6, , , , note
+A-L-FUCPNAC,3, C2,50.6, , , , note
+A-L-FUCPNAC,3, C3,75.3, , , , note
+A-L-FUCPNAC,3, C4,81.1, , , , note
+A-L-FUCPNAC,3, C5,69.7, , , , note
+A-L-FUCPNAC,3, C6,16.7, , , , note
+A-L-FUCPNAC,3, NAc,176.2, , , , note
+A-L-FUCPNAC,3, NAc(CO),176.3, , , , note
+A-D-GALP," 3, 3", C1,102.5, , , , note
+A-D-GALP," 3, 3", C2,70.4, , , , note
+A-D-GALP," 3, 3", C3,71.4, , , , note
+A-D-GALP," 3, 3", C4,71.5, , , , note
+A-D-GALP," 3, 3", C5,73.2, , , , note
+A-D-GALP," 3, 3", C6,63.4, , , , note
+B-D-GLCPA," 3, 4", C1,105.3, , , , note
+B-D-GLCPA," 3, 4", C2,74.2, , , , note
+B-D-GLCPA," 3, 4", C3,84.2, , , , note
+B-D-GLCPA," 3, 4", C4,73.6, , , , note
+B-D-GLCPA," 3, 4", C5,77.9, , , , note
+B-D-GLCPA," 3, 4", C6,173.7, , , , note

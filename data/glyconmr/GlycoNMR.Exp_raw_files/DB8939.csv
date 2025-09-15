@@ -1,0 +1,60 @@
+MHz	400						
+Temperature	313						
+Solvent	D2O						
+Residue	Linkage	Proton	PPM	JFrom	JTo	Hz	Note
+b-D-Galp	" 4,until"	 H1	4.74	1	2	7.6	 
+b-D-Galp	" 4,until"	 H2	3.67	2	3	9.7	 
+b-D-Galp	" 4,until"	 H3	3.77	3	4	2.9	 
+b-D-Galp	" 4,until"	 H4	4.05	4	5	0.9	 
+b-D-Galp	" 4,until"	 H5	3.78	 	 	0	 
+a-D-Galp	" 4,4,until"	 H1	5.01	1	2	3.4	 
+a-D-Galp	" 4,4,until"	 H2	4.16	2	3	9.9	 
+a-D-Galp	" 4,4,until"	 H3	4.13	3	4	2.3	 
+a-D-Galp	" 4,4,until"	 H4	4.44	 	 	0	 
+a-D-Galp	" 4,4,until"	 H5	4.41	 	 	0	 
+a-D-Galp	" 4,4,until"	 H61	3.78	 	 	0	 
+a-D-Galp	" 4,4,until"	 H62	3.64	 	 	0	 
+b-D-Galp	" 4,4,4,until"	 H1	4.85	1	2	7.7	 
+b-D-Galp	" 4,4,4,until"	 H2	3.75	2	3	10.4	 
+b-D-Galp	" 4,4,4,until"	 H3	3.88	3	4	3.8	 
+b-D-Galp	" 4,4,4,until"	 H4	4.15	 	 	0	 
+b-D-Galp	" 4,4,4,until"	 H5	3.68	 	 	0	 
+b-D-GlcpA	" 3,4,4,until"	 H1	4.74	1	2	7.7	 
+b-D-GlcpA	" 3,4,4,until"	 H2	3.52	2	3	9	 
+b-D-GlcpA	" 3,4,4,until"	 H3	3.83	3	4	8.9	 
+b-D-GlcpA	" 3,4,4,until"	 H4	3.91	4	5	9.2	 
+b-D-GlcpA	" 3,4,4,until"	 H5	4.11	 	 	0	 
+a-D-Glcp	" 4,3,4,4,until"	 H1	5.43	1	2	3.9	 
+a-D-Glcp	" 4,3,4,4,until"	 H2	3.55	2	3	9.9	 
+a-D-Glcp	" 4,3,4,4,until"	 H3	3.67	3	4	9.4	 
+a-D-Glcp	" 4,3,4,4,until"	 H4	3.46	4	5	10	 
+a-D-Glcp	" 4,3,4,4,until"	 H5	3.6	 	 	0	 
+a-D-Glcp	" 4,3,4,4,until"	 H61	3.8	 	 	0	 
+a-D-Glcp	" 4,3,4,4,until"	 H62	3.8	 	 	0	
+b-D-Galp	" 4,until"	 C1	105.2	 	 	0	 
+b-D-Galp	" 4,until"	 C2	71.95	 	 	0	 
+b-D-Galp	" 4,until"	 C3	72.97	 	 	0	 
+b-D-Galp	" 4,until"	 C4	78	 	 	0	 
+b-D-Galp	" 4,until"	 C5	75.89	 	 	0	 
+a-D-Galp	" 4,4,until"	 C1	100.99	 	 	0	 
+a-D-Galp	" 4,4,until"	 C2	68.57	 	 	0	 
+a-D-Galp	" 4,4,until"	 C3	80.85	 	 	0	 
+a-D-Galp	" 4,4,until"	 C4	77.17	 	 	0	 
+a-D-Galp	" 4,4,until"	 C5	70.8	 	 	0	 
+a-D-Galp	" 4,4,until"	 C6	60.79	 	 	0	 
+b-D-Galp	" 4,4,4,until"	 C1	103.74	 	 	0	 
+b-D-Galp	" 4,4,4,until"	 C2	71.4	 	 	0	 
+b-D-Galp	" 4,4,4,until"	 C3	82.84	 	 	0	 
+b-D-Galp	" 4,4,4,until"	 C4	69.27	 	 	0	 
+b-D-Galp	" 4,4,4,until"	 C5	75.26	 	 	0	 
+b-D-GlcpA	" 3,4,4,until"	 C1	105.07	 	 	0	 
+b-D-GlcpA	" 3,4,4,until"	 C2	73.96	 	 	0	 
+b-D-GlcpA	" 3,4,4,until"	 C3	76.47	 	 	0	 
+b-D-GlcpA	" 3,4,4,until"	 C4	77.82	 	 	0	 
+b-D-GlcpA	" 3,4,4,until"	 C5	75.19	 	 	0	 
+a-D-Glcp	" 4,3,4,4,until"	 C1	99.86	 	 	0	 
+a-D-Glcp	" 4,3,4,4,until"	 C2	72.36	 	 	0	 
+a-D-Glcp	" 4,3,4,4,until"	 C3	73.54	 	 	0	 
+a-D-Glcp	" 4,3,4,4,until"	 C4	69.84	 	 	0	 
+a-D-Glcp	" 4,3,4,4,until"	 C5	73.04	 	 	0	 
+a-D-Glcp	" 4,3,4,4,until"	 C6	61.6	 	 	0	

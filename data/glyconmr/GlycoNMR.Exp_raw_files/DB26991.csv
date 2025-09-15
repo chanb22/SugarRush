@@ -1,0 +1,56 @@
+MHz,400,,,,,,
+Temperature,298,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker DRX 400/ AMX 500,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-D-GALP, , H1,5.32, , , , note
+A-D-GALP, , H2,3.87, , , , note
+A-D-GALP, , H3,3.95, , , , note
+A-D-GALP, , H4,4.14, , , , note
+A-D-GALPA2SO3,4, H1,5.26, , , , note
+A-D-GALPA2SO3,4, H2,4.75, , , , note
+A-D-GALPA2SO3,4, H3,4.3, , , , note
+A-D-GALPA2SO3,4, H4,4.69, , , , note
+B-D-GLCPA," 4, 3", H1,4.75, , , , note
+B-D-GLCPA," 4, 3", H2,3.46, , , , note
+B-D-GLCPA," 4, 3", H3,3.66, , , , note
+B-D-GLCPA," 4, 3", H4,3.77, , , , note
+B-D-GLCPA," 4, 3", H5,3.88, , , , note
+B-D-GLCPA," 4, 3, 4", H1,4.52, , , , note
+B-D-GLCPA," 4, 3, 4", H2,3.34, , , , note
+B-D-GLCPA," 4, 3, 4", H3,3.52, , , , note
+B-D-GLCPA," 4, 3, 4", H4,3.5, , , , note
+B-D-GLCPA," 4, 3, 4", H5,3.76, , , , note
+B-D-GLCP," 4, 4", H1,4.73, , , , note
+B-D-GLCP," 4, 4", H2,3.25, , , , note
+B-D-GLCP," 4, 4", H3,3.52, , , , note
+B-D-GLCP," 4, 4", H4,3.31, , , , note
+B-D-GLCP," 4, 4", H5,3.35, , , , note
+B-D-GLCP," 4, 4", H61,3.82, , , , note
+B-D-GLCP," 4, 4", H62,3.59, , , , note
+A-D-GALP, , C1,95.1, , , , note
+A-D-GALP, , C2,71.3, , , , note
+A-D-GALP, , C3,73.8, , , , note
+A-D-GALP, , C4,81, , , , note
+A-D-GALPA2SO3,4, C1,101.1, , , , note
+A-D-GALPA2SO3,4, C2,77.6, , , , note
+A-D-GALPA2SO3,4, C3,80, , , , note
+A-D-GALPA2SO3,4, C4,81.5, , , , note
+B-D-GLCPA," 4, 3", C1,106.3, , , , note
+B-D-GLCPA," 4, 3", C2,76, , , , note
+B-D-GLCPA," 4, 3", C3,77.3, , , , note
+B-D-GLCPA," 4, 3", C4,84, , , , note
+B-D-GLCPA," 4, 3", C5,78.8, , , , note
+B-D-GLCPA," 4, 3", C6,178.1, , , , note
+B-D-GLCPA," 4, 3, 4", C1,105.3, , , , note
+B-D-GLCPA," 4, 3, 4", C2,75.9, , , , note
+B-D-GLCPA," 4, 3, 4", C3,78.5, , , , note
+B-D-GLCPA," 4, 3, 4", C4,74.7, , , , note
+B-D-GLCPA," 4, 3, 4", C5,78.8, , , , note
+B-D-GLCPA," 4, 3, 4", C6,178.6, , , , note
+B-D-GLCP," 4, 4", C1,106, , , , note
+B-D-GLCP," 4, 4", C2,76.8, , , , note
+B-D-GLCP," 4, 4", C3,78.5, , , , note
+B-D-GLCP," 4, 4", C4,73, , , , note
+B-D-GLCP," 4, 4", C5,78.5, , , , note
+B-D-GLCP," 4, 4", C6,64, , , , note

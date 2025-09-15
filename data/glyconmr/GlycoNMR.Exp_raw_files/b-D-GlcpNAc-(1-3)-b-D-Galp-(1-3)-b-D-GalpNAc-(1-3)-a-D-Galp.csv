@@ -1,0 +1,54 @@
+MHz,500,,,,,,
+Temperature,40,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker DRX-500,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-D-GALP, , H1,4.98, , , , note
+A-D-GALP, , H2,3.9, , , , note
+A-D-GALP, , H3,3.93, , , , note
+A-D-GALP, , H4,4.22, , , , note
+A-D-GALP, , H5,3.96, , , , note
+A-D-GALP, , H6,3.74, , , , note
+B-D-GALPNAC,3, H1,4.73, , , , note
+B-D-GALPNAC,3, H2,4.05, , , , note
+B-D-GALPNAC,3, H3,3.9, , , , note
+B-D-GALPNAC,3, H4,4.17, , , , note
+B-D-GALPNAC,3, H5,3.7, , , , note
+B-D-GALPNAC,3, H6,3.77, , , , note
+B-D-GALP," 3, 3", H1,4.45, , , , note
+B-D-GALP," 3, 3", H2,3.59, , , , note
+B-D-GALP," 3, 3", H3,3.69, , , , note
+B-D-GALP," 3, 3", H4,4.1, , , , note
+B-D-GALP," 3, 3", H5,3.64, , , , note
+B-D-GALP," 3, 3", H6,3.75, , , , note
+B-D-GLCPNAC," 3, 3, 3", H1,4.76, , , , note
+B-D-GLCPNAC," 3, 3, 3", H2,3.76, , , , note
+B-D-GLCPNAC," 3, 3, 3", H3,3.58, , , , note
+B-D-GLCPNAC," 3, 3, 3", H4,3.62, , , , note
+B-D-GLCPNAC," 3, 3, 3", H5,3.62, , , , note
+B-D-GLCPNAC," 3, 3, 3", H61,3.77, , , , note
+B-D-GLCPNAC," 3, 3, 3", H62,4.02, , , , note
+A-D-GALP, , C1,99.3, , , , note
+A-D-GALP, , C2,68.4, , , , note
+A-D-GALP, , C3,80.2, , , , note
+A-D-GALP, , C4,70.1, , , , note
+A-D-GALP, , C5,71.7, , , , note
+A-D-GALP, , C6,62.1, , , , note
+B-D-GALPNAC,3, C1,103.9, , , , note
+B-D-GALPNAC,3, C2,52.5, , , , note
+B-D-GALPNAC,3, C3,80.6, , , , note
+B-D-GALPNAC,3, C4,69.1, , , , note
+B-D-GALPNAC,3, C5,75.7, , , , note
+B-D-GALPNAC,3, C6,62.1, , , , note
+B-D-GALP," 3, 3", C1,105.8, , , , note
+B-D-GALP," 3, 3", C2,70.7, , , , note
+B-D-GALP," 3, 3", C3,82.9, , , , note
+B-D-GALP," 3, 3", C4,69.5, , , , note
+B-D-GALP," 3, 3", C5,75.6, , , , note
+B-D-GALP," 3, 3", C6,62.1, , , , note
+B-D-GLCPNAC," 3, 3, 3", C1,104.1, , , , note
+B-D-GLCPNAC," 3, 3, 3", C2,56.7, , , , note
+B-D-GLCPNAC," 3, 3, 3", C3,75.1, , , , note
+B-D-GLCPNAC," 3, 3, 3", C4,70.2, , , , note
+B-D-GLCPNAC," 3, 3, 3", C5,75.3, , , , note
+B-D-GLCPNAC," 3, 3, 3", C6,66.4, , , , note

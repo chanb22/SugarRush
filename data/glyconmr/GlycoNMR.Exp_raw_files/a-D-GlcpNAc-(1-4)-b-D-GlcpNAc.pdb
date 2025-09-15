@@ -1,0 +1,67 @@
+HEADER    CARBOHYDRATE
+COMPND    UNNAMED
+AUTHOR    CREATED BY SWEET-II ON WWW.GLYCOSCIENCES.DE
+LINK       O4  NAG    1                     C1  GDL    2
+HETATM    1  C1  NAG     1      -0.921   5.452  -3.279  1.00  0.00           C
+HETATM    2  C2  NAG     1      -1.795   4.944  -2.086  1.00  0.00           C
+HETATM    3  C3  NAG     1      -1.386   3.484  -1.719  1.00  0.00           C
+HETATM    4  C4  NAG     1      -1.410   2.558  -2.953  1.00  0.00           C
+HETATM    5  C5  NAG     1      -0.540   3.144  -4.098  1.00  0.00           C
+HETATM    6  C6  NAG     1      -0.616   2.307  -5.389  1.00  0.00           C
+HETATM    7  CO2 NAG     1      -2.663   6.249  -0.171  1.00  0.00           C
+HETATM    8  CM2 NAG     1      -2.310   7.063   1.055  1.00  0.00           C
+HETATM    9  OH1 NAG     1      -1.430   6.675  -3.788  1.00  0.00           O
+HETATM   10  OH3 NAG     1      -2.256   2.916  -0.736  1.00  0.00           O
+HETATM   11  O4  NAG     1      -0.940   1.278  -2.545  1.00  0.00           O
+HETATM   12  O5  NAG     1      -0.961   4.513  -4.388  1.00  0.00           O
+HETATM   13  OH6 NAG     1      -1.949   2.248  -5.904  1.00  0.00           O
+HETATM   14  OC2 NAG     1      -3.833   5.975  -0.412  1.00  0.00           O
+HETATM   15  N2  NAG     1      -1.632   5.828  -0.899  1.00  0.00           N
+HETATM   16  HO1 NAG     1      -2.196   6.416  -4.307  1.00  0.00           H
+HETATM   17  H2  NAG     1      -2.846   4.929  -2.441  1.00  0.00           H
+HETATM   18  H3  NAG     1      -0.354   3.491  -1.314  1.00  0.00           H
+HETATM   19  H4  NAG     1      -2.455   2.468  -3.314  1.00  0.00           H
+HETATM   20  H5  NAG     1       0.517   3.154  -3.767  1.00  0.00           H
+HETATM   21  H6S NAG     1       0.064   2.737  -6.150  1.00  0.00           H
+HETATM   22  H6R NAG     1      -0.244   1.284  -5.185  1.00  0.00           H
+HETATM   23 1HM2 NAG     1      -3.043   7.877   1.191  1.00  0.00           H
+HETATM   24 2HM2 NAG     1      -1.305   7.521   1.014  1.00  0.00           H
+HETATM   25 3HM2 NAG     1      -2.360   6.420   1.951  1.00  0.00           H
+HETATM   26  HO3 NAG     1      -2.128   3.427   0.068  1.00  0.00           H
+HETATM   27  HO6 NAG     1      -1.981   1.526  -6.538  1.00  0.00           H
+HETATM   28  HN2 NAG     1      -0.745   6.268  -0.648  1.00  0.00           H
+HETATM   29  H1  NAG     1       0.130   5.602  -2.960  1.00  0.00           H
+HETATM   30  C1  GDL     2      -1.603   0.143  -3.087  1.00  0.00           C
+HETATM   31  C2  GDL     2      -2.668  -0.479  -2.189  1.00  0.00           C
+HETATM   32  C3  GDL     2      -2.066  -1.123  -0.952  1.00  0.00           C
+HETATM   33  C4  GDL     2      -0.940  -2.056  -1.336  1.00  0.00           C
+HETATM   34  C5  GDL     2       0.074  -1.315  -2.208  1.00  0.00           C
+HETATM   35  C6  GDL     2       1.243  -2.151  -2.679  1.00  0.00           C
+HETATM   36  OH3 GDL     2      -3.087  -1.871  -0.281  1.00  0.00           O
+HETATM   37  OH4 GDL     2      -0.266  -2.542  -0.186  1.00  0.00           O
+HETATM   38  O5  GDL     2      -0.616  -0.853  -3.381  1.00  0.00           O
+HETATM   39  OH6 GDL     2       0.820  -3.271  -3.441  1.00  0.00           O
+HETATM   40  HO3 GDL     2      -3.261  -1.291   0.626  1.00  0.00           H
+HETATM   41  HO4 GDL     2      -0.669  -3.517   0.090  1.00  0.00           H
+HETATM   42  HO6 GDL     2       1.114  -3.553  -4.452  1.00  0.00           H
+HETATM   43  H5  GDL     2       0.490  -0.516  -1.658  1.00  0.00           H
+HETATM   44  H6S GDL     2       2.102  -1.885  -3.110  1.00  0.00           H
+HETATM   45  H6R GDL     2       1.758  -2.514  -1.838  1.00  0.00           H
+HETATM   46  H1  GDL     2      -2.070   0.520  -3.998  1.00  0.00           H
+HETATM   47  H3  GDL     2      -1.682  -0.340  -0.299  1.00  0.00           H
+HETATM   48  H4  GDL     2      -1.375  -2.893  -1.884  1.00  0.00           H
+HETATM   49  H2  GDL     2      -3.187  -1.236  -2.778  1.00  0.00           H
+HETATM   50  N2  GDL     2      -3.599   0.555  -1.797  1.00  0.00           N
+HETATM   51  CO2 GDL     2      -4.672   0.851  -2.598  1.00  0.00           C
+HETATM   52  CM2 GDL     2      -5.555   1.961  -2.062  1.00  0.00           C
+HETATM   53  OC2 GDL     2      -4.915   0.294  -3.651  1.00  0.00           O
+HETATM   54  HN2 GDL     2      -3.456   1.070  -0.917  1.00  0.00           H
+HETATM   55 1HM2 GDL     2      -6.413   2.152  -2.746  1.00  0.00           H
+HETATM   56 2HM2 GDL     2      -4.973   2.906  -1.967  1.00  0.00           H
+HETATM   57 3HM2 GDL     2      -5.965   1.683  -1.064  1.00  0.00           H
+CHLDEF    1    46   30   11    4   19    0  21.9  22.1  30.5
+CHLNAM    1 A-D-GLCPNAC-(1-4)-B-D-GLCPNAC
+SWECON 1   2  1  A-D-GLCPNAC-(1-4)-B-D-GLCPNAC
+MASTER        0    0    0    0    0    0    0    0   57    0   57    0
+END
+

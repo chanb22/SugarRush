@@ -1,0 +1,36 @@
+
+
+
+<br />
+<b>Notice</b>:  Undefined index: children in <b>/home/www/include/php/linucs2semlin/l2sl.php</b> on line <b>410</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/home/www/include/php/linucs2semlin/l2sl.php</b> on line <b>410</b><br />
+HEADER    CARBOHYDRATE
+COMPND    UNNAMED
+AUTHOR    CREATED BY SWEET-II ON WWW.GLYCOSCIENCES.DE
+HETATM    1  C1  FUC     1       5.146   0.319  -8.677  1.00  0.00           C
+HETATM    2  C2  FUC     1       4.272  -0.425  -9.704  1.00  0.00           C
+HETATM    3  C3  FUC     1       2.793  -0.372  -9.294  1.00  0.00           C
+HETATM    4  C4  FUC     1       2.383   1.090  -9.049  1.00  0.00           C
+HETATM    5  C5  FUC     1       3.339   1.732  -8.031  1.00  0.00           C
+HETATM    6  C6  FUC     1       3.038   3.210  -7.753  1.00  0.00           C
+HETATM    7  O5  FUC     1       4.698   1.663  -8.479  1.00  0.00           O
+HETATM    8  OH1 FUC     1       5.268  -0.352  -7.424  1.00  0.00           O
+HETATM    9  OH2 FUC     1       4.790  -1.745  -9.849  1.00  0.00           O
+HETATM   10  OH3 FUC     1       2.005  -1.020 -10.288  1.00  0.00           O
+HETATM   11  OH4 FUC     1       2.426   1.861 -10.249  1.00  0.00           O
+HETATM   12  H5  FUC     1       3.233   1.192  -7.071  1.00  0.00           H
+HETATM   13  H1  FUC     1       6.170   0.406  -9.060  1.00  0.00           H
+HETATM   14  HO1 FUC     1       4.447  -0.180  -6.947  1.00  0.00           H
+HETATM   15  H2  FUC     1       4.376   0.101 -10.673  1.00  0.00           H
+HETATM   16  HO2 FUC     1       4.321  -2.141 -10.595  1.00  0.00           H
+HETATM   17  H3  FUC     1       2.684  -0.931  -8.345  1.00  0.00           H
+HETATM   18  HO3 FUC     1       1.126  -1.140  -9.905  1.00  0.00           H
+HETATM   19  H4  FUC     1       1.354   1.131  -8.644  1.00  0.00           H
+HETATM   20  HO4 FUC     1       1.744   1.499 -10.831  1.00  0.00           H
+HETATM   21 1H6  FUC     1       2.000   3.363  -7.417  1.00  0.00           H
+HETATM   22 2H6  FUC     1       3.711   3.590  -6.968  1.00  0.00           H
+HETATM   23 3H6  FUC     1       3.201   3.819  -8.656  1.00  0.00           H
+MASTER        0    0    0    0    0    0    0    0   23    0   23    0
+END
+

@@ -1,0 +1,38 @@
+MHz,400,,,,,,
+Temperature,27,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker ASX-400 WB,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-D-MANP, , H1,5.295, , , , note
+A-D-MANP, , H2,3.954, , , , note
+A-D-MANP, , H3,3.932, , , , note
+A-D-MANP, , H4,3.778, , , , note
+A-D-MANP, , H5,3.77, , , , note
+A-D-MANP, , H61,3.85, , , , note
+A-D-MANP, , H62,3.75, , , , note
+A-D-GALPA,2, H1,5.37, , , , note
+A-D-GALPA,2, H2,3.957, , , , note
+A-D-GALPA,2, H3,4.058, , , , note
+A-D-GALPA,2, H4,4.3, , , , note
+A-D-GALPA,2, H5,4.402, , , , note
+A-D-GLCPA," 2, 2", H1,5.173, , , , note
+A-D-GLCPA," 2, 2", H2,3.619, , , , note
+A-D-GLCPA," 2, 2", H3,3.785, , , , note
+A-D-GLCPA," 2, 2", H4,3.504, , , , note
+A-D-GLCPA," 2, 2", H5,4.178, , , , note
+A-D-MANP, , C1,93.74, , , , note
+A-D-MANP, , C2,80.74, , , , note
+A-D-MANP, , C3,71.41, , , , note
+A-D-MANP, , C4,68.41, , , , note
+A-D-MANP, , C5,73.76, , , , note
+A-D-MANP, , C6,62.21, , , , note
+A-D-GALPA,2, C1,99.09, , , , note
+A-D-GALPA,2, C2,74.3, , , , note
+A-D-GALPA,2, C3,69.25, , , , note
+A-D-GALPA,2, C4,72.41, , , , note
+A-D-GALPA,2, C5,73.28, , , , note
+A-D-GLCPA," 2, 2", C1,97.29, , , , note
+A-D-GLCPA," 2, 2", C2,72.47, , , , note
+A-D-GLCPA," 2, 2", C3,74.06, , , , note
+A-D-GLCPA," 2, 2", C4,73.21, , , , note
+A-D-GLCPA," 2, 2", C5,73.58, , , , note

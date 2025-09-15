@@ -1,0 +1,81 @@
+MHz,600,,,,,,
+Temperature,25,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Unity Inova 600,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-D-MANP, , H1,5.11, , , , note
+A-D-MANP, , H2,4.01, , , , note
+A-D-MANP, , H3,3.98, , , , note
+A-D-MANP, , H4,3.84, , , , note
+A-D-MANP, , H5,3.7, , , , note
+A-D-MANP, , H6 a,3.78, , , , note
+A-D-MANP, , H6 b,3.87, , , , note
+A-D-GLCPA,2, H1,5.42, , , , note
+A-D-GLCPA,2, H2,3.43, , , , note
+A-D-GLCPA,2, H3,3.87, , , , note
+A-D-GLCPA,2, H4,3.79, , , , note
+A-D-GLCPA,2, H5,4.28, , , , note
+ME," 2, 2", H1,3.56, , , , note
+B-D-XYLP," 2, 4", H1,4.76, , , , note
+B-D-XYLP," 2, 4", H2,4.84, , , , note
+B-D-XYLP," 2, 4", H3,5.16, , , , note
+B-D-XYLP," 2, 4", H4,4.07, , , , note
+B-D-XYLP," 2, 4", H5,3.56, , , , note
+B-D-XYLP," 2, 4", H6,4.23, , , , note
+B-D-GLCPA," 2, 4, 4", H1,4.58, , , , note
+B-D-GLCPA," 2, 4, 4", H2,3.27, , , , note
+B-D-GLCPA," 2, 4, 4", H3,3.65, , , , note
+B-D-GLCPA," 2, 4, 4", H4,3.74, , , , note
+B-D-GLCPA," 2, 4, 4", H5,3.97, , , , note
+B-D-GLCPNAC," 2, 4, 4, 4", H1,4.56, , , , note
+B-D-GLCPNAC," 2, 4, 4, 4", H2,3.77, , , , note
+B-D-GLCPNAC," 2, 4, 4, 4", H3,3.67, , , , note
+B-D-GLCPNAC," 2, 4, 4, 4", H4,3.41, , , , note
+B-D-GLCPNAC," 2, 4, 4, 4", H5,3.99, , , , note
+ME," 2, 4, 4, 4, 4", H1,3.53, , , , note
+A-D-RHAP,4, H1,5, , , , note
+A-D-RHAP,4, H2,3.62, , , , note
+A-D-RHAP,4, H3,3.78, , , , note
+A-D-RHAP,4, H4,3.4, , , , note
+A-D-RHAP,4, H5,4, , , , note
+A-D-RHAP,4, H6,1.25, , , , note
+A-D-RHAP,4, H22,3.43, , , , note
+ME," 4, 2", H1,3.43, , , , note
+A-D-MANP, , C1,99.3, , , , note
+A-D-MANP, , C2,80.9, , , , note
+A-D-MANP, , C3,69.7, , , , note
+A-D-MANP, , C4,76.9, , , , note
+A-D-MANP, , C5,73, , , , note
+A-D-MANP, , C6,61.4, , , , note
+A-D-GLCPA,2, C1,98.6, , , , note
+A-D-GLCPA,2, C2,80.9, , , , note
+A-D-GLCPA,2, C3,71, , , , note
+A-D-GLCPA,2, C4,80.2, , , , note
+A-D-GLCPA,2, C5,71.1, , , , note
+A-D-GLCPA,2, C6,173.5, , , , note
+ME," 2, 2", C1,59, , , , note
+B-D-XYLP," 2, 4", C1,100.9, , , , note
+B-D-XYLP," 2, 4", C2,71.9, , , , note
+B-D-XYLP," 2, 4", C3,73.4, , , , note
+B-D-XYLP," 2, 4", C4,76.8, , , , note
+B-D-XYLP," 2, 4", C5,63.3, , , , note
+B-D-GLCPA," 2, 4, 4", C1,103.6, , , , note
+B-D-GLCPA," 2, 4, 4", C2,72.9, , , , note
+B-D-GLCPA," 2, 4, 4", C3,74.1, , , , note
+B-D-GLCPA," 2, 4, 4", C4,81.1, , , , note
+B-D-GLCPA," 2, 4, 4", C5,74.7, , , , note
+B-D-GLCPA," 2, 4, 4", C6,171.7, , , , note
+B-D-GLCPNAC," 2, 4, 4, 4", C1,101.9, , , , note
+B-D-GLCPNAC," 2, 4, 4, 4", C2,55.8, , , , note
+B-D-GLCPNAC," 2, 4, 4, 4", C3,73.4, , , , note
+B-D-GLCPNAC," 2, 4, 4, 4", C4,82.3, , , , note
+B-D-GLCPNAC," 2, 4, 4, 4", C5,74, , , , note
+B-D-GLCPNAC," 2, 4, 4, 4", C6,173.5, , , , note
+ME," 2, 4, 4, 4, 4", C1,61, , , , note
+A-D-RHAP,4, C1,98.6, , , , note
+A-D-RHAP,4, C2,81.1, , , , note
+A-D-RHAP,4, C3,70.6, , , , note
+A-D-RHAP,4, C4,72.9, , , , note
+A-D-RHAP,4, C5,69.7, , , , note
+A-D-RHAP,4, C6,17.1, , , , note
+ME," 4, 2", C1,59.2, , , , note

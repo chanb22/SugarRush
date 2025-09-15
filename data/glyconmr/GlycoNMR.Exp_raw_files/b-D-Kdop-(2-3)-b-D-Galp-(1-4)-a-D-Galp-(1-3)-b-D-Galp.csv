@@ -1,0 +1,48 @@
+MHz,500,,,,,,
+Temperature,50,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Unity Inova NMR,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+B-D-GALP, , H1,4.73, , , , note
+B-D-GALP, , H2,3.81, , , , note
+B-D-GALP, , H3,3.81, , , , note
+B-D-GALP, , H4,4.19, , , , note
+B-D-GALP, , H5,3.74, , , , note
+A-D-GALP,3, H1,5.18, , , , note
+A-D-GALP,3, H2,3.98, , , , note
+A-D-GALP,3, H3,4.06, , , , note
+A-D-GALP,3, H4,4.29, , , , note
+A-D-GALP,3, H5,4.27, , , , note
+A-D-GALP,3, H6 a,3.85, , , , note
+A-D-GALP,3, H6 b,3.76, , , , note
+B-D-GALP," 3, 4", H1,4.66, , , , note
+B-D-GALP," 3, 4", H2,3.66, , , , note
+B-D-GALP," 3, 4", H3,3.83, , , , note
+B-D-GALP," 3, 4", H4,4.14, , , , note
+B-D-GALP," 3, 4", H5,3.68, , , , note
+B-D-KDOP," 3, 4, 3", H3 a,1.99, , , , note
+B-D-KDOP," 3, 4, 3", H3 b,2.56, , , , note
+B-D-KDOP," 3, 4, 3", H4,3.91, , , , note
+B-D-KDOP," 3, 4, 3", H5,4.22, , , , note
+B-D-KDOP," 3, 4, 3", H6,3.73, , , , note
+B-D-KDOP," 3, 4, 3", H7,4.08, , , , note
+B-D-KDOP," 3, 4, 3", H8,3.79, , , , note
+B-D-GALP, , C1,105.08, , , , note
+B-D-GALP, , C2,70.64, , , , note
+B-D-GALP, , C3,78.54, , , , note
+B-D-GALP, , C4,65.82, , , , note
+A-D-GALP,3, C1,96.38, , , , note
+A-D-GALP,3, C3,69.96, , , , note
+A-D-GALP,3, C4,79.37, , , , note
+B-D-GALP," 3, 4", C1,105.08, , , , note
+B-D-GALP," 3, 4", C2,70.75, , , , note
+B-D-GALP," 3, 4", C3,78.79, , , , note
+B-D-GALP," 3, 4", C4,69.31, , , , note
+B-D-KDOP," 3, 4, 3", C1,173.98, , , , note
+B-D-KDOP," 3, 4, 3", C2,103.83, , , , note
+B-D-KDOP," 3, 4, 3", C3,36.64, , , , note
+B-D-KDOP," 3, 4, 3", C4,68.43, , , , note
+B-D-KDOP," 3, 4, 3", C5,75.99, , , , note
+B-D-KDOP," 3, 4, 3", C6,74.3, , , , note
+B-D-KDOP," 3, 4, 3", C7,69.96, , , , note
+B-D-KDOP," 3, 4, 3", C8,64.65, , , , note

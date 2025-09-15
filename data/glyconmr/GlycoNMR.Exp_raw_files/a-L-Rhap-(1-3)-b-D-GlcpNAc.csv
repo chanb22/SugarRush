@@ -1,0 +1,30 @@
+MHz,500,,,,,,
+Temperature,323,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Varian Inova 500,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+B-D-GLCPNAC, , H1,4.67, , , , note
+B-D-GLCPNAC, , H2,3.64, , , , note
+B-D-GLCPNAC, , H3,3.48, , , , note
+B-D-GLCPNAC, , H4,3.36, , , , note
+B-D-GLCPNAC, , H5,3.29, , , , note
+B-D-GLCPNAC, , H6,3.78, , , , note
+B-D-GLCPNAC, , NAc,1.91, , , , note
+A-L-RHAP,3, H1,4.73, , , , note
+A-L-RHAP,3, H2,3.87, , , , note
+A-L-RHAP,3, H3,3.65, , , , note
+A-L-RHAP,3, H4,3.35, , , , note
+A-L-RHAP,3, H5,3.87, , , , note
+A-L-RHAP,3, H6,1.1, , , , note
+B-D-GLCPNAC, , C1,102.4, , , , note
+B-D-GLCPNAC, , C2,57.5, , , , note
+B-D-GLCPNAC, , C3,74.9, , , , note
+B-D-GLCPNAC, , C4,71.1, , , , note
+B-D-GLCPNAC, , C5,76.5, , , , note
+B-D-GLCPNAC, , C6,62.4, , , , note
+A-L-RHAP,3, C1,102.6, , , , note
+A-L-RHAP,3, C2,71.8, , , , note
+A-L-RHAP,3, C3,81.8, , , , note
+A-L-RHAP,3, C4,72.3, , , , note
+A-L-RHAP,3, C5,70.5, , , , note
+A-L-RHAP,3, C6,17.9, , , , note

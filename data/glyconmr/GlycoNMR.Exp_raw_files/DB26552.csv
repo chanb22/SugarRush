@@ -1,0 +1,79 @@
+MHz,500,,,,,,
+Temperature,80,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker AMX-500,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-D-GALP, , H1,5.17, , , , note
+A-D-GALP, , H2,3.99, , , , note
+A-D-GALP, , H3,4.1, , , , note
+A-D-GALP, , H4,4.06, , , , note
+A-D-GALP, , H5,4.24, , , , note
+A-D-GALP, , H61,3.76, , , , note
+A-D-GALP, , H62,3.76, , , , note
+A-L-RHAP,2, H1,5.245, , , , note
+A-L-RHAP,2, H2,4.1, , , , note
+A-L-RHAP,2, H3,3.9, , , , note
+A-L-RHAP,2, H4,3.506, , , , note
+A-L-RHAP,2, H5,3.72, , , , note
+A-L-RHAP,2, H6,1.33, , , , note
+A-L-RHAP," 2, 2", H1,5.05, , , , note
+A-L-RHAP," 2, 2", H2,4.26, , , , note
+A-L-RHAP," 2, 2", H3,3.86, , , , note
+A-L-RHAP," 2, 2", H4,3.59, , , , note
+A-L-RHAP," 2, 2", H5,3.78, , , , note
+A-L-RHAP," 2, 2", H6,1.31, , , , note
+A-D-GALP," 2, 2, 3", H1,5.16, , , , note
+A-D-GALP," 2, 2, 3", H2,4.09, , , , note
+A-D-GALP," 2, 2, 3", H3,4.11, , , , note
+A-D-GALP," 2, 2, 3", H4,4.28, , , , note
+A-D-GALP," 2, 2, 3", H5,4.381, , , , note
+A-D-GALP," 2, 2, 3", H61,3.9, , , , note
+A-D-GALP," 2, 2, 3", H62,3.71, , , , note
+B-D-GALP," 2, 2, 3, 3", H1,4.699, , , , note
+B-D-GALP," 2, 2, 3, 3", H2,3.79, , , , note
+B-D-GALP," 2, 2, 3, 3", H3,3.79, , , , note
+B-D-GALP," 2, 2, 3, 3", H4,4.13, , , , note
+B-D-GALP," 2, 2, 3, 3", H5,3.69, , , , note
+B-D-GALP," 2, 2, 3, 3", H61,3.7, , , , note
+B-D-GALP," 2, 2, 3, 3", H62,3.7, , , , note
+B-D-GALF2AC," 2, 2, 3, 6", H1,5.15, , , , note
+B-D-GALF2AC," 2, 2, 3, 6", H2,4.958, , , , note
+B-D-GALF2AC," 2, 2, 3, 6", H3,4.22, , , , note
+B-D-GALF2AC," 2, 2, 3, 6", H4,4.05, , , , note
+B-D-GALF2AC," 2, 2, 3, 6", H5,3.86, , , , note
+B-D-GALF2AC," 2, 2, 3, 6", H61,3.74, , , , note
+B-D-GALF2AC," 2, 2, 3, 6", H62,3.67, , , , note
+B-D-GALF2AC," 2, 2, 3, 6", OAc,2.148, , , , note
+A-D-GALP, , C1,96, , , , note
+A-D-GALP, , C2,74.5, , , , note
+A-D-GALP, , C3,69.8, , , , note
+A-D-GALP, , C4,70.2, , , , note
+A-D-GALP, , C5,71.5, , , , note
+A-D-GALP, , C6,61.4, , , , note
+A-L-RHAP,2, C1,100.9, , , , note
+A-L-RHAP,2, C2,81.6, , , , note
+A-L-RHAP,2, C6,17, , , , note
+A-L-RHAP," 2, 2", C1,102.3, , , , note
+A-L-RHAP," 2, 2", C2,67.7, , , , note
+A-L-RHAP," 2, 2", C3,77.3, , , , note
+A-L-RHAP," 2, 2", C4,71.2, , , , note
+A-L-RHAP," 2, 2", C5,69.7, , , , note
+A-L-RHAP," 2, 2", C6,17, , , , note
+A-D-GALP," 2, 2, 3", C1,97, , , , note
+A-D-GALP," 2, 2, 3", C2,67.9, , , , note
+A-D-GALP," 2, 2, 3", C3,79.5, , , , note
+A-D-GALP," 2, 2, 3", C4,69.6, , , , note
+A-D-GALP," 2, 2, 3", C5,69.7, , , , note
+A-D-GALP," 2, 2, 3", C6,66.9, , , , note
+B-D-GALP," 2, 2, 3, 3", C1,104.8, , , , note
+B-D-GALP," 2, 2, 3, 3", C2,70.2, , , , note
+B-D-GALP," 2, 2, 3, 3", C3,78.3, , , , note
+B-D-GALP," 2, 2, 3, 3", C4,66.1, , , , note
+B-D-GALP," 2, 2, 3, 3", C5,75.3, , , , note
+B-D-GALP," 2, 2, 3, 3", C6,61.4, , , , note
+B-D-GALF2AC," 2, 2, 3, 6", C1,105.5, , , , note
+B-D-GALF2AC," 2, 2, 3, 6", C2,84, , , , note
+B-D-GALF2AC," 2, 2, 3, 6", C3,75.9, , , , note
+B-D-GALF2AC," 2, 2, 3, 6", C4,84.2, , , , note
+B-D-GALF2AC," 2, 2, 3, 6", C5,71, , , , note
+B-D-GALF2AC," 2, 2, 3, 6", C6,63, , , , note

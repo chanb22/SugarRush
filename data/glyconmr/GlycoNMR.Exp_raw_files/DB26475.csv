@@ -1,0 +1,90 @@
+MHz,500,,,,,,
+Temperature,30,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Varian Inova 500,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-D-KDOP, , H3 ax,1.84, , , , note
+A-D-KDOP, , H3 eq,2.21, , , , note
+A-D-KDOP, , H4,4.13, , , , note
+A-D-KDOP, , H5,4.08, , , , note
+A-D-KDOP, , H6,3.61, , , , note
+A-D-KDOP, , H7,3.98, , , , note
+A-D-KDOP, , H8 a,3.94, , , , note
+A-D-KDOP, , H8 b,3.61, , , , note
+A-D-GALP,5, H1,5.13, , , , note
+A-D-GALP,5, H2,3.54, , , , note
+A-D-GALP,5, H3,3.86, , , , note
+A-D-GALP,5, H4,4.28, , , , note
+A-D-GALP,5, H5,4.35, , , , note
+A-D-GALP,5, H6,4.09, , , , note
+B-D-GLCP," 5, 4", H1,4.61, , , , note
+B-D-GLCP," 5, 4", H2,3.29, , , , note
+B-D-GLCP," 5, 4", H3,3.67, , , , note
+B-D-GLCP," 5, 4", H4,3.52, , , , note
+B-D-GLCP," 5, 4", H5,3.49, , , , note
+B-D-GLCP," 5, 4", H6 a,3.91, , , , note
+B-D-GLCP," 5, 4", H6 b,3.74, , , , note
+B-D-GLCPAN," 5, 4, 3", H1,4.34, , , , note
+B-D-GLCPAN," 5, 4, 3", H2,3.79, , , , note
+B-D-GLCPAN," 5, 4, 3", H3,3.73, , , , note
+B-D-GLCPAN," 5, 4, 3", H4,3.91, , , , note
+B-D-GLCPAN," 5, 4, 3", H5,4.29, , , , note
+A-D-GALPAN," 5, 6", H1,5.81, , , , note
+A-D-GALPAN," 5, 6", H2,4.09, , , , note
+A-D-GALPAN," 5, 6", H3,4, , , , note
+A-D-GALPAN," 5, 6", H4,4.5, , , , note
+A-D-GALPAN," 5, 6", H5,4.97, , , , note
+A-L-RHAP," 5, 6, 4", H1,5.66, , , , note
+A-L-RHAP," 5, 6, 4", H2,4.1, , , , note
+A-L-RHAP," 5, 6, 4", H3,3.97, , , , note
+A-L-RHAP," 5, 6, 4", H4,3.41, , , , note
+A-L-RHAP," 5, 6, 4", H5,3.77, , , , note
+A-L-RHAP," 5, 6, 4", H6,1.21, , , , note
+B-D-QUIP3NAC," 5, 6, 4, 2", H1,4.61, , , , note
+B-D-QUIP3NAC," 5, 6, 4, 2", H2,3.46, , , , note
+B-D-QUIP3NAC," 5, 6, 4, 2", H3,3.9, , , , note
+B-D-QUIP3NAC," 5, 6, 4, 2", H4,3.23, , , , note
+B-D-QUIP3NAC," 5, 6, 4, 2", H5,3.52, , , , note
+B-D-QUIP3NAC," 5, 6, 4, 2", H6,1.26, , , , note
+A-D-KDOP, , C1,35, , , , note
+A-D-KDOP, , C2,66.1, , , , note
+A-D-KDOP, , C3,73.1, , , , note
+A-D-KDOP, , C4,72.1, , , , note
+A-D-KDOP, , C5,70.1, , , , note
+A-D-KDOP, , C6,64, , , , note
+A-D-GALP,5, C1,101, , , , note
+A-D-GALP,5, C2,73.1, , , , note
+A-D-GALP,5, C3,71, , , , note
+A-D-GALP,5, C4,76.4, , , , note
+A-D-GALP,5, C5,70, , , , note
+A-D-GALP,5, C6,68.8, , , , note
+B-D-GLCP," 5, 4", C1,106, , , , note
+B-D-GLCP," 5, 4", C2,72.3, , , , note
+B-D-GLCP," 5, 4", C3,81.3, , , , note
+B-D-GLCP," 5, 4", C4,72.4, , , , note
+B-D-GLCP," 5, 4", C5,76.9, , , , note
+B-D-GLCP," 5, 4", C6,61.2, , , , note
+B-D-GLCPAN," 5, 4, 3", C1,105.1, , , , note
+B-D-GLCPAN," 5, 4, 3", C2,69.8, , , , note
+B-D-GLCPAN," 5, 4, 3", C3,71.2, , , , note
+B-D-GLCPAN," 5, 4, 3", C4,71, , , , note
+B-D-GLCPAN," 5, 4, 3", C5,75, , , , note
+B-D-GLCPAN," 5, 4, 3", C6,173.6, , , , note
+A-D-GALPAN," 5, 6", C1,99.9, , , , note
+A-D-GALPAN," 5, 6", C2,67.5, , , , note
+A-D-GALPAN," 5, 6", C3,71.5, , , , note
+A-D-GALPAN," 5, 6", C4,82.5, , , , note
+A-D-GALPAN," 5, 6", C5,72, , , , note
+A-D-GALPAN," 5, 6", C6,175.3, , , , note
+A-L-RHAP," 5, 6, 4", C1,99.7, , , , note
+A-L-RHAP," 5, 6, 4", C2,81.8, , , , note
+A-L-RHAP," 5, 6, 4", C3,71.2, , , , note
+A-L-RHAP," 5, 6, 4", C4,73.4, , , , note
+A-L-RHAP," 5, 6, 4", C5,69.2, , , , note
+A-L-RHAP," 5, 6, 4", C6,17.9, , , , note
+B-D-QUIP3NAC," 5, 6, 4, 2", C1,105, , , , note
+B-D-QUIP3NAC," 5, 6, 4, 2", C2,72.8, , , , note
+B-D-QUIP3NAC," 5, 6, 4, 2", C3,58.2, , , , note
+B-D-QUIP3NAC," 5, 6, 4, 2", C4,74.3, , , , note
+B-D-QUIP3NAC," 5, 6, 4, 2", C5,74.6, , , , note
+B-D-QUIP3NAC," 5, 6, 4, 2", C6,18.3, , , , note

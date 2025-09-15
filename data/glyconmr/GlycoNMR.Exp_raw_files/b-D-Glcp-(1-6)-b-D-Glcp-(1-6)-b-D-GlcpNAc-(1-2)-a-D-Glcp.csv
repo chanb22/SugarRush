@@ -1,0 +1,61 @@
+MHz,500,,,,,,
+Temperature,300,,,,,,
+Solvent,CdCl3,,,,,,
+Spectrometer,Bruker Avance 500,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-D-GLCP, , H1,5.15, , , , note
+A-D-GLCP, , H2,3.74, , , , note
+A-D-GLCP, , H3,5.39, , , , note
+A-D-GLCP, , H4,4.96, , , , note
+A-D-GLCP, , H5,4.05, , , , note
+A-D-GLCP, , H61,4.3, , , , note
+A-D-GLCP, , H62,4.08, , , , note
+A-D-GLCP, , GlyH11,3.89, , , , note
+A-D-GLCP, , GlyH12,3.79, , , , note
+A-D-GLCP, , GlyH2,5.28, , , , note
+A-D-GLCP, , GlyH3,4.41, , , , note
+B-D-GLCPNAC,2, H1,5.04, , , , note
+B-D-GLCPNAC,2, H2,3.44, , , , note
+B-D-GLCPNAC,2, H3,5.56, , , , note
+B-D-GLCPNAC,2, H4,4.86, , , , note
+B-D-GLCPNAC,2, H5,3.88, , , , note
+B-D-GLCPNAC,2, H6,3.73, , , , note
+B-D-GLCPNAC,2, NAc,1.27, , , , note
+B-D-GLCP," 2, 6", H1,4.49, , , , note
+B-D-GLCP," 2, 6", H2,4.93, , , , note
+B-D-GLCP," 2, 6", H3,5.18, , , , note
+B-D-GLCP," 2, 6", H4,4.86, , , , note
+B-D-GLCP," 2, 6", H5,3.76, , , , note
+B-D-GLCP," 2, 6", H6,3.79, , , , note
+B-D-GLCP," 2, 6, 6", H1,4.59, , , , note
+B-D-GLCP," 2, 6, 6", H2,5.05, , , , note
+B-D-GLCP," 2, 6, 6", H3,5.26, , , , note
+B-D-GLCP," 2, 6, 6", H4,5.08, , , , note
+B-D-GLCP," 2, 6, 6", H5,3.79, , , , note
+B-D-GLCP," 2, 6, 6", H61,4.3, , , , note
+B-D-GLCP," 2, 6, 6", H62,4.14, , , , note
+A-D-GLCP, , C1,99.9, , , , note
+A-D-GLCP, , C2,76.2, , , , note
+A-D-GLCP, , C3,71.3, , , , note
+A-D-GLCP, , C4,68.8, , , , note
+A-D-GLCP, , C5,67.2, , , , note
+A-D-GLCP, , C6,62.2, , , , note
+B-D-GLCPNAC,2, C1,98.6, , , , note
+B-D-GLCPNAC,2, C2,55.8, , , , note
+B-D-GLCPNAC,2, C3,71.4, , , , note
+B-D-GLCPNAC,2, C4,69.5, , , , note
+B-D-GLCPNAC,2, C5,72.3, , , , note
+B-D-GLCPNAC,2, C6,69, , , , note
+B-D-GLCPNAC,2, NAc,29.7, , , , note
+B-D-GLCP," 2, 6", C1,101, , , , note
+B-D-GLCP," 2, 6", C2,70.9, , , , note
+B-D-GLCP," 2, 6", C3,72.5, , , , note
+B-D-GLCP," 2, 6", C4,69.5, , , , note
+B-D-GLCP," 2, 6", C5,69.3, , , , note
+B-D-GLCP," 2, 6", C6,69.1, , , , note
+B-D-GLCP," 2, 6, 6", C1,101.4, , , , note
+B-D-GLCP," 2, 6, 6", C2,70.9, , , , note
+B-D-GLCP," 2, 6, 6", C3,72.1, , , , note
+B-D-GLCP," 2, 6, 6", C4,68.5, , , , note
+B-D-GLCP," 2, 6, 6", C5,72.3, , , , note
+B-D-GLCP," 2, 6, 6", C6,62.1, , , , note

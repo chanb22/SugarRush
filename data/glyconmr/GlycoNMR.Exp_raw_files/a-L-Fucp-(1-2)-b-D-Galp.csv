@@ -1,0 +1,29 @@
+MHz,0,,,,,,
+Temperature,70,,,,,,
+Solvent,D2O,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+B-D-GALP, , H1,4.66, , , , note
+B-D-GALP, , H2,3.56, , , , note
+B-D-GALP, , H3,3.83, , , , note
+B-D-GALP, , H4,3.94, , , , note
+B-D-GALP, , H5,3.69, , , , note
+B-D-GALP, , H6 a,3.76, , , , note
+B-D-GALP, , H6 b,3.76, , , , note
+A-L-FUCP,2, H1,5.2, , , , note
+A-L-FUCP,2, H2,3.81, , , , note
+A-L-FUCP,2, H3,3.88, , , , note
+A-L-FUCP,2, H4,3.82, , , , note
+A-L-FUCP,2, H5,4.3, , , , note
+A-L-FUCP,2, H6,1.2, , , , note
+B-D-GALP, , C1,96.21, , , , note
+B-D-GALP, , C2,80.38, , , , note
+B-D-GALP, , C3,74.29, , , , note
+B-D-GALP, , C4,69.78, , , , note
+B-D-GALP, , C5,75.84, , , , note
+B-D-GALP, , C6,61.81, , , , note
+A-L-FUCP,2, C1,100.74, , , , note
+A-L-FUCP,2, C2,69.46, , , , note
+A-L-FUCP,2, C3,70.63, , , , note
+A-L-FUCP,2, C4,72.84, , , , note
+A-L-FUCP,2, C5,67.73, , , , note
+A-L-FUCP,2, C6,16.03, , , , note

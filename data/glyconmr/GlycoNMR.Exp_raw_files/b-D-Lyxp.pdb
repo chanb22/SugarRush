@@ -1,0 +1,30 @@
+<br />
+<b>Notice</b>:  Undefined index: children in <b>/home/www/include/php/linucs2semlin/l2sl.php</b> on line <b>410</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/home/www/include/php/linucs2semlin/l2sl.php</b> on line <b>410</b><br />
+HEADER    CARBOHYDRATE
+COMPND    UNNAMED
+AUTHOR    CREATED BY SWEET-II ON WWW.GLYCOSCIENCES.DE
+HETATM    1  C1  LYX     1       1.788   0.113  -0.378  1.00  0.00           C
+HETATM    2  C2  LYX     1       1.056  -0.041   0.940  1.00  0.00           C
+HETATM    3  C3  LYX     1      -0.228  -0.831   0.710  1.00  0.00           C
+HETATM    4  C4  LYX     1      -1.101  -0.126  -0.342  1.00  0.00           C
+HETATM    5  C5  LYX     1      -0.235   0.081  -1.605  1.00  0.00           C
+HETATM    6  OH3 LYX     1      -0.945  -0.955   1.941  1.00  0.00           O
+HETATM    7  O5  LYX     1       0.970   0.786  -1.321  1.00  0.00           O
+HETATM    8  HO3 LYX     1      -0.852  -1.977   2.309  1.00  0.00           H
+HETATM    9  OH1 LYX     1       3.001   0.841  -0.236  1.00  0.00           O
+HETATM   10  OH2 LYX     1       0.719   1.233   1.473  1.00  0.00           O
+HETATM   11  OH4 LYX     1      -2.262  -0.887  -0.648  1.00  0.00           O
+HETATM   12  HO1 LYX     1       2.784   1.838   0.150  1.00  0.00           H
+HETATM   13  HO2 LYX     1       0.079   1.765   0.769  1.00  0.00           H
+HETATM   14  HO4 LYX     1      -3.001  -0.757   0.143  1.00  0.00           H
+HETATM   15  H5A LYX     1      -0.827   0.715  -2.259  1.00  0.00           H
+HETATM   16  H5E LYX     1      -0.031  -0.804  -2.192  1.00  0.00           H
+HETATM   17  H1  LYX     1       2.047  -0.871  -0.768  1.00  0.00           H
+HETATM   18  H2  LYX     1       1.692  -0.578   1.644  1.00  0.00           H
+HETATM   19  H3  LYX     1       0.033  -1.829   0.357  1.00  0.00           H
+HETATM   20  H4  LYX     1      -1.396   0.846   0.052  1.00  0.00           H
+MASTER        0    0    0    0    0    0    0    0   20    0   20    0
+END
+

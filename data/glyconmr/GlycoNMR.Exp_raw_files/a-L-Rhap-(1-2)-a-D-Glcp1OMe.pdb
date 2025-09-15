@@ -1,0 +1,61 @@
+HEADER    CARBOHYDRATE
+COMPND    UNNAMED
+AUTHOR    CREATED BY SWEET-II ON WWW.GLYCOSCIENCES.DE
+LINK       O2  GLC    1                     C1  RAM    2
+LINK       O1  GLC    1                     C1  CH3    3
+HETATM    1  C1  GLC     1       0.009  -2.295   3.925  1.00  0.00           C
+HETATM    2  C2  GLC     1       1.114  -2.722   2.963  1.00  0.00           C
+HETATM    3  C3  GLC     1       0.579  -3.568   1.820  1.00  0.00           C
+HETATM    4  C4  GLC     1      -0.269  -4.701   2.351  1.00  0.00           C
+HETATM    5  C5  GLC     1      -1.354  -4.147   3.275  1.00  0.00           C
+HETATM    6  C6  GLC     1      -2.259  -5.191   3.892  1.00  0.00           C
+HETATM    7  O2  GLC     1       1.739  -1.554   2.447  1.00  0.00           O
+HETATM    8  OH3 GLC     1       1.688  -4.112   1.094  1.00  0.00           O
+HETATM    9  OH4 GLC     1      -0.903  -5.403   1.292  1.00  0.00           O
+HETATM   10  O5  GLC     1      -0.698  -3.465   4.356  1.00  0.00           O
+HETATM   11  OH6 GLC     1      -1.533  -6.133   4.665  1.00  0.00           O
+HETATM   12  HO3 GLC     1       1.653  -3.570   0.149  1.00  0.00           H
+HETATM   13  HO4 GLC     1      -0.310  -6.279   1.028  1.00  0.00           H
+HETATM   14  HO6 GLC     1      -1.674  -6.404   5.711  1.00  0.00           H
+HETATM   15  H5  GLC     1      -1.984  -3.502   2.728  1.00  0.00           H
+HETATM   16  H6S GLC     1      -3.120  -5.095   4.387  1.00  0.00           H
+HETATM   17  H6R GLC     1      -2.742  -5.716   3.120  1.00  0.00           H
+HETATM   18  H1  GLC     1       0.447  -1.763   4.769  1.00  0.00           H
+HETATM   19  H3  GLC     1      -0.024  -2.936   1.168  1.00  0.00           H
+HETATM   20  H4  GLC     1       0.388  -5.380   2.895  1.00  0.00           H
+HETATM   21  H2  GLC     1       1.837  -3.302   3.538  1.00  0.00           H
+HETATM   22  C1  CH3     3      -1.825  -0.954   4.428  1.00  0.00           C
+HETATM   23  H1  CH3     3      -2.537  -0.263   4.027  1.00  0.00           H
+HETATM   24  H2  CH3     3      -1.264  -0.479   5.205  1.00  0.00           H
+HETATM   25  H3  CH3     3      -2.338  -1.804   4.830  1.00  0.00           H
+HETATM   26  O1  GLC     1      -0.936  -1.378   3.393  1.00  0.00           O
+HETATM   27  C1  RAM     2       3.071  -1.300   2.862  1.00  0.00           C
+HETATM   28  C2  RAM     2       3.734  -0.232   1.954  1.00  0.00           C
+HETATM   29  C3  RAM     2       3.221   1.194   2.267  1.00  0.00           C
+HETATM   30  C4  RAM     2       3.248   1.517   3.779  1.00  0.00           C
+HETATM   31  C5  RAM     2       2.480   0.423   4.569  1.00  0.00           C
+HETATM   32  C6  RAM     2       2.582   0.600   6.090  1.00  0.00           C
+HETATM   33  OH2 RAM     2       5.147  -0.254   2.132  1.00  0.00           O
+HETATM   34  OH3 RAM     2       4.015   2.159   1.587  1.00  0.00           O
+HETATM   35  OH4 RAM     2       2.666   2.804   3.986  1.00  0.00           O
+HETATM   36  O5  RAM     2       3.026  -0.893   4.260  1.00  0.00           O
+HETATM   37  H1  RAM     2       3.652  -2.240   2.784  1.00  0.00           H
+HETATM   38  H2  RAM     2       3.514  -0.472   0.896  1.00  0.00           H
+HETATM   39  H3  RAM     2       2.176   1.272   1.906  1.00  0.00           H
+HETATM   40  H4  RAM     2       4.303   1.526   4.120  1.00  0.00           H
+HETATM   41  H5  RAM     2       1.410   0.449   4.278  1.00  0.00           H
+HETATM   42 1H6  RAM     2       2.057  -0.219   6.615  1.00  0.00           H
+HETATM   43 2H6  RAM     2       2.135   1.548   6.435  1.00  0.00           H
+HETATM   44 3H6  RAM     2       3.635   0.574   6.428  1.00  0.00           H
+HETATM   45  HO2 RAM     2       5.419   0.639   1.895  1.00  0.00           H
+HETATM   46  HO3 RAM     2       3.733   3.003   1.957  1.00  0.00           H
+HETATM   47  HO4 RAM     2       2.603   2.913   4.939  1.00  0.00           H
+CHLDEF    1    18    1   26   22    0    0 -54.0 161.0   0.0
+CHLDEF    2    37   27    7    2   21    0  46.0  -5.9 -25.8
+CHLNAM    1 A-D-GLCP-(1-1)-METHYL
+CHLNAM    2 A-L-RHAP-(1-2)-A-D-GLCP
+SWECON 1   1  3  A-D-GLCP-(1-1)-METHYL
+SWECON 2   2  1  A-L-RHAP-(1-2)-A-D-GLCP
+MASTER        0    0    0    0    0    0    0    0   47    0   47    0
+END
+

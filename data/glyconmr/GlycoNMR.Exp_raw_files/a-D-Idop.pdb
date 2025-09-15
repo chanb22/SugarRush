@@ -1,0 +1,34 @@
+<br />
+<b>Notice</b>:  Undefined index: children in <b>/home/www/include/php/linucs2semlin/l2sl.php</b> on line <b>410</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/home/www/include/php/linucs2semlin/l2sl.php</b> on line <b>410</b><br />
+HEADER    CARBOHYDRATE
+COMPND    UNNAMED
+AUTHOR    CREATED BY SWEET-II ON WWW.GLYCOSCIENCES.DE
+HETATM    1  C1  IDE     1       1.374  -0.843   0.501  1.00  0.00           C
+HETATM    2  C2  IDE     1       0.732  -0.633   1.869  1.00  0.00           C
+HETATM    3  C3  IDE     1      -0.774  -0.827   1.828  1.00  0.00           C
+HETATM    4  C4  IDE     1      -1.383  -0.008   0.712  1.00  0.00           C
+HETATM    5  C5  IDE     1      -0.678  -0.325  -0.607  1.00  0.00           C
+HETATM    6  C6  IDE     1      -1.184   0.452  -1.803  1.00  0.00           C
+HETATM    7  O5  IDE     1       0.712   0.002  -0.448  1.00  0.00           O
+HETATM    8  OH6 IDE     1      -1.053   1.853  -1.619  1.00  0.00           O
+HETATM    9  HO6 IDE     1      -0.537   2.574  -2.252  1.00  0.00           H
+HETATM   10  OH1 IDE     1       1.334  -2.177   0.010  1.00  0.00           O
+HETATM   11  OH2 IDE     1       1.030   0.684   2.315  1.00  0.00           O
+HETATM   12  OH3 IDE     1      -0.987  -2.210   1.577  1.00  0.00           O
+HETATM   13  OH4 IDE     1      -1.232   1.349   1.107  1.00  0.00           O
+HETATM   14  HO1 IDE     1       0.297  -2.500  -0.082  1.00  0.00           H
+HETATM   15  HO2 IDE     1       0.591   1.408   1.630  1.00  0.00           H
+HETATM   16  HO3 IDE     1      -2.057  -2.411   1.524  1.00  0.00           H
+HETATM   17  HO4 IDE     1      -1.746   1.512   2.055  1.00  0.00           H
+HETATM   18  H5  IDE     1      -0.817  -1.344  -0.843  1.00  0.00           H
+HETATM   19  H6S IDE     1      -1.016   0.327  -2.779  1.00  0.00           H
+HETATM   20  H6R IDE     1      -2.205   0.241  -1.934  1.00  0.00           H
+HETATM   21  H1  IDE     1       2.439  -0.615   0.560  1.00  0.00           H
+HETATM   22  H4  IDE     1      -2.439  -0.224   0.547  1.00  0.00           H
+HETATM   23  H2  IDE     1       1.174  -1.362   2.549  1.00  0.00           H
+HETATM   24  H3  IDE     1      -1.217  -0.531   2.779  1.00  0.00           H
+MASTER        0    0    0    0    0    0    0    0   24    0   24    0
+END
+

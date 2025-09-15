@@ -1,0 +1,29 @@
+MHz,0,,,,,,
+Temperature,60,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker WM-250,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-D-GLCP1OME, , H1,5.07, , , , note
+A-D-GLCP1OME, , H2,3.69, , , , note
+A-D-GLCP1OME, , H3,3.72, , , , note
+A-D-GLCP1OME, , H4,3.45, , , , note
+A-D-GLCP1OME, , H5,3.64, , , , note
+A-D-GLCP1OME, , H61,3.77, , , , note
+A-D-GLCP1OME, , H62,3.89, , , , note
+A-D-MANP,2, H1,5.02, , , , note
+A-D-MANP,2, H2,3.96, , , , note
+A-D-MANP,2, H3,3.88, , , , note
+A-D-MANP,2, H4,3.7, , , , note
+A-D-GLCP1OME, , C1,97.5, , , , note
+A-D-GLCP1OME, , C2,76.1, , , , note
+A-D-GLCP1OME, , C3,72.8, , , , note
+A-D-GLCP1OME, , C4,70.8, , , , note
+A-D-GLCP1OME, , C5,72.7, , , , note
+A-D-GLCP1OME, , C6,61.9, , , , note
+A-D-GLCP1OME, , OMe,56, , , , note
+A-D-MANP,2, C1,98.7, , , , note
+A-D-MANP,2, C2,71.4, , , , note
+A-D-MANP,2, C3,71.4, , , , note
+A-D-MANP,2, C4,67.9, , , , note
+A-D-MANP,2, C5,74.1, , , , note
+A-D-MANP,2, C6,62.1, , , , note

@@ -1,0 +1,41 @@
+MHz,600,,,,,,
+Temperature,0,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker DRX 600,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+B-D-GALP, , H1,4.61, , , , note
+B-D-GALP, , H2,3.55, , , , note
+B-D-GALP, , H3,3.74, , , , note
+B-D-GALP, , H4,4.16, , , , note
+B-D-GALP, , H5,3.7, , , , note
+B-D-GLCP,4, H1,4.68, , , , note
+B-D-GLCP,4, H2,3.4, , , , note
+B-D-GLCP,4, H3,3.63, , , , note
+B-D-GLCP,4, H4,3.73, , , , note
+B-D-GLCP,4, H5,3.55, , , , note
+B-D-GLCP,4, H6 a,3.84, , , , note
+B-D-GLCP,4, H6 b,3.99, , , , note
+B-D-GLCP," 4, 4", H1,4.53, , , , note
+B-D-GLCP," 4, 4", H2,3.29, , , , note
+B-D-GLCP," 4, 4", H3,3.51, , , , note
+B-D-GLCP," 4, 4", H4,3.3, , , , note
+B-D-GLCP," 4, 4", H5,3.5, , , , note
+B-D-GLCP," 4, 4", H6 a,3.67, , , , note
+B-D-GLCP," 4, 4", H6 b,3.96, , , , note
+B-D-GALP, , C1,97.3, , , , note
+B-D-GALP, , C2,73.3, , , , note
+B-D-GALP, , C3,75.3, , , , note
+B-D-GALP, , C4,78.6, , , , note
+B-D-GALP, , C6,62, , , , note
+B-D-GLCP,4, C1,104.5, , , , note
+B-D-GLCP,4, C2,75.4, , , , note
+B-D-GLCP,4, C3,82.3, , , , note
+B-D-GLCP,4, C4,75.8, , , , note
+B-D-GLCP,4, C5,76.2, , , , note
+B-D-GLCP,4, C6,60.6, , , , note
+B-D-GLCP," 4, 4", C1,102.8, , , , note
+B-D-GLCP," 4, 4", C2,74.5, , , , note
+B-D-GLCP," 4, 4", C3,76.4, , , , note
+B-D-GLCP," 4, 4", C4,70.9, , , , note
+B-D-GLCP," 4, 4", C5,77.7, , , , note
+B-D-GLCP," 4, 4", C6,62.2, , , , note

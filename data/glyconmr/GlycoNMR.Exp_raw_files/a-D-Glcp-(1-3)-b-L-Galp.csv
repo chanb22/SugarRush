@@ -1,0 +1,28 @@
+MHz,0,,,,,,
+Temperature,70,,,,,,
+Solvent,D2O,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+B-L-GALP, , H1,4.65, , , , note
+B-L-GALP, , H2,3.61, , , , note
+B-L-GALP, , H3,3.78, , , , note
+B-L-GALP, , H4,4.01, , , , note
+B-L-GALP, , H5,3.7, , , , note
+B-L-GALP, , H61,3.63, , , , note
+B-L-GALP, , H62,3.63, , , , note
+A-D-GLCP,3, H1,5.24, , , , note
+A-D-GLCP,3, H2,3.63, , , , note
+A-D-GLCP,3, H3,3.79, , , , note
+A-D-GLCP,3, H4,3.47, , , , note
+A-D-GLCP,3, H5,4.06, , , , note
+B-L-GALP, , C1,97.18, , , , note
+B-L-GALP, , C2,72.47, , , , note
+B-L-GALP, , C3,81.73, , , , note
+B-L-GALP, , C4,69.46, , , , note
+B-L-GALP, , C5,76.01, , , , note
+B-L-GALP, , C6,61.86, , , , note
+A-D-GLCP,3, C1,101.29, , , , note
+A-D-GLCP,3, C2,72.23, , , , note
+A-D-GLCP,3, C3,73.65, , , , note
+A-D-GLCP,3, C4,72.81, , , , note
+A-D-GLCP,3, C5,73.4, , , , note
+A-D-GLCP,3, C6,177.11, , , , note

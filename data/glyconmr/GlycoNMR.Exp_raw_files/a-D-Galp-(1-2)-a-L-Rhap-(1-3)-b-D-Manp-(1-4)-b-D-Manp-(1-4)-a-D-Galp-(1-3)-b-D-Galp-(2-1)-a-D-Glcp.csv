@@ -1,0 +1,84 @@
+MHz,400,,,,,,
+Temperature,47,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker AMX-400,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-D-GLCP, , H1,5.569, , , , note
+A-D-GLCP, , H2,3.514, , , , note
+A-D-GLCP, , H3,3.657, , , , note
+A-D-GLCP, , H4,3.497, , , , note
+A-D-GLCP, , H5,4.014, , , , note
+A-D-GLCP, , H6,3.83, , , , note
+B-D-GALP,1, H1,4.75, , , , note
+B-D-GALP,1, H2,3.929, , , , note
+B-D-GALP,1, H3,3.927, , , , note
+B-D-GALP,1, H4,4.281, , , , note
+B-D-GALP,1, H5,3.688, , , , note
+A-D-GALP," 1, 3", H1,5.262, , , , note
+A-D-GALP," 1, 3", H2,3.95, , , , note
+A-D-GALP," 1, 3", H3,3.936, , , , note
+A-D-GALP," 1, 3", H4,4.245, , , , note
+A-D-GALP," 1, 3", H5,4.04, , , , note
+B-D-MANP," 1, 3, 4", H1,4.849, , , , note
+B-D-MANP," 1, 3, 4", H2,4.204, , , , note
+B-D-MANP," 1, 3, 4", H3,3.814, , , , note
+B-D-MANP," 1, 3, 4", H4,3.832, , , , note
+B-D-MANP," 1, 3, 4", H5,3.485, , , , note
+B-D-MANP," 1, 3, 4, 4", H1,4.796, , , , note
+B-D-MANP," 1, 3, 4, 4", H2,4.318, , , , note
+B-D-MANP," 1, 3, 4, 4", H3,3.942, , , , note
+B-D-MANP," 1, 3, 4, 4", H4,3.849, , , , note
+B-D-MANP," 1, 3, 4, 4", H5,3.675, , , , note
+A-L-RHAP," 1, 3, 4, 4, 3", H1,5.116, , , , note
+A-L-RHAP," 1, 3, 4, 4, 3", H2,4.054, , , , note
+A-L-RHAP," 1, 3, 4, 4, 3", H3,4.142, , , , note
+A-L-RHAP," 1, 3, 4, 4, 3", H4,3.478, , , , note
+A-L-RHAP," 1, 3, 4, 4, 3", H5,4.429, , , , note
+A-L-RHAP," 1, 3, 4, 4, 3", H6,1.34, , , , note
+A-D-GALP," 1, 3, 4, 4, 3, 2", H1,5.085, , , , note
+A-D-GALP," 1, 3, 4, 4, 3, 2", H2,3.849, , , , note
+A-D-GALP," 1, 3, 4, 4, 3, 2", H3,3.951, , , , note
+A-D-GALP," 1, 3, 4, 4, 3, 2", H4,4.037, , , , note
+A-D-GALP," 1, 3, 4, 4, 3, 2", H5,3.933, , , , note
+A-D-GLCP, , C1,97.93, , , , note
+A-D-GLCP, , C2,72.31, , , , note
+A-D-GLCP, , C3,74.1, , , , note
+A-D-GLCP, , C4,70.09, , , , note
+A-D-GLCP, , C5,71.84, , , , note
+A-D-GLCP, , C6,61, , , , note
+B-D-GALP,1, C1,100.97, , , , note
+B-D-GALP,1, C2,75.2, , , , note
+B-D-GALP,1, C3,71.82, , , , note
+B-D-GALP,1, C4,67.66, , , , note
+B-D-GALP,1, C5,75.81, , , , note
+B-D-GALP,1, C6,61, , , , note
+A-D-GALP," 1, 3", C1,94.24, , , , note
+A-D-GALP," 1, 3", C2,70.45, , , , note
+A-D-GALP," 1, 3", C3,68.94, , , , note
+A-D-GALP," 1, 3", C4,77.18, , , , note
+A-D-GALP," 1, 3", C5,71.82, , , , note
+A-D-GALP," 1, 3", C6,61, , , , note
+B-D-MANP," 1, 3, 4", C1,101.59, , , , note
+B-D-MANP," 1, 3, 4", C2,70.65, , , , note
+B-D-MANP," 1, 3, 4", C3,72.4, , , , note
+B-D-MANP," 1, 3, 4", C4,78.1, , , , note
+B-D-MANP," 1, 3, 4", C5,75.64, , , , note
+B-D-MANP," 1, 3, 4", C6,61, , , , note
+B-D-MANP," 1, 3, 4, 4", C1,101.39, , , , note
+B-D-MANP," 1, 3, 4, 4", C2,67.47, , , , note
+B-D-MANP," 1, 3, 4, 4", C3,75.02, , , , note
+B-D-MANP," 1, 3, 4, 4", C4,73.81, , , , note
+B-D-MANP," 1, 3, 4, 4", C5,73.29, , , , note
+B-D-MANP," 1, 3, 4, 4", C6,61, , , , note
+A-L-RHAP," 1, 3, 4, 4, 3", C1,94.02, , , , note
+A-L-RHAP," 1, 3, 4, 4, 3", C2,77.35, , , , note
+A-L-RHAP," 1, 3, 4, 4, 3", C3,70.45, , , , note
+A-L-RHAP," 1, 3, 4, 4, 3", C4,73.48, , , , note
+A-L-RHAP," 1, 3, 4, 4, 3", C5,69.43, , , , note
+A-L-RHAP," 1, 3, 4, 4, 3", C6,17.34, , , , note
+A-D-GALP," 1, 3, 4, 4, 3, 2", C1,98.68, , , , note
+A-D-GALP," 1, 3, 4, 4, 3, 2", C2,69.14, , , , note
+A-D-GALP," 1, 3, 4, 4, 3, 2", C3,69.17, , , , note
+A-D-GALP," 1, 3, 4, 4, 3, 2", C4,70.07, , , , note
+A-D-GALP," 1, 3, 4, 4, 3, 2", C5,71.91, , , , note
+A-D-GALP," 1, 3, 4, 4, 3, 2", C6,61, , , , note

@@ -1,0 +1,141 @@
+MHz,750.04,,,,,,
+Temperature,27,,,,,,
+Solvent,H2O,,,,,,
+Spectrometer,Varian INOVA 750,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-D-GLCPN, , H1,5.646, , , , note
+A-D-GLCPN, , H2,3.348, , , , note
+A-D-GLCPN, , H3,3.91, , , , note
+A-D-GLCPN, , H4,3.629, , , , note
+A-D-GLCPN, , H5,4.05, , , , note
+A-D-GLCPN, , H6 a,3.819, , , , note
+A-D-GLCPN, , H 6b,4.097, , , , note
+B-D-GLCPN,6, H1,4.691, , , , note
+B-D-GLCPN,6, H2,3.766, , , , note
+B-D-GLCPN,6, H3,3.72, , , , note
+B-D-GLCPN,6, H4,3.752, , , , note
+B-D-GLCPN,6, H5,3.68, , , , note
+B-D-GLCPN,6, H6 a,3.381, , , , note
+B-D-GLCPN,6, H6 b,3.666, , , , note
+A-D-KDOP," 6, 6", H3 ax,2.081, , , , note
+A-D-KDOP," 6, 6", H3 eq,1.974, , , , note
+A-D-KDOP," 6, 6", H4,3.96, , , , note
+A-D-KDOP," 6, 6", H5,4.297, , , , note
+A-D-KDOP," 6, 6", H6,3.503, , , , note
+A-D-KDOP," 6, 6", H7,3.684, , , , note
+A-D-KDOP," 6, 6", H8a,3.547, , , , note
+A-D-KDOP," 6, 6", H8 b,3.857, , , , note
+A-D-KDOP," 6, 6, 4", H3 ax,1.744, , , , note
+A-D-KDOP," 6, 6, 4", H3 eq,1.998, , , , note
+A-D-KDOP," 6, 6, 4", H4,4.031, , , , note
+A-D-KDOP," 6, 6, 4", H5,3.989, , , , note
+A-D-KDOP," 6, 6, 4", H6,3.557, , , , note
+A-D-KDOP," 6, 6, 4", H7,3.926, , , , note
+A-D-KDOP," 6, 6, 4", H8 a,3.716, , , , note
+A-D-KDOP," 6, 6, 4", H8 b,4.003, , , , note
+A-D-KDOP," 6, 6, 5", H3 ax,2.056, , , , note
+A-D-KDOP," 6, 6, 5", H3 eq,2.432, , , , note
+A-D-KDOP," 6, 6, 5", H4,4.463, , , , note
+A-D-KDOP," 6, 6, 5", H5,4.195, , , , note
+A-D-KDOP," 6, 6, 5", H6,4.378, , , , note
+A-D-KDOP," 6, 6, 5", H7,4, , , , note
+A-D-KDOP," 6, 6, 5", H8a,3.99, , , , note
+A-D-KDOP," 6, 6, 5", H8 b,3.99, , , , note
+A-D-GLCPNAC," 6, 6, 5, 4", H1,5.28, , , , note
+A-D-GLCPNAC," 6, 6, 5, 4", H2,3.469, , , , note
+A-D-GLCPNAC," 6, 6, 5, 4", H3,4.108, , , , note
+A-D-GLCPNAC," 6, 6, 5, 4", H4,3.915, , , , note
+A-D-GLCPNAC," 6, 6, 5, 4", H5,4.153, , , , note
+A-D-GLCPN," 6, 6, 5, 4, 4", H1,5.745, , , , note
+A-D-GLCPN," 6, 6, 5, 4, 4", H2,3.254, , , , note
+A-D-GLCPN," 6, 6, 5, 4, 4", H3,3.848, , , , note
+A-D-GLCPN," 6, 6, 5, 4, 4", H4,3.423, , , , note
+A-D-GLCPN," 6, 6, 5, 4, 4", H5,3.807, , , , note
+A-D-KDOP," 6, 6, 5, 5", H3 ax,1.869, , , , note
+A-D-KDOP," 6, 6, 5, 5", H3 eq,2.299, , , , note
+A-D-KDOP," 6, 6, 5, 5", H4,4.302, , , , note
+A-D-KDOP," 6, 6, 5, 5", H5,3.942, , , , note
+A-D-KDOP," 6, 6, 5, 5", H6,4.24, , , , note
+A-D-KDOP," 6, 6, 5, 5", H7,4.206, , , , note
+A-D-KDOP," 6, 6, 5, 5", H8a,3.492, , , , note
+A-D-KDOP," 6, 6, 5, 5", H8b,4.495, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8", H1,4.841, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8", H2,4.09, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8", H3,3.85, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8", H4,3.552, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8", H5,3.748, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8", H6,1.3, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8, 3", H1,5.032, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8, 3", H2,4.159, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8, 3", H3,3.911, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8, 3", H4,3.56, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8, 3", H5,3.887, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8, 3", H6,1.3, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8, 3, 3", H1,5.046, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8, 3, 3", H2,4.07, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8, 3, 3", H3,3.844, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8, 3, 3", H4,3.453, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8, 3, 3", H5,3.838, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8, 3, 3", H6,1.292, , , , note
+A-D-GLCPN, , C1,91.3, , , , note
+A-D-GLCPN, , C2,55, , , , note
+A-D-GLCPN, , C3,70.1, , , , note
+A-D-GLCPN, , C4,69.8, , , , note
+A-D-GLCPN, , C5,73, , , , note
+A-D-GLCPN, , C6,68.3, , , , note
+B-D-GLCPN,6, C1,101.4, , , , note
+B-D-GLCPN,6, C2,55.4, , , , note
+B-D-GLCPN,6, C3,74.5, , , , note
+B-D-GLCPN,6, C4,74.6, , , , note
+B-D-GLCPN,6, C5,74.6, , , , note
+B-D-GLCPN,6, C6,63.6, , , , note
+A-D-KDOP," 6, 6", C3,34.7, , , , note
+A-D-KDOP," 6, 6", C4,73.5, , , , note
+A-D-KDOP," 6, 6", C5,67.4, , , , note
+A-D-KDOP," 6, 6", C6,73.3, , , , note
+A-D-KDOP," 6, 6", C7,69.8, , , , note
+A-D-KDOP," 6, 6", C8,64.3, , , , note
+A-D-KDOP," 6, 6, 4", C3,34.8, , , , note
+A-D-KDOP," 6, 6, 4", C4,65.6, , , , note
+A-D-KDOP," 6, 6, 4", C5,67.4, , , , note
+A-D-KDOP," 6, 6, 4", C6,72.4, , , , note
+A-D-KDOP," 6, 6, 4", C7,71.8, , , , note
+A-D-KDOP," 6, 6, 4", C8,63.6, , , , note
+A-D-KDOP," 6, 6, 5", C3,34.7, , , , note
+A-D-KDOP," 6, 6, 5", C4,68.2, , , , note
+A-D-KDOP," 6, 6, 5", C5,69.7, , , , note
+A-D-KDOP," 6, 6, 5", C6,74.2, , , , note
+A-D-KDOP," 6, 6, 5", C7,71.1, , , , note
+A-D-KDOP," 6, 6, 5", C8,63.1, , , , note
+A-D-GLCPNAC," 6, 6, 5, 4", C1,91.5, , , , note
+A-D-GLCPNAC," 6, 6, 5, 4", C2,54, , , , note
+A-D-GLCPNAC," 6, 6, 5, 4", C3,71.2, , , , note
+A-D-GLCPNAC," 6, 6, 5, 4", C4,75.2, , , , note
+A-D-GLCPNAC," 6, 6, 5, 4", C5,72.3, , , , note
+A-D-GLCPN," 6, 6, 5, 4, 4", C1,95.1, , , , note
+A-D-GLCPN," 6, 6, 5, 4, 4", C2,54.6, , , , note
+A-D-GLCPN," 6, 6, 5, 4, 4", C3,69.9, , , , note
+A-D-GLCPN," 6, 6, 5, 4, 4", C4,69.9, , , , note
+A-D-GLCPN," 6, 6, 5, 4, 4", C5,72.9, , , , note
+A-D-GLCPN," 6, 6, 5, 4, 4", C6,60.4, , , , note
+A-D-KDOP," 6, 6, 5, 5", C3,36.7, , , , note
+A-D-KDOP," 6, 6, 5, 5", C4,66.2, , , , note
+A-D-KDOP," 6, 6, 5, 5", C5,67.7, , , , note
+A-D-KDOP," 6, 6, 5, 5", C6,75.6, , , , note
+A-D-KDOP," 6, 6, 5, 5", C7,72.8, , , , note
+A-D-KDOP," 6, 6, 5, 5", C8,68.1, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8", C1,100.8, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8", C2,70.2, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8", C3,79.1, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8", C4,71.1, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8", C5,69.2, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8, 3", C1,102.6, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8, 3", C2,70.4, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8, 3", C3,78.8, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8, 3", C4,71.7, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8, 3", C5,69.6, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8, 3, 3", C1,102.7, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8, 3, 3", C2,70.6, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8, 3, 3", C3,70.5, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8, 3, 3", C4,72.4, , , , note
+A-L-RHAP," 6, 6, 5, 5, 8, 3, 3", C5,69.5, , , , note

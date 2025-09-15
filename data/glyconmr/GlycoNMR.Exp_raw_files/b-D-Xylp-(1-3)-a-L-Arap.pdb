@@ -1,0 +1,47 @@
+HEADER    CARBOHYDRATE
+COMPND    UNNAMED
+AUTHOR    CREATED BY SWEET-II ON WWW.GLYCOSCIENCES.DE
+LINK       O3  ARA    1                     C1  XYP    2
+HETATM    1  C1  ARA     1       1.433  -0.647  -1.260  1.00  0.00           C
+HETATM    2  C2  ARA     1       0.391  -0.023  -2.166  1.00  0.00           C
+HETATM    3  C3  ARA     1       0.286   1.467  -1.857  1.00  0.00           C
+HETATM    4  C4  ARA     1       1.658   2.139  -2.028  1.00  0.00           C
+HETATM    5  C5  ARA     1       2.669   1.368  -1.151  1.00  0.00           C
+HETATM    6  OH1 ARA     1       0.992  -0.570   0.040  1.00  0.00           O
+HETATM    7  O5  ARA     1       2.691  -0.024  -1.455  1.00  0.00           O
+HETATM    8  HO1 ARA     1       1.514  -1.335   0.615  1.00  0.00           H
+HETATM    9  OH2 ARA     1       0.758  -0.182  -3.530  1.00  0.00           O
+HETATM   10  O3  ARA     1      -0.113   1.673  -0.508  1.00  0.00           O
+HETATM   11  OH4 ARA     1       1.614   3.511  -1.657  1.00  0.00           O
+HETATM   12  HO2 ARA     1       1.719   0.300  -3.707  1.00  0.00           H
+HETATM   13  HO4 ARA     1       1.160   4.091  -2.460  1.00  0.00           H
+HETATM   14  H5A ARA     1       3.645   1.767  -1.418  1.00  0.00           H
+HETATM   15  H5E ARA     1       2.591   1.526  -0.084  1.00  0.00           H
+HETATM   16  H1  ARA     1       1.559  -1.698  -1.519  1.00  0.00           H
+HETATM   17  H2  ARA     1      -0.573  -0.500  -1.987  1.00  0.00           H
+HETATM   18  H3  ARA     1      -0.427   1.911  -2.553  1.00  0.00           H
+HETATM   19  H4  ARA     1       1.954   2.055  -3.074  1.00  0.00           H
+HETATM   20  C1  XYP     2      -1.481   1.984  -0.279  1.00  0.00           C
+HETATM   21  C2  XYP     2      -1.860   1.853   1.183  1.00  0.00           C
+HETATM   22  C3  XYP     2      -3.336   2.198   1.351  1.00  0.00           C
+HETATM   23  C4  XYP     2      -3.611   3.615   0.821  1.00  0.00           C
+HETATM   24  C5  XYP     2      -3.095   3.678  -0.634  1.00  0.00           C
+HETATM   25  OH2 XYP     2      -1.589   0.508   1.608  1.00  0.00           O
+HETATM   26  OH3 XYP     2      -3.698   2.110   2.732  1.00  0.00           O
+HETATM   27  O5  XYP     2      -1.723   3.304  -0.734  1.00  0.00           O
+HETATM   28  HO2 XYP     2      -1.984   0.320   2.606  1.00  0.00           H
+HETATM   29  HO3 XYP     2      -4.297   1.214   2.890  1.00  0.00           H
+HETATM   30  OH4 XYP     2      -4.996   3.930   0.876  1.00  0.00           O
+HETATM   31  HO4 XYP     2      -5.269   4.193   1.898  1.00  0.00           H
+HETATM   32  H5A XYP     2      -3.159   4.725  -0.918  1.00  0.00           H
+HETATM   33  H5E XYP     2      -3.688   3.156  -1.373  1.00  0.00           H
+HETATM   34  H4  XYP     2      -3.051   4.325   1.430  1.00  0.00           H
+HETATM   35  H3  XYP     2      -3.930   1.477   0.789  1.00  0.00           H
+HETATM   36  H2  XYP     2      -1.257   2.529   1.790  1.00  0.00           H
+HETATM   37  H1  XYP     2      -2.074   1.287  -0.872  1.00  0.00           H
+CHLDEF    1    37   20   10    3   18    0  46.0  19.9 -50.5
+CHLNAM    1 B-D-XYLP-(1-3)-A-L-ARAP
+SWECON 1   2  1  B-D-XYLP-(1-3)-A-L-ARAP
+MASTER        0    0    0    0    0    0    0    0   37    0   37    0
+END
+

@@ -1,0 +1,44 @@
+MHz,600,,,,,,
+Temperature,25,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Varian unity Inova,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+D-GAL-OL, , H1,3.72, , , , note
+D-GAL-OL, , H2,4.05, , , , note
+D-GAL-OL, , H3,3.79, , , , note
+D-GAL-OL, , H4,3.87, , , , note
+D-GAL-OL, , H5,4.04, , , , note
+D-GAL-OL, , H61,3.65, , , , note
+D-GAL-OL, , H62,3.65, , , , note
+A-D-GALP,3, H1,5.1, , , , note
+A-D-GALP,3, H2,3.82, , , , note
+A-D-GALP,3, H3,3.68, , , , note
+A-D-GALP,3, H4,4.02, , , , note
+A-D-GALP,3, H5,4.18, , , , note
+A-D-GALP,3, H61,3.87, , , , note
+A-D-GALP,3, H62,3.68, , , , note
+A-D-GALP," 3, 6", H1,4.99, , , , note
+A-D-GALP," 3, 6", H2,3.92, , , , note
+A-D-GALP," 3, 6", H3,3.99, , , , note
+A-D-GALP," 3, 6", H4,4.21, , , , note
+A-D-GALP," 3, 6", H5,3.87, , , , note
+A-D-GALP," 3, 6", H61,4.12, , , , note
+A-D-GALP," 3, 6", H62,3.99, , , , note
+D-GAL-OL, , C1,64.2, , , , note
+D-GAL-OL, , C2,73, , , , note
+D-GAL-OL, , C3,79.8, , , , note
+D-GAL-OL, , C4,71, , , , note
+D-GAL-OL, , C5,71.3, , , , note
+D-GAL-OL, , C6,64.2, , , , note
+A-D-GALP,3, C1,101.2, , , , note
+A-D-GALP,3, C2,69.5, , , , note
+A-D-GALP,3, C3,70.2, , , , note
+A-D-GALP,3, C4,70.5, , , , note
+A-D-GALP,3, C5,71.1, , , , note
+A-D-GALP,3, C6,68.6, , , , note
+A-D-GALP," 3, 6", C1,100.3, , , , note
+A-D-GALP," 3, 6", C2,69.2, , , , note
+A-D-GALP," 3, 6", C3,69.2, , , , note
+A-D-GALP," 3, 6", C4,77, , , , note
+A-D-GALP," 3, 6", C5,64.5, , , , note
+A-D-GALP," 3, 6", C6,69.8, , , , note

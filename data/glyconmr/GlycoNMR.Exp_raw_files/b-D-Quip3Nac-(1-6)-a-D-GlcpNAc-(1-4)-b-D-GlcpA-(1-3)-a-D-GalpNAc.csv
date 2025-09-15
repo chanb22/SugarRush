@@ -1,0 +1,54 @@
+MHz,500,,,,,,
+Temperature,30,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker DRX-500,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-D-GALPNAC, , H1,5.23, , , , note
+A-D-GALPNAC, , H2,4.33, , , , note
+A-D-GALPNAC, , H3,3.85, , , , note
+A-D-GALPNAC, , H4,4.21, , , , note
+A-D-GALPNAC, , H5,4.06, , , , note
+A-D-GALPNAC, , H6 a,3.73, , , , note
+A-D-GALPNAC, , H6 b,3.73, , , , note
+B-D-GLCPA,3, H1,4.48, , , , note
+B-D-GLCPA,3, H2,3.27, , , , note
+B-D-GLCPA,3, H3,3.64, , , , note
+B-D-GLCPA,3, H4,3.73, , , , note
+B-D-GLCPA,3, H5,3.73, , , , note
+A-D-GLCPNAC," 3, 4", H1,5.4, , , , note
+A-D-GLCPNAC," 3, 4", H2,3.87, , , , note
+A-D-GLCPNAC," 3, 4", H3,3.7, , , , note
+A-D-GLCPNAC," 3, 4", H4,3.57, , , , note
+A-D-GLCPNAC," 3, 4", H5,3.8, , , , note
+A-D-GLCPNAC," 3, 4", H6 a,4.08, , , , note
+A-D-GLCPNAC," 3, 4", H6 b,3.9, , , , note
+B-D-QUIP3NAC," 3, 4, 6", H1,4.55, , , , note
+B-D-QUIP3NAC," 3, 4, 6", H2,3.27, , , , note
+B-D-QUIP3NAC," 3, 4, 6", H3,4.05, , , , note
+B-D-QUIP3NAC," 3, 4, 6", H4,3.5, , , , note
+B-D-QUIP3NAC," 3, 4, 6", H5,3.67, , , , note
+B-D-QUIP3NAC," 3, 4, 6", H6,1.37, , , , note
+A-D-GALPNAC, , C1,98.4, , , , note
+A-D-GALPNAC, , C2,49.1, , , , note
+A-D-GALPNAC, , C3,78.7, , , , note
+A-D-GALPNAC, , C4,69.6, , , , note
+A-D-GALPNAC, , C5,72.6, , , , note
+A-D-GALPNAC, , C6,62.5, , , , note
+B-D-GLCPA,3, C1,105.3, , , , note
+B-D-GLCPA,3, C2,74.5, , , , note
+B-D-GLCPA,3, C3,77.8, , , , note
+B-D-GLCPA,3, C4,77.7, , , , note
+B-D-GLCPA,3, C5,76.7, , , , note
+B-D-GLCPA,3, C6,176.6, , , , note
+A-D-GLCPNAC," 3, 4", C1,97.9, , , , note
+A-D-GLCPNAC," 3, 4", C2,54.9, , , , note
+A-D-GLCPNAC," 3, 4", C3,71.8, , , , note
+A-D-GLCPNAC," 3, 4", C4,70.6, , , , note
+A-D-GLCPNAC," 3, 4", C5,72.3, , , , note
+A-D-GLCPNAC," 3, 4", C6,69.1, , , , note
+B-D-QUIP3NAC," 3, 4, 6", C1,104.2, , , , note
+B-D-QUIP3NAC," 3, 4, 6", C2,73.6, , , , note
+B-D-QUIP3NAC," 3, 4, 6", C3,58, , , , note
+B-D-QUIP3NAC," 3, 4, 6", C4,77.4, , , , note
+B-D-QUIP3NAC," 3, 4, 6", C5,73.4, , , , note
+B-D-QUIP3NAC," 3, 4, 6", C6,19.6, , , , note

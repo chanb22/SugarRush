@@ -1,0 +1,43 @@
+
+
+
+<br />
+<b>Notice</b>:  Undefined index: children in <b>/home/www/include/php/linucs2semlin/l2sl.php</b> on line <b>410</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/home/www/include/php/linucs2semlin/l2sl.php</b> on line <b>410</b><br />
+HEADER    CARBOHYDRATE
+COMPND    UNNAMED
+AUTHOR    CREATED BY SWEET-II ON WWW.GLYCOSCIENCES.DE
+HETATM    1  C1  NAG     1       1.362  -0.723   0.397  1.00  0.00           C
+HETATM    2  C2  NAG     1      -0.112  -0.365   0.771  1.00  0.00           C
+HETATM    3  C3  NAG     1      -0.910  -0.006  -0.521  1.00  0.00           C
+HETATM    4  C4  NAG     1      -0.193   1.080  -1.349  1.00  0.00           C
+HETATM    5  C5  NAG     1       1.270   0.660  -1.658  1.00  0.00           C
+HETATM    6  C6  NAG     1       2.061   1.758  -2.395  1.00  0.00           C
+HETATM    7  CO2 NAG     1      -1.508  -1.342   2.566  1.00  0.00           C
+HETATM    8  CM2 NAG     1      -2.180  -2.593   3.093  1.00  0.00           C
+HETATM    9  OH1 NAG     1       2.167  -0.817   1.563  1.00  0.00           O
+HETATM   10  OH3 NAG     1      -2.222   0.477  -0.221  1.00  0.00           O
+HETATM   11  OH4 NAG     1      -0.940   1.278  -2.545  1.00  0.00           O
+HETATM   12  O5  NAG     1       1.961   0.324  -0.414  1.00  0.00           O
+HETATM   13  OH6 NAG     1       2.155   2.955  -1.619  1.00  0.00           O
+HETATM   14  OC2 NAG     1      -1.699  -0.263   3.114  1.00  0.00           O
+HETATM   15  N2  NAG     1      -0.771  -1.504   1.470  1.00  0.00           N
+HETATM   16  HO1 NAG     1       2.329   0.096   1.814  1.00  0.00           H
+HETATM   17  H2  NAG     1      -0.071   0.539   1.414  1.00  0.00           H
+HETATM   18  H3  NAG     1      -1.004  -0.914  -1.150  1.00  0.00           H
+HETATM   19  H4  NAG     1      -0.174   2.024  -0.767  1.00  0.00           H
+HETATM   20  H5  NAG     1       1.250  -0.235  -2.311  1.00  0.00           H
+HETATM   21  H6S NAG     1       3.074   1.385  -2.638  1.00  0.00           H
+HETATM   22  H6R NAG     1       1.571   1.973  -3.364  1.00  0.00           H
+HETATM   23 1HM2 NAG     1      -2.164  -2.592   4.197  1.00  0.00           H
+HETATM   24 2HM2 NAG     1      -1.708  -3.532   2.752  1.00  0.00           H
+HETATM   25 3HM2 NAG     1      -3.237  -2.603   2.778  1.00  0.00           H
+HETATM   26  HO3 NAG     1      -2.699  -0.257   0.177  1.00  0.00           H
+HETATM   27  HO4 NAG     1      -1.844   1.401  -2.238  1.00  0.00           H
+HETATM   28  HO6 NAG     1       2.421   3.663  -2.212  1.00  0.00           H
+HETATM   29  HN2 NAG     1      -0.593  -2.481   1.234  1.00  0.00           H
+HETATM   30  H1  NAG     1       1.406  -1.685  -0.151  1.00  0.00           H
+MASTER        0    0    0    0    0    0    0    0   30    0   30    0
+END
+

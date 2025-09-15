@@ -1,0 +1,34 @@
+<br />
+<b>Notice</b>:  Undefined index: children in <b>/home/www/include/php/linucs2semlin/l2sl.php</b> on line <b>410</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/home/www/include/php/linucs2semlin/l2sl.php</b> on line <b>410</b><br />
+HEADER    CARBOHYDRATE
+COMPND    UNNAMED
+AUTHOR    CREATED BY SWEET-II ON WWW.GLYCOSCIENCES.DE
+HETATM    1  C1  GLA     1       1.374  -0.843   0.163  1.00  0.00           C
+HETATM    2  C2  GLA     1       0.732  -0.633   1.531  1.00  0.00           C
+HETATM    3  C3  GLA     1      -0.774  -0.827   1.489  1.00  0.00           C
+HETATM    4  C4  GLA     1      -1.383  -0.008   0.373  1.00  0.00           C
+HETATM    5  C5  GLA     1      -0.678  -0.325  -0.946  1.00  0.00           C
+HETATM    6  C6  GLA     1      -1.184   0.452  -2.142  1.00  0.00           C
+HETATM    7  OH2 GLA     1       1.310  -1.554   2.447  1.00  0.00           O
+HETATM    8  OH3 GLA     1      -1.327  -0.399   2.740  1.00  0.00           O
+HETATM    9  O5  GLA     1       0.712   0.002  -0.787  1.00  0.00           O
+HETATM   10  OH6 GLA     1      -1.053   1.853  -1.957  1.00  0.00           O
+HETATM   11  HO2 GLA     1       2.087  -1.135   3.086  1.00  0.00           H
+HETATM   12  HO3 GLA     1      -1.646  -1.335   3.200  1.00  0.00           H
+HETATM   13  HO6 GLA     1      -0.537   2.574  -2.590  1.00  0.00           H
+HETATM   14  OH1 GLA     1       1.334  -2.177  -0.328  1.00  0.00           O
+HETATM   15  OH4 GLA     1      -1.232   1.349   0.769  1.00  0.00           O
+HETATM   16  HO1 GLA     1       0.297  -2.500  -0.421  1.00  0.00           H
+HETATM   17  HO4 GLA     1      -1.746   1.512   1.716  1.00  0.00           H
+HETATM   18  H5  GLA     1      -0.817  -1.344  -1.181  1.00  0.00           H
+HETATM   19  H6S GLA     1      -1.016   0.327  -3.117  1.00  0.00           H
+HETATM   20  H6R GLA     1      -2.205   0.241  -2.273  1.00  0.00           H
+HETATM   21  H1  GLA     1       2.439  -0.615   0.222  1.00  0.00           H
+HETATM   22  H2  GLA     1       0.959   0.386   1.842  1.00  0.00           H
+HETATM   23  H3  GLA     1      -0.989  -1.883   1.324  1.00  0.00           H
+HETATM   24  H4  GLA     1      -2.439  -0.224   0.209  1.00  0.00           H
+MASTER        0    0    0    0    0    0    0    0   24    0   24    0
+END
+

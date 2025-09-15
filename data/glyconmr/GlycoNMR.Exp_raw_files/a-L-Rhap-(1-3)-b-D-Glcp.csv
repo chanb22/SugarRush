@@ -1,0 +1,25 @@
+MHz,400,,,,,,
+Temperature,303,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Varian Inova 500,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+B-D-GLCP, , H1,3.65, , , , note
+B-D-GLCP, , H2,3.76, , , , note
+B-D-GLCP, , H3,4, , , , note
+B-D-GLCP, , H4,1.16, , , , note
+A-L-RHAP,3, H1,4.73, , , , note
+A-L-RHAP,3, H2,3.87, , , , note
+A-L-RHAP,3, H3,3.65, , , , note
+A-L-RHAP,3, H4,3.35, , , , note
+A-L-RHAP,3, H5,3.87, , , , note
+A-L-RHAP,3, H6,1.1, , , , note
+B-D-GLCP, , C1,61.6, , , , note
+B-D-GLCP, , C2,85, , , , note
+B-D-GLCP, , C3,68.4, , , , note
+B-D-GLCP, , C4,18, , , , note
+A-L-RHAP,3, C1,102.6, , , , note
+A-L-RHAP,3, C2,71.8, , , , note
+A-L-RHAP,3, C3,81.8, , , , note
+A-L-RHAP,3, C4,72.3, , , , note
+A-L-RHAP,3, C5,70.5, , , , note
+A-L-RHAP,3, C6,17.9, , , , note

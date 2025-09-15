@@ -1,0 +1,53 @@
+MHz,400,,,,,,
+Temperature,25,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker ASX 400,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+B-D-MANP, , H1,5.05, , , , note
+B-D-MANP, , H2,4.155, , , , note
+B-D-MANP, , H3,3.63, , , , note
+B-D-MANP, , H4,3.59, , , , note
+B-D-MANP, , H5,3.41, , , , note
+B-D-MANP, , H6,3.93, , , , note
+B-D-MANP,2, H1,5.046, , , , note
+B-D-MANP,2, H2,4.384, , , , note
+B-D-MANP,2, H3,3.7, , , , note
+B-D-MANP,2, H4,3.47, , , , note
+B-D-MANP,2, H5,3.41, , , , note
+B-D-MANP,2, H6,3.93, , , , note
+B-D-MANP," 2, 2", H1,4.934, , , , note
+B-D-MANP," 2, 2", H2,4.416, , , , note
+B-D-MANP," 2, 2", H3,3.7, , , , note
+B-D-MANP," 2, 2", H4,3.47, , , , note
+B-D-MANP," 2, 2", H5,3.41, , , , note
+B-D-MANP," 2, 2", H6,3.93, , , , note
+B-D-MANP," 2, 2, 2", H1,4.908, , , , note
+B-D-MANP," 2, 2, 2", H2,4.29, , , , note
+B-D-MANP," 2, 2, 2", H3,3.73, , , , note
+B-D-MANP," 2, 2, 2", H4,3.59, , , , note
+B-D-MANP," 2, 2, 2", H5,3.41, , , , note
+B-D-MANP," 2, 2, 2", H6,3.93, , , , note
+B-D-MANP, , C1,102.3, , , , note
+B-D-MANP, , C2,71.6, , , , note
+B-D-MANP, , C3,74.2, , , , note
+B-D-MANP, , C4,68.8, , , , note
+B-D-MANP, , C5,77.4, , , , note
+B-D-MANP, , C6,61.9, , , , note
+B-D-MANP,2, C1,102.6, , , , note
+B-D-MANP,2, C2,80.6, , , , note
+B-D-MANP,2, C3,73.2, , , , note
+B-D-MANP,2, C4,68.8, , , , note
+B-D-MANP,2, C5,77.4, , , , note
+B-D-MANP,2, C6,61.9, , , , note
+B-D-MANP," 2, 2", C1,102.8, , , , note
+B-D-MANP," 2, 2", C2,80.6, , , , note
+B-D-MANP," 2, 2", C3,73.2, , , , note
+B-D-MANP," 2, 2", C4,68.8, , , , note
+B-D-MANP," 2, 2", C5,77.4, , , , note
+B-D-MANP," 2, 2", C6,61.9, , , , note
+B-D-MANP," 2, 2, 2", C1,100.4, , , , note
+B-D-MANP," 2, 2, 2", C2,80.9, , , , note
+B-D-MANP," 2, 2, 2", C3,73.2, , , , note
+B-D-MANP," 2, 2, 2", C4,68.8, , , , note
+B-D-MANP," 2, 2, 2", C5,77.4, , , , note
+B-D-MANP," 2, 2, 2", C6,61.9, , , , note

@@ -1,0 +1,67 @@
+MHz,600,,,,,,
+Temperature,300,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker DRX-600,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+KDOP, , H2,4.17, , , , note
+KDOP, , H3ax,1.68, , , , note
+KDOP, , H3eq,1.9, , , , note
+KDOP, , H4,4.18, , , , note
+KDOP, , H5,3.82, , , , note
+KDOP, , H6,3.79, , , , note
+KDOP, , H7,3.72, , , , note
+KDOP, , H8a,3.6, , , , note
+KDOP, , H8b,3.76, , , , note
+L-A-D-HEPP,5, H1,5.36, , , , note
+L-A-D-HEPP,5, H2,4.56, , , , note
+L-A-D-HEPP,5, H3,4.15, , , , note
+L-A-D-HEPP,5, H4,4.44, , , , note
+L-A-D-HEPP,5, H5,3.82, , , , note
+L-A-D-HEPP,5, H6,3.81, , , , note
+L-A-D-HEPP,5, H7a,3.74, , , , note
+L-A-D-HEPP,5, H7b,3.74, , , , note
+L-A-D-HEPP," 5, 3", H1,5.25, , , , note
+L-A-D-HEPP," 5, 3", H2,4.49, , , , note
+L-A-D-HEPP," 5, 3", H3,4.07, , , , note
+L-A-D-HEPP," 5, 3", H4,4.03, , , , note
+L-A-D-HEPP," 5, 3", H5,3.91, , , , note
+L-A-D-HEPP," 5, 3", H6,4.46, , , , note
+L-A-D-HEPP," 5, 3", H7a,3.97, , , , note
+L-A-D-HEPP," 5, 3", H7b,4.57, , , , note
+A-D-GALPNAC," 5, 3, 3", H1,5.19, , , , note
+A-D-GALPNAC," 5, 3, 3", H2,4.16, , , , note
+A-D-GALPNAC," 5, 3, 3", H3,3.97, , , , note
+A-D-GALPNAC," 5, 3, 3", H4,3.99, , , , note
+A-D-GALPNAC," 5, 3, 3", H5,4.1, , , , note
+A-D-GALPNAC," 5, 3, 3", H6a,3.71, , , , note
+A-D-GALPNAC," 5, 3, 3", H6b,3.8, , , , note
+A-D-GALPNAC," 5, 3, 3", CH3CON,2.02, , , , note
+KDOP, , C2,70.3, , , , note
+KDOP, , C3,30.2, , , , note
+KDOP, , C4,72.8, , , , note
+KDOP, , C5,79.1, , , , note
+KDOP, , C6,71.5, , , , note
+KDOP, , C7,71, , , , note
+KDOP, , C8,64, , , , note
+L-A-D-HEPP,5, C1,102.3, , , , note
+L-A-D-HEPP,5, C2,74.8, , , , note
+L-A-D-HEPP,5, C3,75.6, , , , note
+L-A-D-HEPP,5, C4,69.8, , , , note
+L-A-D-HEPP,5, C5,74.6, , , , note
+L-A-D-HEPP,5, C6,71.6, , , , note
+L-A-D-HEPP,5, C7,63.5, , , , note
+L-A-D-HEPP," 5, 3", C1,103.5, , , , note
+L-A-D-HEPP," 5, 3", C2,70.6, , , , note
+L-A-D-HEPP," 5, 3", C3,79.3, , , , note
+L-A-D-HEPP," 5, 3", C4,66.6, , , , note
+L-A-D-HEPP," 5, 3", C5,73, , , , note
+L-A-D-HEPP," 5, 3", C6,70.6, , , , note
+L-A-D-HEPP," 5, 3", C7,63.8, , , , note
+A-D-GALPNAC," 5, 3, 3", C1,100.9, , , , note
+A-D-GALPNAC," 5, 3, 3", C2,51.4, , , , note
+A-D-GALPNAC," 5, 3, 3", C3,69.2, , , , note
+A-D-GALPNAC," 5, 3, 3", C4,69.8, , , , note
+A-D-GALPNAC," 5, 3, 3", C5,72.9, , , , note
+A-D-GALPNAC," 5, 3, 3", C6,62.1, , , , note
+A-D-GALPNAC," 5, 3, 3", CH3CON,23.4, , , , note
+A-D-GALPNAC," 5, 3, 3", CH3CON,175.9, , , , note

@@ -1,0 +1,63 @@
+MHz,500.13,,,,,,
+Temperature,318,,,,,,
+Solvent,H2o,,,,,,
+Spectrometer,Bruker Am 500,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-D-GLCPN, , H1,5.61, , , , note
+A-D-GLCPN, , H2,3.284, , , , note
+A-D-GLCPN, , H3,3.86, , , , note
+A-D-GLCPN, , H4,3.514, , , , note
+A-D-GLCPN, , H5,4.15, , , , note
+A-D-GLCPN, , H61,3.72, , , , note
+A-D-GLCPN, , H62,4.281, , , , note
+B-D-GLCPN,6, H1,4.874, , , , note
+B-D-GLCPN,6, H2,3.009, , , , note
+B-D-GLCPN,6, H3,3.82, , , , note
+B-D-GLCPN,6, H4,3.73, , , , note
+B-D-GLCPN,6, H5,3.7, , , , note
+B-D-GLCPN,6, H61,3.51, , , , note
+B-D-GLCPN,6, H62,3.71, , , , note
+A-D-KDOP," 6, 6", H31,1.976, , , , note
+A-D-KDOP," 6, 6", H32,1.976, , , , note
+A-D-KDOP," 6, 6", H4,4.134, , , , note
+A-D-KDOP," 6, 6", H5,4.133, , , , note
+A-D-KDOP," 6, 6", H6,3.682, , , , note
+A-D-KDOP," 6, 6", H7,3.905, , , , note
+A-D-KDOP," 6, 6", H81,3.894, , , , note
+A-D-KDOP," 6, 6", H82,3.87, , , , note
+A-D-KDOP," 6, 6, 4", H31,1.797, , , , note
+A-D-KDOP," 6, 6, 4", H32,2.134, , , , note
+A-D-KDOP," 6, 6, 4", H4,4.07, , , , note
+A-D-KDOP," 6, 6, 4", H5,4.05, , , , note
+A-D-KDOP," 6, 6, 4", H6,3.593, , , , note
+A-D-KDOP," 6, 6, 4", H7,3.978, , , , note
+A-D-KDOP," 6, 6, 4", H81,3.75, , , , note
+A-D-KDOP," 6, 6, 4", H82,4.023, , , , note
+A-D-GLCPN, , C1,92.03, , , , note
+A-D-GLCPN, , C2,55.65, , , , note
+A-D-GLCPN, , C3,71.2, , , , note
+A-D-GLCPN, , C4,70.74, , , , note
+A-D-GLCPN, , C5,73.13, , , , note
+A-D-GLCPN, , C6,70.39, , , , note
+B-D-GLCPN,6, C1,100.82, , , , note
+B-D-GLCPN,6, C2,56.53, , , , note
+B-D-GLCPN,6, C3,73.79, , , , note
+B-D-GLCPN,6, C4,73.69, , , , note
+B-D-GLCPN,6, C5,75.29, , , , note
+B-D-GLCPN,6, C6,63.31, , , , note
+A-D-KDOP," 6, 6", C1,175.55, , , , note
+A-D-KDOP," 6, 6", C2,100.22, , , , note
+A-D-KDOP," 6, 6", C3,34.21, , , , note
+A-D-KDOP," 6, 6", C4,69.31, , , , note
+A-D-KDOP," 6, 6", C5,65.3, , , , note
+A-D-KDOP," 6, 6", C6,72.09, , , , note
+A-D-KDOP," 6, 6", C7,70.54, , , , note
+A-D-KDOP," 6, 6", C8,64.16, , , , note
+A-D-KDOP," 6, 6, 4", C1,176.59, , , , note
+A-D-KDOP," 6, 6, 4", C2,100.47, , , , note
+A-D-KDOP," 6, 6, 4", C3,35.3, , , , note
+A-D-KDOP," 6, 6, 4", C4,66.71, , , , note
+A-D-KDOP," 6, 6, 4", C5,67, , , , note
+A-D-KDOP," 6, 6, 4", C6,73.47, , , , note
+A-D-KDOP," 6, 6, 4", C7,70.54, , , , note
+A-D-KDOP," 6, 6, 4", C8,64.16, , , , note

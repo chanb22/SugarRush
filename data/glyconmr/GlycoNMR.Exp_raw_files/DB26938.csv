@@ -1,0 +1,42 @@
+MHz,0,,,,,,
+Temperature,70,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,"Varian DRX600S, Jeol JNM-GX270, Jeol JNM-LA400",,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+B-D-GALPNAC, , H1,4.6, , , , note
+B-D-GALPNAC, , H2,4.04, , , , note
+B-D-GALPNAC, , H3,3.83, , , , note
+B-D-GALPNAC, , H4,4.11, , , , note
+B-D-GALPNAC, , H5,3.67, , , , note
+B-D-GALPNAC, , H6,3.8, , , , note
+A-D-GLCPNAC,3, H1,5, , , , note
+A-D-GLCPNAC,3, H2,4.1, , , , note
+A-D-GLCPNAC,3, H3,3.75, , , , note
+A-D-GLCPNAC,3, H4,3.96, , , , note
+A-D-GLCPNAC,3, H5,3.74, , , , note
+A-D-GLCPNAC,3, H61,4.03, , , , note
+A-D-GLCPNAC,3, H62,3.75, , , , note
+A-D-GALP," 3, 6", H1,5, , , , note
+A-D-GALP," 3, 6", H2,3.86, , , , note
+A-D-GALP," 3, 6", H3,3.89, , , , note
+A-D-GALP," 3, 6", H4,4.03, , , , note
+A-D-GALP," 3, 6", H5,3.74, , , , note
+A-D-GALP," 3, 6", H6,3.76, , , , note
+B-D-GALPNAC, , C1,101.99, , , , note
+B-D-GALPNAC, , C2,52.23, , , , note
+B-D-GALPNAC, , C3,75.78, , , , note
+B-D-GALPNAC, , C4,64.54, , , , note
+B-D-GALPNAC, , C5,76.1, , , , note
+B-D-GALPNAC, , C6,62.01, , , , note
+A-D-GLCPNAC,3, C1,94.42, , , , note
+A-D-GLCPNAC,3, C2,53.02, , , , note
+A-D-GLCPNAC,3, C3,81.26, , , , note
+A-D-GLCPNAC,3, C4,72.07, , , , note
+A-D-GLCPNAC,3, C5,69.59, , , , note
+A-D-GLCPNAC,3, C6,66.77, , , , note
+A-D-GALP," 3, 6", C1,99.54, , , , note
+A-D-GALP," 3, 6", C2,69.7, , , , note
+A-D-GALP," 3, 6", C3,70.78, , , , note
+A-D-GALP," 3, 6", C4,70.48, , , , note
+A-D-GALP," 3, 6", C5,72.24, , , , note
+A-D-GALP," 3, 6", C6,62.22, , , , note

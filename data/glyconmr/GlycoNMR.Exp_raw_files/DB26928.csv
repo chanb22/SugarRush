@@ -1,0 +1,133 @@
+MHz,0,,,,,,
+Temperature,0,,,,,,
+Spectrometer,n.a,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-D-MANP, , H1,5.06, , , , note
+A-D-MANP, , H2,3.75, , , , note
+A-D-MANP, , H3,4.35, , , , note
+A-D-MANP, , H4,4.14, , , , note
+A-D-MANP, , H5,4.09, , , , note
+A-D-MANP, , H6a,3.74, , , , note
+A-D-MANP, , H6b,3.7, , , , note
+A-D-GLCP,4, H1,5.12, , , , note
+A-D-GLCP,4, H2,3.54, , , , note
+A-D-GLCP,4, H3,3.65, , , , note
+A-D-GLCP,4, H4,3.48, , , , note
+A-D-GLCP,4, H5,3.75, , , , note
+A-D-GLCP,4, H6a,4.12, , , , note
+A-D-GLCP,4, H6b,3.83, , , , note
+B-D-GLCP," 4, 6", H1,4.46, , , , note
+B-D-GLCP," 4, 6", H2,3.3, , , , note
+B-D-GLCP," 4, 6", H3,3.61, , , , note
+B-D-GLCP," 4, 6", H4,3.54, , , , note
+B-D-GLCP," 4, 6", H5,3.48, , , , note
+B-D-GLCP," 4, 6", H6a,3.81, , , , note
+B-D-GLCP," 4, 6", H6b,3.61, , , , note
+B-D-GLCPNAC," 4, 6, 4", H1,4.58, , , , note
+B-D-GLCPNAC," 4, 6, 4", H2,3.81, , , , note
+B-D-GLCPNAC," 4, 6, 4", H3,3.57, , , , note
+B-D-GLCPNAC," 4, 6, 4", H4,3.5, , , , note
+B-D-GLCPNAC," 4, 6, 4", H5,3.46, , , , note
+B-D-GLCPNAC," 4, 6, 4", H6a,3.9, , , , note
+B-D-GLCPNAC," 4, 6, 4", H6b,3.72, , , , note
+A-D-RHAP," 4, 6, 4, 3", H1,4.8, , , , note
+A-D-RHAP," 4, 6, 4, 3", H2,3.69, , , , note
+A-D-RHAP," 4, 6, 4, 3", H3,3.77, , , , note
+A-D-RHAP," 4, 6, 4, 3", H4,3.57, , , , note
+A-D-RHAP," 4, 6, 4, 3", H5,3.95, , , , note
+A-D-RHAP," 4, 6, 4, 3", H6,1.23, , , , note
+B-D-GLCPNAC," 4, 6, 4, 3, 4", H1,4.76, , , , note
+B-D-GLCPNAC," 4, 6, 4, 3, 4", H2,3.76, , , , note
+B-D-GLCPNAC," 4, 6, 4, 3, 4", H3,3.56, , , , note
+B-D-GLCPNAC," 4, 6, 4, 3, 4", H4,3.47, , , , note
+B-D-GLCPNAC," 4, 6, 4, 3, 4", H5,3.39, , , , note
+B-D-GLCPNAC," 4, 6, 4, 3, 4", H6a,3.88, , , , note
+B-D-GLCPNAC," 4, 6, 4, 3, 4", H6b,3.72, , , , note
+A-D-RHAP," 4, 6, 4, 3, 4, 3", H1,4.81, , , , note
+A-D-RHAP," 4, 6, 4, 3, 4, 3", H2,3.96, , , , note
+A-D-RHAP," 4, 6, 4, 3, 4, 3", H3,3.74, , , , note
+A-D-RHAP," 4, 6, 4, 3, 4, 3", H4,3.44, , , , note
+A-D-RHAP," 4, 6, 4, 3, 4, 3", H5,3.97, , , , note
+A-D-RHAP," 4, 6, 4, 3, 4, 3", H6,1.19, , , , note
+B-D-GLCPNAC," 4, 6, 4, 3, 4, 3, 3", H1,4.66, , , , note
+B-D-GLCPNAC," 4, 6, 4, 3, 4, 3, 3", H2,3.81, , , , note
+B-D-GLCPNAC," 4, 6, 4, 3, 4, 3, 3", H3,3.58, , , , note
+B-D-GLCPNAC," 4, 6, 4, 3, 4, 3, 3", H4,3.52, , , , note
+B-D-GLCPNAC," 4, 6, 4, 3, 4, 3, 3", H5,3.42, , , , note
+B-D-GLCPNAC," 4, 6, 4, 3, 4, 3, 3", H6a,3.89, , , , note
+B-D-GLCPNAC," 4, 6, 4, 3, 4, 3, 3", H6b,3.77, , , , note
+A-D-RHAP," 4, 6, 4, 3, 4, 3, 3, 3", H1,4.87, , , , note
+A-D-RHAP," 4, 6, 4, 3, 4, 3, 3, 3", H2,3.99, , , , note
+A-D-RHAP," 4, 6, 4, 3, 4, 3, 3, 3", H3,4.04, , , , note
+A-D-RHAP," 4, 6, 4, 3, 4, 3, 3, 3", H4,3.42, , , , note
+A-D-RHAP," 4, 6, 4, 3, 4, 3, 3, 3", H5,4.01, , , , note
+A-D-RHAP," 4, 6, 4, 3, 4, 3, 3, 3", H6,1.19, , , , note
+B-D-KDOP," 4, 6, 4, 3, 4, 3, 3, 3, 3", H3ax,1.81, , , , note
+B-D-KDOP," 4, 6, 4, 3, 4, 3, 3, 3, 3", H3eq,2.42, , , , note
+B-D-KDOP," 4, 6, 4, 3, 4, 3, 3, 3, 3", H4,3.75, , , , note
+B-D-KDOP," 4, 6, 4, 3, 4, 3, 3, 3, 3", H5,3.93, , , , note
+B-D-KDOP," 4, 6, 4, 3, 4, 3, 3, 3, 3", H6,3.59, , , , note
+B-D-KDOP," 4, 6, 4, 3, 4, 3, 3, 3, 3", H7,3.86, , , , note
+B-D-KDOP," 4, 6, 4, 3, 4, 3, 3, 3, 3", H8a,3.85, , , , note
+B-D-KDOP," 4, 6, 4, 3, 4, 3, 3, 3, 3", H8b,3.73, , , , note
+A-D-MANP, , C1,89.9, , , , note
+A-D-MANP, , C2,85.9, , , , note
+A-D-MANP, , C3,77.2, , , , note
+A-D-MANP, , C4,83.7, , , , note
+A-D-MANP, , C5,83.1, , , , note
+A-D-MANP, , C6,62.2, , , , note
+A-D-GLCP,4, C1,98.7, , , , note
+A-D-GLCP,4, C2,71.7, , , , note
+A-D-GLCP,4, C3,73.3, , , , note
+A-D-GLCP,4, C4,69.9, , , , note
+A-D-GLCP,4, C5,68.1, , , , note
+A-D-GLCP,4, C6,69, , , , note
+B-D-GLCP," 4, 6", C1,103.1, , , , note
+B-D-GLCP," 4, 6", C2,73.4, , , , note
+B-D-GLCP," 4, 6", C3,75, , , , note
+B-D-GLCP," 4, 6", C4,79.9, , , , note
+B-D-GLCP," 4, 6", C5,75.1, , , , note
+B-D-GLCP," 4, 6", C6,60.8, , , , note
+B-D-GLCPNAC," 4, 6, 4", C1,101.4, , , , note
+B-D-GLCPNAC," 4, 6, 4", C2,56.1, , , , note
+B-D-GLCPNAC," 4, 6, 4", C3,82.3, , , , note
+B-D-GLCPNAC," 4, 6, 4", C4,68.7, , , , note
+B-D-GLCPNAC," 4, 6, 4", C5,76.4, , , , note
+B-D-GLCPNAC," 4, 6, 4", C6,61.2, , , , note
+A-D-RHAP," 4, 6, 4, 3", C1,101.8, , , , note
+A-D-RHAP," 4, 6, 4, 3", C2,71.6, , , , note
+A-D-RHAP," 4, 6, 4, 3", C3,71, , , , note
+A-D-RHAP," 4, 6, 4, 3", C4,80.7, , , , note
+A-D-RHAP," 4, 6, 4, 3", C5,67.9, , , , note
+A-D-RHAP," 4, 6, 4, 3", C6,17.3, , , , note
+B-D-GLCPNAC," 4, 6, 4, 3, 4", C1,101.6, , , , note
+B-D-GLCPNAC," 4, 6, 4, 3, 4", C2,56.3, , , , note
+B-D-GLCPNAC," 4, 6, 4, 3, 4", C3,82.3, , , , note
+B-D-GLCPNAC," 4, 6, 4, 3, 4", C4,69, , , , note
+B-D-GLCPNAC," 4, 6, 4, 3, 4", C5,76.4, , , , note
+B-D-GLCPNAC," 4, 6, 4, 3, 4", C6,61.2, , , , note
+A-D-RHAP," 4, 6, 4, 3, 4, 3", C1,101.8, , , , note
+A-D-RHAP," 4, 6, 4, 3, 4, 3", C2,70.9, , , , note
+A-D-RHAP," 4, 6, 4, 3, 4, 3", C3,81, , , , note
+A-D-RHAP," 4, 6, 4, 3, 4, 3", C4,71.3, , , , note
+A-D-RHAP," 4, 6, 4, 3, 4, 3", C5,69.7, , , , note
+A-D-RHAP," 4, 6, 4, 3, 4, 3", C6,17, , , , note
+B-D-GLCPNAC," 4, 6, 4, 3, 4, 3, 3", C1,102.7, , , , note
+B-D-GLCPNAC," 4, 6, 4, 3, 4, 3, 3", C2,56.3, , , , note
+B-D-GLCPNAC," 4, 6, 4, 3, 4, 3, 3", C3,82.3, , , , note
+B-D-GLCPNAC," 4, 6, 4, 3, 4, 3, 3", C4,69, , , , note
+B-D-GLCPNAC," 4, 6, 4, 3, 4, 3, 3", C5,76.4, , , , note
+B-D-GLCPNAC," 4, 6, 4, 3, 4, 3, 3", C6,61.2, , , , note
+A-D-RHAP," 4, 6, 4, 3, 4, 3, 3, 3", C1,101, , , , note
+A-D-RHAP," 4, 6, 4, 3, 4, 3, 3, 3", C2,72, , , , note
+A-D-RHAP," 4, 6, 4, 3, 4, 3, 3, 3", C3,75.4, , , , note
+A-D-RHAP," 4, 6, 4, 3, 4, 3, 3, 3", C4,70.9, , , , note
+A-D-RHAP," 4, 6, 4, 3, 4, 3, 3, 3", C5,69.6, , , , note
+A-D-RHAP," 4, 6, 4, 3, 4, 3, 3, 3", C6,17, , , , note
+B-D-KDOP," 4, 6, 4, 3, 4, 3, 3, 3, 3", C1,102.8, , , , note
+B-D-KDOP," 4, 6, 4, 3, 4, 3, 3, 3, 3", C2,35.3, , , , note
+B-D-KDOP," 4, 6, 4, 3, 4, 3, 3, 3, 3", C3,68.3, , , , note
+B-D-KDOP," 4, 6, 4, 3, 4, 3, 3, 3, 3", C4,66, , , , note
+B-D-KDOP," 4, 6, 4, 3, 4, 3, 3, 3, 3", C5,74.1, , , , note
+B-D-KDOP," 4, 6, 4, 3, 4, 3, 3, 3, 3", C6,69.8, , , , note
+B-D-KDOP," 4, 6, 4, 3, 4, 3, 3, 3, 3", C7,65, , , , note

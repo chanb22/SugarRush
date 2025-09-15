@@ -1,0 +1,29 @@
+MHz,0,,,,,,
+Temperature,30,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker DRX-500,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+B-D-MANPA1NAC3NAC, , H1,4.9, , , , note
+B-D-MANPA1NAC3NAC, , H2,4.4, , , , note
+B-D-MANPA1NAC3NAC, , H3,4.33, , , , note
+B-D-MANPA1NAC3NAC, , H4,3.93, , , , note
+B-D-MANPA1NAC3NAC, , H5,4.03, , , , note
+A-D-GLCP,4, H1,5.07, , , , note
+A-D-GLCP,4, H2,3.36, , , , note
+A-D-GLCP,4, H3,3.58, , , , note
+A-D-GLCP,4, H4,3.4, , , , note
+A-D-GLCP,4, H5,3.69, , , , note
+A-D-GLCP,4, H61,3.98, , , , note
+A-D-GLCP,4, H62,3.88, , , , note
+B-D-MANPA1NAC3NAC, , C1,101.2, , , , note
+B-D-MANPA1NAC3NAC, , C2,52.45, , , , note
+B-D-MANPA1NAC3NAC, , C3,54.05, , , , note
+B-D-MANPA1NAC3NAC, , C4,73.2, , , , note
+B-D-MANPA1NAC3NAC, , C5,78.8, , , , note
+B-D-MANPA1NAC3NAC, , C6,175.1, , , , note
+A-D-GLCP,4, C1,100.2, , , , note
+A-D-GLCP,4, C2,72.5, , , , note
+A-D-GLCP,4, C3,73.9, , , , note
+A-D-GLCP,4, C4,70.05, , , , note
+A-D-GLCP,4, C5,72.3, , , , note
+A-D-GLCP,4, C6,69.4, , , , note

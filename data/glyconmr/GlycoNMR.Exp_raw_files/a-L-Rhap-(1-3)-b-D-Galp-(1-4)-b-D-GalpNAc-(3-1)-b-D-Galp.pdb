@@ -1,0 +1,110 @@
+HEADER    CARBOHYDRATE
+COMPND    UNNAMED
+AUTHOR    CREATED BY SWEET-II ON WWW.GLYCOSCIENCES.DE
+LINK       O3  NGA    1                     C1  GLB    2
+LINK       O4  NGA    1                     C1  GLB    3
+LINK       O3  GLB    3                     C1  RAM    4
+HETATM    1  C1  GLB     2       9.171   0.427   7.916  1.00  0.00           C
+HETATM    2  C2  GLB     2       8.039   0.161   8.903  1.00  0.00           C
+HETATM    3  C3  GLB     2       8.440  -0.837   9.975  1.00  0.00           C
+HETATM    4  C4  GLB     2       9.034  -2.078   9.348  1.00  0.00           C
+HETATM    5  C5  GLB     2      10.173  -1.687   8.405  1.00  0.00           C
+HETATM    6  C6  GLB     2      10.837  -2.845   7.694  1.00  0.00           C
+HETATM    7  O3  NGA     1       8.657   1.148   6.852  1.00  0.00           O
+HETATM    8  OH2 GLB     2       7.670   1.394   9.508  1.00  0.00           O
+HETATM    9  OH3 GLB     2       7.273  -1.202  10.723  1.00  0.00           O
+HETATM   10  O5  GLB     2       9.623  -0.828   7.392  1.00  0.00           O
+HETATM   11  OH6 GLB     2       9.916  -3.583   6.907  1.00  0.00           O
+HETATM   12  HO2 GLB     2       6.829   1.837   9.108  1.00  0.00           H
+HETATM   13  HO3 GLB     2       7.446  -0.735  11.692  1.00  0.00           H
+HETATM   14  HO6 GLB     2       9.965  -3.813   5.843  1.00  0.00           H
+HETATM   15  OH4 GLB     2       7.958  -2.721   8.679  1.00  0.00           O
+HETATM   16  HO4 GLB     2       7.177  -2.967   9.399  1.00  0.00           H
+HETATM   17  H5  GLB     2      10.934  -1.207   8.955  1.00  0.00           H
+HETATM   18  H6S GLB     2      11.682  -2.886   7.165  1.00  0.00           H
+HETATM   19  H6R GLB     2      11.237  -3.498   8.414  1.00  0.00           H
+HETATM   20  H1  GLB     2       9.975   0.964   8.419  1.00  0.00           H
+HETATM   21  H2  GLB     2       7.198  -0.234   8.334  1.00  0.00           H
+HETATM   22  H3  GLB     2       9.176  -0.373  10.631  1.00  0.00           H
+HETATM   23  H4  GLB     2       9.470  -2.761  10.077  1.00  0.00           H
+HETATM   24  C1  NGA     1      10.307   3.629   4.560  1.00  0.00           C
+HETATM   25  C2  NGA     1       9.524   3.098   5.757  1.00  0.00           C
+HETATM   26  C3  NGA     1       9.585   1.583   5.852  1.00  0.00           C
+HETATM   27  C4  NGA     1       9.217   0.954   4.527  1.00  0.00           C
+HETATM   28  C5  NGA     1      10.085   1.544   3.415  1.00  0.00           C
+HETATM   29  C6  NGA     1       9.795   1.009   2.029  1.00  0.00           C
+HETATM   30  OH1 NGA     1      10.006   4.972   4.408  1.00  0.00           O
+HETATM   31  O5  NGA     1       9.845   2.960   3.380  1.00  0.00           O
+HETATM   32  OH6 NGA     1       8.451   1.244   1.641  1.00  0.00           O
+HETATM   33  HO1 NGA     1      10.945   5.370   4.022  1.00  0.00           H
+HETATM   34  HO6 NGA     1       8.082   1.762   0.756  1.00  0.00           H
+HETATM   35  O4  NGA     1       7.832   1.221   4.349  1.00  0.00           O
+HETATM   36  H5  NGA     1      11.098   1.322   3.606  1.00  0.00           H
+HETATM   37  H6S NGA     1      10.305   1.100   1.177  1.00  0.00           H
+HETATM   38  H6R NGA     1       9.949  -0.031   2.030  1.00  0.00           H
+HETATM   39  H1  NGA     1      11.372   3.467   4.722  1.00  0.00           H
+HETATM   40  H2  NGA     1       8.488   3.413   5.632  1.00  0.00           H
+HETATM   41  H3  NGA     1      10.598   1.289   6.125  1.00  0.00           H
+HETATM   42  H4  NGA     1       9.387  -0.122   4.501  1.00  0.00           H
+HETATM   43  N2  NGA     1      10.070   3.686   6.959  1.00  0.00           N
+HETATM   44  CO2 NGA     1       9.233   4.071   7.974  1.00  0.00           C
+HETATM   45  CM2 NGA     1       9.948   4.677   9.168  1.00  0.00           C
+HETATM   46  OC2 NGA     1       8.023   3.956   7.947  1.00  0.00           O
+HETATM   47  HN2 NGA     1      11.087   3.814   7.053  1.00  0.00           H
+HETATM   48 1HM2 NGA     1       9.222   4.962   9.963  1.00  0.00           H
+HETATM   49 2HM2 NGA     1      10.502   5.593   8.861  1.00  0.00           H
+HETATM   50 3HM2 NGA     1      10.666   3.944   9.602  1.00  0.00           H
+HETATM   51  C1  GLB     3       6.966   0.148   4.460  1.00  0.00           C
+HETATM   52  C2  GLB     3       5.541   0.689   4.518  1.00  0.00           C
+HETATM   53  C3  GLB     3       4.505  -0.414   4.383  1.00  0.00           C
+HETATM   54  C4  GLB     3       4.804  -1.276   3.178  1.00  0.00           C
+HETATM   55  C5  GLB     3       6.246  -1.781   3.247  1.00  0.00           C
+HETATM   56  C6  GLB     3       6.677  -2.641   2.079  1.00  0.00           C
+HETATM   57  OH2 GLB     3       5.365   1.365   5.757  1.00  0.00           O
+HETATM   58  O3  GLB     3       3.214   0.185   4.222  1.00  0.00           O
+HETATM   59  O5  GLB     3       7.109  -0.632   3.266  1.00  0.00           O
+HETATM   60  OH6 GLB     3       6.563  -1.953   0.844  1.00  0.00           O
+HETATM   61  HO2 GLB     3       5.445   2.392   5.704  1.00  0.00           H
+HETATM   62  HO6 GLB     3       7.334  -1.776   0.093  1.00  0.00           H
+HETATM   63  OH4 GLB     3       4.561  -0.450   2.047  1.00  0.00           O
+HETATM   64  HO4 GLB     3       3.523  -0.116   2.057  1.00  0.00           H
+HETATM   65  H5  GLB     3       6.368  -2.378   4.108  1.00  0.00           H
+HETATM   66  H6S GLB     3       7.484  -3.214   1.956  1.00  0.00           H
+HETATM   67  H6R GLB     3       6.051  -3.485   2.033  1.00  0.00           H
+HETATM   68  H1  GLB     3       7.166  -0.445   5.353  1.00  0.00           H
+HETATM   69  H2  GLB     3       5.429   1.396   3.696  1.00  0.00           H
+HETATM   70  H3  GLB     3       4.526  -1.028   5.284  1.00  0.00           H
+HETATM   71  H4  GLB     3       4.178  -2.166   3.121  1.00  0.00           H
+HETATM   72  C1  RAM     4       2.240  -0.109   5.211  1.00  0.00           C
+HETATM   73  C2  RAM     4       0.991   0.794   5.037  1.00  0.00           C
+HETATM   74  C3  RAM     4       0.113   0.344   3.845  1.00  0.00           C
+HETATM   75  C4  RAM     4      -0.178  -1.174   3.860  1.00  0.00           C
+HETATM   76  C5  RAM     4       1.153  -1.969   3.949  1.00  0.00           C
+HETATM   77  C6  RAM     4       0.938  -3.480   4.110  1.00  0.00           C
+HETATM   78  OH2 RAM     4       0.201   0.759   6.221  1.00  0.00           O
+HETATM   79  OH3 RAM     4      -1.128   1.040   3.864  1.00  0.00           O
+HETATM   80  OH4 RAM     4      -0.902  -1.516   2.679  1.00  0.00           O
+HETATM   81  O5  RAM     4       1.922  -1.527   5.106  1.00  0.00           O
+HETATM   82  H1  RAM     4       2.679   0.083   6.209  1.00  0.00           H
+HETATM   83  H2  RAM     4       1.323   1.837   4.871  1.00  0.00           H
+HETATM   84  H3  RAM     4       0.649   0.593   2.907  1.00  0.00           H
+HETATM   85  H4  RAM     4      -0.791  -1.407   4.754  1.00  0.00           H
+HETATM   86  H5  RAM     4       1.745  -1.788   3.030  1.00  0.00           H
+HETATM   87 1H6  RAM     4       1.906  -4.004   4.210  1.00  0.00           H
+HETATM   88 2H6  RAM     4       0.413  -3.925   3.247  1.00  0.00           H
+HETATM   89 3H6  RAM     4       0.355  -3.709   5.021  1.00  0.00           H
+HETATM   90  HO2 RAM     4      -0.686   0.967   5.907  1.00  0.00           H
+HETATM   91  HO3 RAM     4      -1.661   0.593   3.197  1.00  0.00           H
+HETATM   92  HO4 RAM     4      -0.963  -2.476   2.677  1.00  0.00           H
+CHLDEF    1    20    1    7   26   41    0  55.0  -2.0  99.4
+CHLDEF    2    68   51   35   27   42    0  48.1  13.0  18.0
+CHLDEF    3    82   72   58   53   70    0  51.0   0.0  43.1
+CHLNAM    1 B-D-GALP-(1-3)-B-D-GALPNAC
+CHLNAM    2 B-D-GALP-(1-4)-B-D-GALPNAC
+CHLNAM    3 A-L-RHAP-(1-3)-B-D-GALP
+SWECON 1   2  1  B-D-GALP-(1-3)-B-D-GALPNAC
+SWECON 2   3  1  B-D-GALP-(1-4)-B-D-GALPNAC
+SWECON 3   4  3  A-L-RHAP-(1-3)-B-D-GALP
+MASTER        0    0    0    0    0    0    0    0   92    0   92    0
+END
+

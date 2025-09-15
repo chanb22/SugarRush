@@ -1,0 +1,56 @@
+MHz,400,,,,,,
+Temperature,45,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Varian 400 MHZ Spectrometer,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+B-D-GALP, , H1,4.42, , , , note
+B-D-GALP, , H2,3.54, , , , note
+B-D-GALP, , H3,3.62, , , , note
+B-D-GALP, , H4,3.91, , , , note
+B-D-GALP, , H5,3.64, , , , note
+B-D-GALP, , H61,3.76, , , , note
+B-D-GALP, , H62,3.8, , , , note
+B-D-GALPNAC,1, H1,4.8, , , , note
+B-D-GALPNAC,1, H2,4.8, , , , note
+B-D-GALPNAC,1, H3,3.97, , , , note
+B-D-GALPNAC,1, H4,4.39, , , , note
+B-D-GALPNAC,1, H5,3.69, , , , note
+B-D-GALPNAC,1, H61,3.76, , , , note
+B-D-GALPNAC,1, H62,3.84, , , , note
+B-D-GALP," 1, 4", H1,4.85, , , , note
+B-D-GALP," 1, 4", H2,3.7, , , , note
+B-D-GALP," 1, 4", H3,3.73, , , , note
+B-D-GALP," 1, 4", H4,3.95, , , , note
+B-D-GALP," 1, 4", H5,3.67, , , , note
+B-D-GALP," 1, 4", H61,3.74, , , , note
+B-D-GALP," 1, 4", H62,3.74, , , , note
+A-L-RHAP," 1, 4, 3", H1,5.03, , , , note
+A-L-RHAP," 1, 4, 3", H2,4.02, , , , note
+A-L-RHAP," 1, 4, 3", H3,3.94, , , , note
+A-L-RHAP," 1, 4, 3", H4,3.62, , , , note
+A-L-RHAP," 1, 4, 3", H5,3.83, , , , note
+A-L-RHAP," 1, 4, 3", H6,1.3, , , , note
+B-D-GALP, , C1,105.4, , , , note
+B-D-GALP, , C2,71.1, , , , note
+B-D-GALP, , C3,72.9, , , , note
+B-D-GALP, , C4,69.1, , , , note
+B-D-GALP, , C5,75.4, , , , note
+B-D-GALP, , C6,61.7, , , , note
+B-D-GALPNAC,1, C1,102, , , , note
+B-D-GALPNAC,1, C2,52.6, , , , note
+B-D-GALPNAC,1, C3,80, , , , note
+B-D-GALPNAC,1, C4,75.2, , , , note
+B-D-GALPNAC,1, C5,74.5, , , , note
+B-D-GALPNAC,1, C6,60.8, , , , note
+B-D-GALP," 1, 4", C1,103.4, , , , note
+B-D-GALP," 1, 4", C2,71.1, , , , note
+B-D-GALP," 1, 4", C3,80.6, , , , note
+B-D-GALP," 1, 4", C4,68.9, , , , note
+B-D-GALP," 1, 4", C5,75.2, , , , note
+B-D-GALP," 1, 4", C6,61.4, , , , note
+A-L-RHAP," 1, 4, 3", C1,102.4, , , , note
+A-L-RHAP," 1, 4, 3", C2,70.7, , , , note
+A-L-RHAP," 1, 4, 3", C3,70.7, , , , note
+A-L-RHAP," 1, 4, 3", C4,80.9, , , , note
+A-L-RHAP," 1, 4, 3", C5,67.9, , , , note
+A-L-RHAP," 1, 4, 3", C6,17.5, , , , note

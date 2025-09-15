@@ -1,0 +1,43 @@
+MHz,500.13,,,,,,
+Temperature,25,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Bruker DRX 500,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+ONONITOL, , H1,3.44, , , , note
+ONONITOL, , H2,4.296, , , , note
+ONONITOL, , H3,3.733, , , , note
+ONONITOL, , H4,3.523, , , , note
+ONONITOL, , H5,3.368, , , , note
+ONONITOL, , H6,3.7, , , , note
+ONONITOL, , CH3,3.619, , , , note
+A-D-GALP,3, H1,5.171, , , , note
+A-D-GALP,3, H2,3.892, , , , note
+A-D-GALP,3, H3,3.951, , , , note
+A-D-GALP,3, H4,4.106, , , , note
+A-D-GALP,3, H5,4.3, , , , note
+A-D-GALP,3, H61,3.882, , , , note
+A-D-GALP,3, H62,3.752, , , , note
+A-D-GALP," 3, 6", H1,5.039, , , , note
+A-D-GALP," 3, 6", H2,3.833, , , , note
+A-D-GALP," 3, 6", H3,3.827, , , , note
+A-D-GALP," 3, 6", H4,3.995, , , , note
+A-D-GALP," 3, 6", H5,3.99, , , , note
+A-D-GALP," 3, 6", H6,3.757, , , , note
+ONONITOL, , C1,73.54, , , , note
+ONONITOL, , C2,70.2, , , , note
+ONONITOL, , C3,77.05, , , , note
+ONONITOL, , C4,83.78, , , , note
+ONONITOL, , C5,76.56, , , , note
+ONONITOL, , C6,74.93, , , , note
+A-D-GALP,3, C1,97.29, , , , note
+A-D-GALP,3, C2,70.72, , , , note
+A-D-GALP,3, C3,72.19, , , , note
+A-D-GALP,3, C4,71.87, , , , note
+A-D-GALP,3, C5,71.38, , , , note
+A-D-GALP,3, C6,68.91, , , , note
+A-D-GALP," 3, 6", C1,100.46, , , , note
+A-D-GALP," 3, 6", C2,70.91, , , , note
+A-D-GALP," 3, 6", C3,72.3, , , , note
+A-D-GALP," 3, 6", C4,71.8, , , , note
+A-D-GALP," 3, 6", C5,73.58, , , , note
+A-D-GALP," 3, 6", C6,63.63, , , , note

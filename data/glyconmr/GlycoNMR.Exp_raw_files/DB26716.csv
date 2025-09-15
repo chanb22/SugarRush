@@ -1,0 +1,66 @@
+MHz,600,,,,,,
+Temperature,60,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,Varian Inova 600,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-L-FUCP, , H1,4.99, , , , note
+A-L-FUCP, , H2,3.84, , , , note
+A-L-FUCP, , H3,3.89, , , , note
+A-L-FUCP, , H4,3.84, , , , note
+A-L-FUCP, , H5,4.28, , , , note
+A-L-FUCP, , H6,1.12, , , , note
+A-D-GALPA,3, H1,5.19, , , , note
+A-D-GALPA,3, H2,3.7, , , , note
+A-D-GALPA,3, H3,4.03, , , , note
+A-D-GALPA,3, H4,4.35, , , , note
+A-D-GALPA,3, H5,4.33, , , , note
+B-D-GLCPNAC," 3, 4", H1,4.59, , , , note
+B-D-GLCPNAC," 3, 4", H2,3.81, , , , note
+B-D-GLCPNAC," 3, 4", H3,4.04, , , , note
+B-D-GLCPNAC," 3, 4", H4,3.63, , , , note
+B-D-GLCPNAC," 3, 4", H5,3.43, , , , note
+B-D-GLCPNAC," 3, 4", H61,3.74, , , , note
+B-D-GLCPNAC," 3, 4", H62,3.93, , , , note
+B-D-GLCPNAC," 3, 4, 3", H1,4.74, , , , note
+B-D-GLCPNAC," 3, 4, 3", H2,3.6, , , , note
+B-D-GLCPNAC," 3, 4, 3", H3,3.84, , , , note
+B-D-GLCPNAC," 3, 4, 3", H4,3.3, , , , note
+B-D-GLCPNAC," 3, 4, 3", H5,3.41, , , , note
+B-D-GLCPNAC," 3, 4, 3", H61,3.59, , , , note
+B-D-GLCPNAC," 3, 4, 3", H62,3.96, , , , note
+A-L-FUCP," 3, 4, 4", H1,4.94, , , , note
+A-L-FUCP," 3, 4, 4", H2,3.81, , , , note
+A-L-FUCP," 3, 4, 4", H3,3.92, , , , note
+A-L-FUCP," 3, 4, 4", H4,3.8, , , , note
+A-L-FUCP," 3, 4, 4", H5,4.71, , , , note
+A-L-FUCP," 3, 4, 4", H6,1.26, , , , note
+A-L-FUCP, , C1,100.1, , , , note
+A-L-FUCP, , C2,67.9, , , , note
+A-L-FUCP, , C3,78.5, , , , note
+A-L-FUCP, , C4,72.5, , , , note
+A-L-FUCP, , C5,67.7, , , , note
+A-L-FUCP, , C6,15.8, , , , note
+A-D-GALPA,3, C1,101.2, , , , note
+A-D-GALPA,3, C2,69.7, , , , note
+A-D-GALPA,3, C3,70.6, , , , note
+A-D-GALPA,3, C4,80.2, , , , note
+A-D-GALPA,3, C5,72.4, , , , note
+A-D-GALPA,3, C6,175.7, , , , note
+B-D-GLCPNAC," 3, 4", C1,102.8, , , , note
+B-D-GLCPNAC," 3, 4", C2,57, , , , note
+B-D-GLCPNAC," 3, 4", C3,76.9, , , , note
+B-D-GLCPNAC," 3, 4", C4,73.8, , , , note
+B-D-GLCPNAC," 3, 4", C5,76, , , , note
+B-D-GLCPNAC," 3, 4", C6,61.5, , , , note
+B-D-GLCPNAC," 3, 4, 3", C1,100.8, , , , note
+B-D-GLCPNAC," 3, 4, 3", C2,56.7, , , , note
+B-D-GLCPNAC," 3, 4, 3", C3,80.5, , , , note
+B-D-GLCPNAC," 3, 4, 3", C4,70.5, , , , note
+B-D-GLCPNAC," 3, 4, 3", C5,76.4, , , , note
+B-D-GLCPNAC," 3, 4, 3", C6,62.5, , , , note
+A-L-FUCP," 3, 4, 4", C1,98.6, , , , note
+A-L-FUCP," 3, 4, 4", C2,68.7, , , , note
+A-L-FUCP," 3, 4, 4", C3,70, , , , note
+A-L-FUCP," 3, 4, 4", C4,72.8, , , , note
+A-L-FUCP," 3, 4, 4", C5,67.4, , , , note
+A-L-FUCP," 3, 4, 4", C6,16.3, , , , note

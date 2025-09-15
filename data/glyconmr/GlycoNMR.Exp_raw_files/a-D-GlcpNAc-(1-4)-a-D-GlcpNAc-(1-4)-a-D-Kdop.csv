@@ -1,0 +1,47 @@
+MHz,600.13,,,,,,
+Temperature,27,,,,,,
+Solvent,H2O,,,,,,
+Spectrometer,Bruker AMX 600,,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-D-KDOP, , H31,2.671, , , , note
+A-D-KDOP, , H32,2.222, , , , note
+A-D-KDOP, , H4,4.512, , , , note
+A-D-KDOP, , H5,4.421, , , , note
+A-D-KDOP, , H6,3.675, , , , note
+A-D-KDOP, , H7,3.475, , , , note
+A-D-KDOP, , H81,3.611, , , , note
+A-D-KDOP, , H82,3.792, , , , note
+A-D-GLCPNAC,4, H1,4.873, , , , note
+A-D-GLCPNAC,4, H2,2.712, , , , note
+A-D-GLCPNAC,4, H3,3.681, , , , note
+A-D-GLCPNAC,4, H4,3.681, , , , note
+A-D-GLCPNAC,4, H5,3.972, , , , note
+A-D-GLCPNAC," 4, 4", H1,5.361, , , , note
+A-D-GLCPNAC," 4, 4", H2,3.811, , , , note
+A-D-GLCPNAC," 4, 4", H3,3.651, , , , note
+A-D-GLCPNAC," 4, 4", H4,3.402, , , , note
+A-D-GLCPNAC," 4, 4", H5,3.663, , , , note
+A-D-GLCPNAC," 4, 4", H6,3.731, , , , note
+A-D-GLCPNAC," 4, 4", H81,1.981, , , , note
+A-D-KDOP, , C1,176.8, , , , note
+A-D-KDOP, , C2,105.7, , , , note
+A-D-KDOP, , C3,41.9, , , , note
+A-D-KDOP, , C4,74.6, , , , note
+A-D-KDOP, , C5,83.5, , , , note
+A-D-KDOP, , C6,62.7, , , , note
+A-D-KDOP, , C7,76, , , , note
+A-D-KDOP, , C8,61.7, , , , note
+A-D-GLCPNAC,4, C1,99.8, , , , note
+A-D-GLCPNAC,4, C2,55.9, , , , note
+A-D-GLCPNAC,4, C3,75.8, , , , note
+A-D-GLCPNAC,4, C4,76.7, , , , note
+A-D-GLCPNAC,4, C5,74.3, , , , note
+A-D-GLCPNAC,4, C6,174.1, , , , note
+A-D-GLCPNAC," 4, 4", C1,97.8, , , , note
+A-D-GLCPNAC," 4, 4", C2,54.5, , , , note
+A-D-GLCPNAC," 4, 4", C3,71.6, , , , note
+A-D-GLCPNAC," 4, 4", C4,70.5, , , , note
+A-D-GLCPNAC," 4, 4", C5,72.5, , , , note
+A-D-GLCPNAC," 4, 4", C6,60.9, , , , note
+A-D-GLCPNAC," 4, 4", C7,175.3, , , , note
+A-D-GLCPNAC," 4, 4", C8,22.8, , , , note

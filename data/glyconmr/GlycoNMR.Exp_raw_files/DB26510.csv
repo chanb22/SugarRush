@@ -1,0 +1,122 @@
+MHz,0,,,,,,
+Temperature,25,,,,,,
+Solvent,D2O,,,,,,
+Spectrometer,"Bruker WM-250; DRX-500, AM-300",,,,,,
+Residue,Linkage,Proton,PPM,JFrom,JTo,Hz,Note
+A-D-MANP1SET, , H1,5.44, , , , note
+A-D-MANP1SET, , H2,4.23, , , , note
+A-D-MANP1SET, , H3,3.89, , , , note
+A-D-MANP1SET, , H4,3.95, , , , note
+A-D-MANP1SET, , H5,4.28, , , , note
+A-D-MANP1SET, , H61,3.79, , , , note
+A-D-MANP1SET, , H62,4.03, , , , note
+A-D-MANP,3, H1,5.13, , , , note
+A-D-MANP,3, H2,4.13, , , , note
+A-D-MANP,3, H3,3.93, , , , note
+A-D-MANP,3, H4,3.74, , , , note
+A-D-MANP,3, H5,3.97, , , , note
+A-D-MANP,3, H61,3.83, , , , note
+A-D-MANP,3, H62,3.98, , , , note
+A-D-MANP," 3, 6", H1,4.91, , , , note
+A-D-MANP," 3, 6", H2,4.22, , , , note
+A-D-MANP," 3, 6", H3,4.01, , , , note
+A-D-MANP," 3, 6", H4,3.93, , , , note
+A-D-MANP," 3, 6", H5,3.93, , , , note
+A-D-MANP," 3, 6", H61,3.84, , , , note
+A-D-MANP," 3, 6", H62,4.03, , , , note
+A-D-MANP," 3, 6, 3", H1,5.24, , , , note
+A-D-MANP," 3, 6, 3", H2,4.12, , , , note
+A-D-MANP," 3, 6, 3", H3,3.94, , , , note
+A-D-MANP," 3, 6, 3", H4,3.73, , , , note
+A-D-MANP," 3, 6, 3", H5,3.82, , , , note
+A-D-MANP," 3, 6, 3", H61,3.82, , , , note
+A-D-MANP," 3, 6, 3", H62,3.96, , , , note
+A-D-MANP," 3, 6, 6", H1,4.97, , , , note
+A-D-MANP," 3, 6, 6", H2,4.04, , , , note
+A-D-MANP," 3, 6, 6", H3,3.89, , , , note
+A-D-MANP," 3, 6, 6", H4,3.72, , , , note
+A-D-MANP," 3, 6, 6", H5,3.76, , , , note
+A-D-MANP," 3, 6, 6", H61,3.82, , , , note
+A-D-MANP," 3, 6, 6", H62,3.94, , , , note
+A-D-MANP,6, H1,4.94, , , , note
+A-D-MANP,6, H2,4.03, , , , note
+A-D-MANP,6, H3,3.88, , , , note
+A-D-MANP,6, H4,3.77, , , , note
+A-D-MANP,6, H5,3.86, , , , note
+A-D-MANP,6, H61,3.86, , , , note
+A-D-MANP,6, H62,3.94, , , , note
+A-D-MANP," 6, 6", H1,4.94, , , , note
+A-D-MANP," 6, 6", H2,4.18, , , , note
+A-D-MANP," 6, 6", H3,3.98, , , , note
+A-D-MANP," 6, 6", H4,3.94, , , , note
+A-D-MANP," 6, 6", H5,3.92, , , , note
+A-D-MANP," 6, 6", H61,3.83, , , , note
+A-D-MANP," 6, 6", H62,4.03, , , , note
+A-D-MANP," 6, 6, 3", H1,5.18, , , , note
+A-D-MANP," 6, 6, 3", H2,4.12, , , , note
+A-D-MANP," 6, 6, 3", H3,3.94, , , , note
+A-D-MANP," 6, 6, 3", H4,3.73, , , , note
+A-D-MANP," 6, 6, 3", H5,3.83, , , , note
+A-D-MANP," 6, 6, 3", H61,3.83, , , , note
+A-D-MANP," 6, 6, 3", H62,3.93, , , , note
+A-D-MANP," 6, 6, 6", H1,4.97, , , , note
+A-D-MANP," 6, 6, 6", H2,4.04, , , , note
+A-D-MANP," 6, 6, 6", H3,3.89, , , , note
+A-D-MANP," 6, 6, 6", H4,3.72, , , , note
+A-D-MANP," 6, 6, 6", H5,3.76, , , , note
+A-D-MANP," 6, 6, 6", H61,3.82, , , , note
+A-D-MANP," 6, 6, 6", H62,3.94, , , , note
+A-D-MANP1SET, , C1,86.3, , , , note
+A-D-MANP1SET, , C2,73.9, , , , note
+A-D-MANP1SET, , C3,81.4, , , , note
+A-D-MANP1SET, , C4,67.4, , , , note
+A-D-MANP1SET, , C5,72.6, , , , note
+A-D-MANP1SET, , C6,66.7, , , , note
+A-D-MANP,3, C1,104.2, , , , note
+A-D-MANP,3, C2,71.5, , , , note
+A-D-MANP,3, C3,72.4, , , , note
+A-D-MANP,3, C4,68.3, , , , note
+A-D-MANP,3, C5,73.5, , , , note
+A-D-MANP,3, C6,67.3, , , , note
+A-D-MANP," 3, 6", C1,101.5, , , , note
+A-D-MANP," 3, 6", C2,71.1, , , , note
+A-D-MANP," 3, 6", C3,80, , , , note
+A-D-MANP," 3, 6", C4,67.3, , , , note
+A-D-MANP," 3, 6", C5,72, , , , note
+A-D-MANP," 3, 6", C6,66.8, , , , note
+A-D-MANP," 3, 6, 3", C1,103.8, , , , note
+A-D-MANP," 3, 6, 3", C2,71.6, , , , note
+A-D-MANP," 3, 6, 3", C3,72.4, , , , note
+A-D-MANP," 3, 6, 3", C4,68.3, , , , note
+A-D-MANP," 3, 6, 3", C5,74.9, , , , note
+A-D-MANP," 3, 6, 3", C6,62.5, , , , note
+A-D-MANP," 3, 6, 6", C1,100.8, , , , note
+A-D-MANP," 3, 6, 6", C2,71.5, , , , note
+A-D-MANP," 3, 6, 6", C3,72.1, , , , note
+A-D-MANP," 3, 6, 6", C4,68.3, , , , note
+A-D-MANP," 3, 6, 6", C5,74.2, , , , note
+A-D-MANP," 3, 6, 6", C6,62.5, , , , note
+A-D-MANP,6, C1,100.8, , , , note
+A-D-MANP,6, C2,71.5, , , , note
+A-D-MANP,6, C3,72.5, , , , note
+A-D-MANP,6, C4,68.3, , , , note
+A-D-MANP,6, C5,72.4, , , , note
+A-D-MANP,6, C6,67.3, , , , note
+A-D-MANP," 6, 6", C1,100.8, , , , note
+A-D-MANP," 6, 6", C2,71.1, , , , note
+A-D-MANP," 6, 6", C3,80.1, , , , note
+A-D-MANP," 6, 6", C4,67.3, , , , note
+A-D-MANP," 6, 6", C5,72, , , , note
+A-D-MANP," 6, 6", C6,66.8, , , , note
+A-D-MANP," 6, 6, 3", C1,103.9, , , , note
+A-D-MANP," 6, 6, 3", C2,71.6, , , , note
+A-D-MANP," 6, 6, 3", C3,72.4, , , , note
+A-D-MANP," 6, 6, 3", C4,68.3, , , , note
+A-D-MANP," 6, 6, 3", C5,74.9, , , , note
+A-D-MANP," 6, 6, 3", C6,62.5, , , , note
+A-D-MANP," 6, 6, 6", C1,100.8, , , , note
+A-D-MANP," 6, 6, 6", C2,71.5, , , , note
+A-D-MANP," 6, 6, 6", C3,72.1, , , , note
+A-D-MANP," 6, 6, 6", C4,68.3, , , , note
+A-D-MANP," 6, 6, 6", C5,74.2, , , , note
+A-D-MANP," 6, 6, 6", C6,62.5, , , , note
