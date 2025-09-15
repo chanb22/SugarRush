@@ -30,6 +30,6 @@ python3 data/create_data.py
 # Train and test SugarRush model on Mixed dataset fold0
 python3 main-opt.py --train_path datasets-mixed-fold0/train_data_13C.pickle --test_path_mo datasets-mixed-fold0/test_data_13C_mo.pickle --test_path_di datasets-mixed-fold0/test_data_13C_di.pickle --test_path_tri datasets-mixed-fold0/test_data_13C_tri.pickle --test_path_tetra datasets-mixed-fold0/test_data_13C_tetra.pickle --test_path_oligo datasets-mixed-fold0/test_data_13C_oligo.pickle --test_path_poly datasets-mixed-fold0/test_data_13C_poly.pickle
 
-# Run example web API and frontend (requires train_data_13C.pickle, train_data_1H.pickle, checkpoint-13C-casper.pkl, checkpoint-1H-casper.pkl, which can be renamed from the files generated in the above steps)
+# Run example web API and frontend (requires train_data_13C.pickle, train_data_1H.pickle, checkpoint-13C.pkl, checkpoint-1H.pkl, which can be renamed from the files generated in the above steps)
 gunicorn -w 1 -b 0.0.0.0:5000 web-example:app
 ```

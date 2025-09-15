@@ -75,9 +75,9 @@ model_13C.to(device=device)
 model_1H.to(device=device)
 
 print(f"INFO: loading state dicts for models...")
-model_13C.load_state_dict(torch.load("checkpoint-13C-casper.pkl", map_location=device))
+model_13C.load_state_dict(torch.load("checkpoint-13C.pkl", map_location=device))
 model_13C.eval()
-model_1H.load_state_dict(torch.load("checkpoint-1H-casper.pkl", map_location=device))
+model_1H.load_state_dict(torch.load("checkpoint-1H.pkl", map_location=device))
 model_1H.eval()
 
 print(f"INFO: creating Flask app...")
