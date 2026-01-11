@@ -1,5 +1,7 @@
 ## SugarRush
 
+This project was done as part of an Honour's degree in Computer Science at the Univerity of Cape Town, 2025.
+
 SugarRush extends the work done in GeqShift (arXiv:2311.12657), an E(3) equivariant graph neural network for carbohydrate nuclear magnetic resonance chemical shift prediction. SugarRush expands the dataset to improve generalization, optimizes the memory consumption of the model to enable more accessibility by lowering the need for specialized compute resources, and provides an example web API and frontend to allow for easier use by researchers and show how integration into web services might look like. SugarRush makes use of data from GlycoNMR and CSDB. The example web API and frontend uses 3Dmol.js: https://doi.org/10.1093/bioinformatics/btu829.
 
 ## Usage
